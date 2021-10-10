@@ -39,9 +39,10 @@ int main(int argc, char *argv[]) {
     container c;
     Init(c);
 
-    InRnd(c, 10000);
-    std::ofstream ofstr("..\\test.txt");
-    Out(c, ofstr);
+//    Код для проверки рандомной генерации программмы.    
+//    InRnd(c, 10000);
+//    std::ofstream ofstr("..\\test.txt");
+//    Out(c, ofstr);
 
     ////cout << "argv[1] = " << argv[1] << "\n";
     if (!strcmp(argv[1], "-f")) {
