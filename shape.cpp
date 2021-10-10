@@ -35,7 +35,7 @@ shape *In(ifstream &ifst) {
 // Случайный ввод обобщенной фигуры
 shape *InRnd() {
     shape *sp;
-    auto k = rand() % 2 + 1;
+    auto k = rand() % 3 + 1;
     switch (k) {
         case 1:
             sp = new shape;
