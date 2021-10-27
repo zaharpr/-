@@ -1,0 +1,17 @@
+Отчет с характеристиками
+
+shape.h (1279 байта)
+sphere.h (1014 байт)
+parallelepiped.h (1153 байт)
+tetrahedron.h (1095 байт)
+container.h (1357 байт)
+rnd.h (1065 байт)
+
+shape.cpp (1970 байт)
+sphere.cpp (598 байт)
+parallelepiped.cpp (932 байта)
+tetrahedron.cpp (661 байт)
+container.cpp (1698 байт)
+main.cpp (2253 байт)
+
+Всего: 15075 байт
