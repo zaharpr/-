@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zpris/CLionProjects/AVS-hw2/container.h
+figures/shape.h
+C:/Users/zpris/CLionProjects/AVS-hw2/figures/shape.h
+
+C:/Users/zpris/CLionProjects/AVS-hw2/figures/shape.h
+fstream
+-
+../rnd.h
+C:/Users/zpris/CLionProjects/AVS-hw2/rnd.h
+
+C:/Users/zpris/CLionProjects/AVS-hw2/main.cpp
+fstream
+-
+cstring
+-
+cstdlib
+-
+ctime
+-
+container.h
+C:/Users/zpris/CLionProjects/AVS-hw2/container.h
+
+C:/Users/zpris/CLionProjects/AVS-hw2/rnd.h
+stdlib.h
+C:/Users/zpris/CLionProjects/AVS-hw2/stdlib.h
+

@@ -1,0 +1,3 @@
+C:/Users/zpris/CLionProjects/AVS-hw2/cmake-build-debug/CMakeFiles/avs2.dir
+C:/Users/zpris/CLionProjects/AVS-hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zpris/CLionProjects/AVS-hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
