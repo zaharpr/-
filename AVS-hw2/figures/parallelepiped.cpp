@@ -6,7 +6,14 @@
 
 //------------------------------------------------------------------------------
 void Parallelepiped::In(FILE *ifst) {
-    if (fscanf(ifst, "%d %d %d", &a, &b, &c) != EOF) {}
+    int aValue;
+    int bValue;
+    int cValue;
+    if (fscanf(ifst, "%d%d%d", &aValue, &bValue, &cValue) != EOF) {
+        this->a = aValue;
+        this->b = bValue;
+        this->c = cValue;
+    }
 }
 
 void Parallelepiped::InRnd() {
@@ -21,6 +28,5 @@ void Parallelepiped::Out(FILE *ofst) {
 }
 
 double Parallelepiped::SurfaceArea() {
-    return (double) 2.0 * (a * b + b * c + a * c);
+    return (double) 2.0 * (this->a * this->b + this->b * this->c + this->a * this->c);
 }
-
