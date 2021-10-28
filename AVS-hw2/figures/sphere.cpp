@@ -6,7 +6,10 @@
 
 //------------------------------------------------------------------------------
 void Sphere::In(FILE *ifst) {
-    if (fscanf(ifst, "%d", &r) != EOF) {}
+    int rValue;
+    if (fscanf(ifst, "%d", &rValue) != EOF) {
+        this->r = rValue;
+    }
 }
 
 void Sphere::InRnd() {
@@ -19,5 +22,5 @@ void Sphere::Out(FILE *ofst) {
 }
 
 double Sphere::SurfaceArea() {
-    return (double) 4 * 3.1415 * r;
+    return (double) 4 * 3.1415 * this->r;
 }
