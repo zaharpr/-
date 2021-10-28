@@ -7,7 +7,10 @@
 
 //------------------------------------------------------------------------------
 void Tetrahedron::In(FILE *ifst) {
-    if (fscanf(ifst, "%d", &a) != EOF) {}
+    int aValue;
+    if (fscanf(ifst, "%d", &aValue) != EOF) {
+        this->a = aValue;
+    }
 }
 
 void Tetrahedron::InRnd() {
@@ -20,5 +23,5 @@ void Tetrahedron::Out(FILE *ofst) {
 }
 
 double Tetrahedron::SurfaceArea() {
-    return (double) std::sqrt(3) * a * a;
+    return (double) std::sqrt(3) * this->a * this->a;
 }
