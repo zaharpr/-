@@ -23,6 +23,7 @@ void Container::Clear() {
 }
 
 void Container::In(FILE *ifst) {
+
     while (!feof(ifst)) {
         if ((figures[length] = Shape::StaticIn(ifst)) != nullptr) { // 0 or nullptr
             length++;
@@ -48,24 +49,17 @@ void Container::Out(FILE *ofst) {
 
 void Container::ShellSort() {
     int i, j, step;
-    Shape *tmp1;
+    Shape *tmp;
     for (step = length / 2; step > 0; step /= 2) {
         for (i = step; i < length; i++) {
-            tmp1 = figures[i];
+            tmp = figures[i];
             for (j = i; j >= step; j -= step) {
-                if (tmp1 < figures[j - step])
+                if (tmp->SurfaceArea() > figures[j - step]->SurfaceArea())
                     figures[j] = figures[j - step];
                 else
                     break;
             }
-            figures[j] = tmp1;
+            figures[j] = tmp;
         }
-    }
-    Shape *tmp2;
-    for (int i = 0; i < length / 2; ++i) {
-        figures[i] = tmp2;
-        tmp2 = figures[length - i - 1];
-        figures[length - i - 1] = figures[i];
-        figures[i] = tmp2;
     }
 }
