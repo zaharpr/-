@@ -11,19 +11,19 @@
 // Класс фигуры - равностороннего тетраэдра.
 class Tetrahedron : public Shape {
 public:
-    virtual ~Tetrahedron() {}
+    ~Tetrahedron() {}
 
     // Ввод параметров тетраэдра из файла.
-    virtual void In(FILE *ifst);
+    void In(FILE *ifst);
 
     // Случайный ввод параметров тетраэдра.
-    virtual void InRnd();
+    void InRnd();
 
     // Вывод параметров тетраэдра в форматируемый поток.
-    virtual void Out(FILE *ofst);
+    void Out(FILE *ofst);
 
     // Вычисление периметра тетраэдра.
-    virtual double SurfaceArea();
+    double SurfaceArea();
 
 private:
     // Длина ребра.
