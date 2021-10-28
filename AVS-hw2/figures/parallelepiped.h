@@ -11,19 +11,19 @@
 // Класс фигуры - параллелепипеда.
 class Parallelepiped : public Shape {
 public:
-    virtual ~Parallelepiped() {}
+    ~Parallelepiped() {}
 
     // Ввод параметров параллелепипеда из файла.
-    virtual void In(FILE *ifst);
+    void In(FILE *ifst);
 
     // Случайный ввод параметров параллелепипеда.
-    virtual void InRnd();
+    void InRnd();
 
     // Вывод параметров параллелепипеда в форматируемый поток.
-    virtual void Out(FILE *ofst);
+    void Out(FILE *ofst);
 
     // Вычисление площади поверхности параллелепипеда.
-    virtual double SurfaceArea();
+    double SurfaceArea();
 
 private:
     // Длина, ширина, высота.
