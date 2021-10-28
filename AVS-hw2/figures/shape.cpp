@@ -13,12 +13,10 @@
 // Ввод параметров обобщенной фигуры из файла.
 Shape *Shape::StaticIn(FILE *ifst) {
     int type_of_shape;
-    if (fscanf(ifst, "%d", &type_of_shape) == EOF)
+    float densityValue;
+    if (fscanf(ifst, "%d%f", &type_of_shape, &densityValue) == EOF) {
         return nullptr;
-
-    double densityValue;
-    if (fscanf(ifst, "%f", densityValue) == EOF)
-        return nullptr;
+    }
 
     Shape *shape;
 
