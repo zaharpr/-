@@ -11,19 +11,19 @@
 // Класс фигуры - сферы.
 class Sphere : public Shape {
 public:
-    virtual ~Sphere() {}
+    ~Sphere() {}
 
     // Ввод параметров сферы из файла.
-    virtual void In(FILE *ifst);
+    void In(FILE *ifst);
 
     // Случайный ввод параметров сферы.
-    virtual void InRnd();
+    void InRnd();
 
     // Вывод параметров сферы в форматируемый поток.
-    virtual void Out(FILE *ofst);
+    void Out(FILE *ofst);
 
     // Вычисление периметра сферы.
-    virtual double SurfaceArea();
+    double SurfaceArea();
 
 private:
     // Радиус.
