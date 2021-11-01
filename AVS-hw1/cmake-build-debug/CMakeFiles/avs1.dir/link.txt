@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g   CMakeFiles/avs1.dir/figures/sphere.cpp.o CMakeFiles/avs1.dir/figures/shape.cpp.o CMakeFiles/avs1.dir/figures/parallelepiped.cpp.o CMakeFiles/avs1.dir/figures/tetrahedron.cpp.o CMakeFiles/avs1.dir/container.cpp.o CMakeFiles/avs1.dir/main.cpp.o  -o ../bin/avs1 
