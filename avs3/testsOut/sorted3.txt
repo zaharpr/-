@@ -1,9 +1,0 @@
-Container contains 8 elements:
-1: It is a tetrahedron, a = 22, density = 6.48, surface area = 838.3125908633366
-2: It is a parallelepiped, a = 13, b = 4, c = 2, density = 14.5, surface area = 172.0
-3: It is a sphere, r = 9, density = 8.3, surface area = 113.09400000000001
-4: It is a tetrahedron, a = 8, density = 5.13, surface area = 110.85125168440814
-5: It is a parallelepiped, a = 6, b = 4, c = 2, density = 1.12, surface area = 88.0
-6: It is a tetrahedron, a = 3, density = 7.788, surface area = 15.588457268119896
-7: It is a sphere, r = 1, density = 15.28, surface area = 12.566
-8: It is a tetrahedron, a = 2, density = 0.5, surface area = 6.928203230275509
