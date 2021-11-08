@@ -1,0 +1,1001 @@
+Filled container:
+Container contains 1000 elements.0: It is Parallelepiped: a = 15, b = 10, c = 6. SurfaceArea = 600.000000.
+1: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+2: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+3: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+4: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+5: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+6: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+7: It is Sphere: r = 10. SurfaceArea = 125.660000.
+8: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+9: It is Parallelepiped: a = 1, b = 3, c = 15. SurfaceArea = 126.000000.
+10: It is Parallelepiped: a = 16, b = 4, c = 18. SurfaceArea = 848.000000.
+11: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+12: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+13: It is Sphere: r = 17. SurfaceArea = 213.622000.
+14: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+15: It is Parallelepiped: a = 4, b = 9, c = 17. SurfaceArea = 514.000000.
+16: It is Sphere: r = 14. SurfaceArea = 175.924000.
+17: It is Parallelepiped: a = 14, b = 7, c = 9. SurfaceArea = 574.000000.
+18: It is Parallelepiped: a = 20, b = 3, c = 4. SurfaceArea = 304.000000.
+19: It is Sphere: r = 19. SurfaceArea = 238.754000.
+20: It is Parallelepiped: a = 8, b = 5, c = 20. SurfaceArea = 600.000000.
+21: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+22: It is Parallelepiped: a = 3, b = 19, c = 13. SurfaceArea = 686.000000.
+23: It is Parallelepiped: a = 17, b = 18, c = 13. SurfaceArea = 1522.000000.
+24: It is Parallelepiped: a = 6, b = 10, c = 4. SurfaceArea = 248.000000.
+25: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+26: It is Sphere: r = 12. SurfaceArea = 150.792000.
+27: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+28: It is Parallelepiped: a = 13, b = 20, c = 5. SurfaceArea = 850.000000.
+29: It is Sphere: r = 18. SurfaceArea = 226.188000.
+30: It is Parallelepiped: a = 9, b = 13, c = 14. SurfaceArea = 850.000000.
+31: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+32: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+33: It is Parallelepiped: a = 1, b = 2, c = 12. SurfaceArea = 76.000000.
+34: It is Parallelepiped: a = 12, b = 7, c = 3. SurfaceArea = 282.000000.
+35: It is Parallelepiped: a = 3, b = 14, c = 15. SurfaceArea = 594.000000.
+36: It is Parallelepiped: a = 19, b = 11, c = 7. SurfaceArea = 838.000000.
+37: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+38: It is Sphere: r = 2. SurfaceArea = 25.132000.
+39: It is Parallelepiped: a = 2, b = 9, c = 6. SurfaceArea = 168.000000.
+40: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+41: It is Sphere: r = 2. SurfaceArea = 25.132000.
+42: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+43: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+44: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+45: It is Parallelepiped: a = 20, b = 5, c = 20. SurfaceArea = 1200.000000.
+46: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+47: It is Sphere: r = 8. SurfaceArea = 100.528000.
+48: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+49: It is Sphere: r = 19. SurfaceArea = 238.754000.
+50: It is Parallelepiped: a = 11, b = 2, c = 4. SurfaceArea = 148.000000.
+51: It is Sphere: r = 3. SurfaceArea = 37.698000.
+52: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+53: It is Sphere: r = 6. SurfaceArea = 75.396000.
+54: It is Parallelepiped: a = 5, b = 8, c = 14. SurfaceArea = 444.000000.
+55: It is Parallelepiped: a = 12, b = 4, c = 3. SurfaceArea = 192.000000.
+56: It is Parallelepiped: a = 10, b = 20, c = 13. SurfaceArea = 1180.000000.
+57: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+58: It is Sphere: r = 15. SurfaceArea = 188.490000.
+59: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+60: It is Sphere: r = 18. SurfaceArea = 226.188000.
+61: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+62: It is Parallelepiped: a = 1, b = 11, c = 19. SurfaceArea = 478.000000.
+63: It is Sphere: r = 7. SurfaceArea = 87.962000.
+64: It is Sphere: r = 10. SurfaceArea = 125.660000.
+65: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+66: It is Parallelepiped: a = 16, b = 10, c = 6. SurfaceArea = 632.000000.
+67: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+68: It is Parallelepiped: a = 4, b = 17, c = 1. SurfaceArea = 178.000000.
+69: It is Parallelepiped: a = 18, b = 19, c = 4. SurfaceArea = 980.000000.
+70: It is Parallelepiped: a = 14, b = 20, c = 17. SurfaceArea = 1716.000000.
+71: It is Sphere: r = 14. SurfaceArea = 175.924000.
+72: It is Parallelepiped: a = 2, b = 7, c = 17. SurfaceArea = 334.000000.
+73: It is Parallelepiped: a = 4, b = 3, c = 17. SurfaceArea = 262.000000.
+74: It is Sphere: r = 9. SurfaceArea = 113.094000.
+75: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+76: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+77: It is Parallelepiped: a = 15, b = 8, c = 9. SurfaceArea = 654.000000.
+78: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+79: It is Parallelepiped: a = 17, b = 7, c = 4. SurfaceArea = 430.000000.
+80: It is Parallelepiped: a = 10, b = 12, c = 20. SurfaceArea = 1120.000000.
+81: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+82: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+83: It is Sphere: r = 8. SurfaceArea = 100.528000.
+84: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+85: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+86: It is Parallelepiped: a = 6, b = 12, c = 8. SurfaceArea = 432.000000.
+87: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+88: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+89: It is Parallelepiped: a = 10, b = 20, c = 2. SurfaceArea = 520.000000.
+90: It is Parallelepiped: a = 3, b = 14, c = 20. SurfaceArea = 764.000000.
+91: It is Sphere: r = 2. SurfaceArea = 25.132000.
+92: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+93: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+94: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+95: It is Parallelepiped: a = 19, b = 9, c = 9. SurfaceArea = 846.000000.
+96: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+97: It is Parallelepiped: a = 13, b = 13, c = 10. SurfaceArea = 858.000000.
+98: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+99: It is Sphere: r = 15. SurfaceArea = 188.490000.
+100: It is Sphere: r = 8. SurfaceArea = 100.528000.
+101: It is Sphere: r = 1. SurfaceArea = 12.566000.
+102: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+103: It is Sphere: r = 9. SurfaceArea = 113.094000.
+104: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+105: It is Sphere: r = 10. SurfaceArea = 125.660000.
+106: It is Sphere: r = 13. SurfaceArea = 163.358000.
+107: It is Sphere: r = 17. SurfaceArea = 213.622000.
+108: It is Parallelepiped: a = 2, b = 11, c = 19. SurfaceArea = 538.000000.
+109: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+110: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+111: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+112: It is Sphere: r = 19. SurfaceArea = 238.754000.
+113: It is Parallelepiped: a = 13, b = 18, c = 8. SurfaceArea = 964.000000.
+114: It is Sphere: r = 9. SurfaceArea = 113.094000.
+115: It is Sphere: r = 13. SurfaceArea = 163.358000.
+116: It is Parallelepiped: a = 9, b = 3, c = 11. SurfaceArea = 318.000000.
+117: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+118: It is Sphere: r = 12. SurfaceArea = 150.792000.
+119: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+120: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+121: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+122: It is Sphere: r = 2. SurfaceArea = 25.132000.
+123: It is Sphere: r = 9. SurfaceArea = 113.094000.
+124: It is Parallelepiped: a = 3, b = 14, c = 18. SurfaceArea = 696.000000.
+125: It is Sphere: r = 6. SurfaceArea = 75.396000.
+126: It is Parallelepiped: a = 16, b = 10, c = 13. SurfaceArea = 996.000000.
+127: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+128: It is Parallelepiped: a = 20, b = 5, c = 2. SurfaceArea = 300.000000.
+129: It is Parallelepiped: a = 9, b = 1, c = 10. SurfaceArea = 218.000000.
+130: It is Sphere: r = 14. SurfaceArea = 175.924000.
+131: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+132: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+133: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+134: It is Parallelepiped: a = 5, b = 7, c = 6. SurfaceArea = 214.000000.
+135: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+136: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+137: It is Sphere: r = 1. SurfaceArea = 12.566000.
+138: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+139: It is Sphere: r = 5. SurfaceArea = 62.830000.
+140: It is Parallelepiped: a = 18, b = 6, c = 17. SurfaceArea = 1032.000000.
+141: It is Parallelepiped: a = 17, b = 17, c = 20. SurfaceArea = 1938.000000.
+142: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+143: It is Parallelepiped: a = 9, b = 16, c = 9. SurfaceArea = 738.000000.
+144: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+145: It is Parallelepiped: a = 13, b = 7, c = 10. SurfaceArea = 582.000000.
+146: It is Sphere: r = 8. SurfaceArea = 100.528000.
+147: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+148: It is Parallelepiped: a = 4, b = 10, c = 3. SurfaceArea = 164.000000.
+149: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+150: It is Parallelepiped: a = 10, b = 12, c = 6. SurfaceArea = 504.000000.
+151: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+152: It is Sphere: r = 5. SurfaceArea = 62.830000.
+153: It is Sphere: r = 20. SurfaceArea = 251.320000.
+154: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+155: It is Sphere: r = 8. SurfaceArea = 100.528000.
+156: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+157: It is Parallelepiped: a = 2, b = 18, c = 8. SurfaceArea = 392.000000.
+158: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+159: It is Sphere: r = 19. SurfaceArea = 238.754000.
+160: It is Parallelepiped: a = 3, b = 20, c = 9. SurfaceArea = 534.000000.
+161: It is Parallelepiped: a = 13, b = 19, c = 8. SurfaceArea = 1006.000000.
+162: It is Sphere: r = 11. SurfaceArea = 138.226000.
+163: It is Sphere: r = 1. SurfaceArea = 12.566000.
+164: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+165: It is Sphere: r = 7. SurfaceArea = 87.962000.
+166: It is Sphere: r = 14. SurfaceArea = 175.924000.
+167: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+168: It is Parallelepiped: a = 2, b = 1, c = 2. SurfaceArea = 16.000000.
+169: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+170: It is Sphere: r = 3. SurfaceArea = 37.698000.
+171: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+172: It is Sphere: r = 14. SurfaceArea = 175.924000.
+173: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+174: It is Sphere: r = 13. SurfaceArea = 163.358000.
+175: It is Parallelepiped: a = 18, b = 9, c = 10. SurfaceArea = 864.000000.
+176: It is Sphere: r = 5. SurfaceArea = 62.830000.
+177: It is Parallelepiped: a = 18, b = 17, c = 7. SurfaceArea = 1102.000000.
+178: It is Parallelepiped: a = 17, b = 6, c = 3. SurfaceArea = 342.000000.
+179: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+180: It is Parallelepiped: a = 3, b = 15, c = 8. SurfaceArea = 378.000000.
+181: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+182: It is Parallelepiped: a = 18, b = 17, c = 16. SurfaceArea = 1732.000000.
+183: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+184: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+185: It is Sphere: r = 3. SurfaceArea = 37.698000.
+186: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+187: It is Parallelepiped: a = 5, b = 1, c = 12. SurfaceArea = 154.000000.
+188: It is Sphere: r = 5. SurfaceArea = 62.830000.
+189: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+190: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+191: It is Sphere: r = 2. SurfaceArea = 25.132000.
+192: It is Sphere: r = 19. SurfaceArea = 238.754000.
+193: It is Sphere: r = 4. SurfaceArea = 50.264000.
+194: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+195: It is Sphere: r = 7. SurfaceArea = 87.962000.
+196: It is Sphere: r = 16. SurfaceArea = 201.056000.
+197: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+198: It is Parallelepiped: a = 17, b = 17, c = 5. SurfaceArea = 918.000000.
+199: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+200: It is Sphere: r = 6. SurfaceArea = 75.396000.
+201: It is Sphere: r = 15. SurfaceArea = 188.490000.
+202: It is Sphere: r = 9. SurfaceArea = 113.094000.
+203: It is Sphere: r = 4. SurfaceArea = 50.264000.
+204: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+205: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+206: It is Parallelepiped: a = 3, b = 13, c = 5. SurfaceArea = 238.000000.
+207: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+208: It is Sphere: r = 16. SurfaceArea = 201.056000.
+209: It is Parallelepiped: a = 10, b = 1, c = 14. SurfaceArea = 328.000000.
+210: It is Parallelepiped: a = 8, b = 2, c = 13. SurfaceArea = 292.000000.
+211: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+212: It is Sphere: r = 11. SurfaceArea = 138.226000.
+213: It is Sphere: r = 5. SurfaceArea = 62.830000.
+214: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+215: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+216: It is Sphere: r = 14. SurfaceArea = 175.924000.
+217: It is Parallelepiped: a = 10, b = 13, c = 10. SurfaceArea = 720.000000.
+218: It is Sphere: r = 4. SurfaceArea = 50.264000.
+219: It is Parallelepiped: a = 11, b = 15, c = 15. SurfaceArea = 1110.000000.
+220: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+221: It is Sphere: r = 20. SurfaceArea = 251.320000.
+222: It is Sphere: r = 4. SurfaceArea = 50.264000.
+223: It is Parallelepiped: a = 10, b = 1, c = 4. SurfaceArea = 108.000000.
+224: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+225: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+226: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+227: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+228: It is Sphere: r = 11. SurfaceArea = 138.226000.
+229: It is Sphere: r = 1. SurfaceArea = 12.566000.
+230: It is Parallelepiped: a = 2, b = 7, c = 8. SurfaceArea = 172.000000.
+231: It is Sphere: r = 3. SurfaceArea = 37.698000.
+232: It is Parallelepiped: a = 12, b = 8, c = 14. SurfaceArea = 752.000000.
+233: It is Sphere: r = 16. SurfaceArea = 201.056000.
+234: It is Sphere: r = 11. SurfaceArea = 138.226000.
+235: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+236: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+237: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+238: It is Sphere: r = 7. SurfaceArea = 87.962000.
+239: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+240: It is Sphere: r = 12. SurfaceArea = 150.792000.
+241: It is Parallelepiped: a = 11, b = 9, c = 17. SurfaceArea = 878.000000.
+242: It is Parallelepiped: a = 3, b = 12, c = 9. SurfaceArea = 342.000000.
+243: It is Parallelepiped: a = 19, b = 20, c = 15. SurfaceArea = 1930.000000.
+244: It is Sphere: r = 5. SurfaceArea = 62.830000.
+245: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+246: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+247: It is Sphere: r = 6. SurfaceArea = 75.396000.
+248: It is Sphere: r = 8. SurfaceArea = 100.528000.
+249: It is Sphere: r = 13. SurfaceArea = 163.358000.
+250: It is Parallelepiped: a = 1, b = 17, c = 2. SurfaceArea = 106.000000.
+251: It is Sphere: r = 10. SurfaceArea = 125.660000.
+252: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+253: It is Sphere: r = 6. SurfaceArea = 75.396000.
+254: It is Sphere: r = 8. SurfaceArea = 100.528000.
+255: It is Sphere: r = 7. SurfaceArea = 87.962000.
+256: It is Sphere: r = 1. SurfaceArea = 12.566000.
+257: It is Sphere: r = 7. SurfaceArea = 87.962000.
+258: It is Sphere: r = 4. SurfaceArea = 50.264000.
+259: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+260: It is Sphere: r = 12. SurfaceArea = 150.792000.
+261: It is Parallelepiped: a = 12, b = 5, c = 13. SurfaceArea = 562.000000.
+262: It is Sphere: r = 10. SurfaceArea = 125.660000.
+263: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+264: It is Sphere: r = 17. SurfaceArea = 213.622000.
+265: It is Sphere: r = 17. SurfaceArea = 213.622000.
+266: It is Parallelepiped: a = 18, b = 20, c = 19. SurfaceArea = 2164.000000.
+267: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+268: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+269: It is Sphere: r = 20. SurfaceArea = 251.320000.
+270: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+271: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+272: It is Sphere: r = 5. SurfaceArea = 62.830000.
+273: It is Parallelepiped: a = 15, b = 16, c = 14. SurfaceArea = 1348.000000.
+274: It is Sphere: r = 10. SurfaceArea = 125.660000.
+275: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+276: It is Sphere: r = 12. SurfaceArea = 150.792000.
+277: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+278: It is Sphere: r = 19. SurfaceArea = 238.754000.
+279: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+280: It is Parallelepiped: a = 17, b = 13, c = 7. SurfaceArea = 862.000000.
+281: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+282: It is Sphere: r = 18. SurfaceArea = 226.188000.
+283: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+284: It is Parallelepiped: a = 1, b = 3, c = 4. SurfaceArea = 38.000000.
+285: It is Sphere: r = 7. SurfaceArea = 87.962000.
+286: It is Sphere: r = 4. SurfaceArea = 50.264000.
+287: It is Parallelepiped: a = 15, b = 14, c = 20. SurfaceArea = 1580.000000.
+288: It is Parallelepiped: a = 6, b = 6, c = 10. SurfaceArea = 312.000000.
+289: It is Parallelepiped: a = 3, b = 4, c = 18. SurfaceArea = 276.000000.
+290: It is Sphere: r = 13. SurfaceArea = 163.358000.
+291: It is Parallelepiped: a = 1, b = 15, c = 18. SurfaceArea = 606.000000.
+292: It is Sphere: r = 4. SurfaceArea = 50.264000.
+293: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+294: It is Parallelepiped: a = 10, b = 11, c = 6. SurfaceArea = 472.000000.
+295: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+296: It is Parallelepiped: a = 20, b = 2, c = 20. SurfaceArea = 960.000000.
+297: It is Parallelepiped: a = 3, b = 11, c = 20. SurfaceArea = 626.000000.
+298: It is Sphere: r = 11. SurfaceArea = 138.226000.
+299: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+300: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+301: It is Sphere: r = 14. SurfaceArea = 175.924000.
+302: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+303: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+304: It is Parallelepiped: a = 8, b = 1, c = 19. SurfaceArea = 358.000000.
+305: It is Parallelepiped: a = 18, b = 20, c = 9. SurfaceArea = 1404.000000.
+306: It is Sphere: r = 1. SurfaceArea = 12.566000.
+307: It is Parallelepiped: a = 3, b = 18, c = 20. SurfaceArea = 948.000000.
+308: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+309: It is Sphere: r = 7. SurfaceArea = 87.962000.
+310: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+311: It is Parallelepiped: a = 1, b = 1, c = 3. SurfaceArea = 14.000000.
+312: It is Sphere: r = 15. SurfaceArea = 188.490000.
+313: It is Sphere: r = 8. SurfaceArea = 100.528000.
+314: It is Sphere: r = 9. SurfaceArea = 113.094000.
+315: It is Parallelepiped: a = 9, b = 18, c = 17. SurfaceArea = 1242.000000.
+316: It is Sphere: r = 16. SurfaceArea = 201.056000.
+317: It is Sphere: r = 17. SurfaceArea = 213.622000.
+318: It is Parallelepiped: a = 4, b = 20, c = 14. SurfaceArea = 832.000000.
+319: It is Sphere: r = 8. SurfaceArea = 100.528000.
+320: It is Parallelepiped: a = 3, b = 19, c = 10. SurfaceArea = 554.000000.
+321: It is Parallelepiped: a = 8, b = 17, c = 1. SurfaceArea = 322.000000.
+322: It is Parallelepiped: a = 1, b = 17, c = 5. SurfaceArea = 214.000000.
+323: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+324: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+325: It is Parallelepiped: a = 4, b = 18, c = 12. SurfaceArea = 672.000000.
+326: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+327: It is Sphere: r = 11. SurfaceArea = 138.226000.
+328: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+329: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+330: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+331: It is Parallelepiped: a = 2, b = 7, c = 9. SurfaceArea = 190.000000.
+332: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+333: It is Parallelepiped: a = 2, b = 9, c = 10. SurfaceArea = 256.000000.
+334: It is Parallelepiped: a = 13, b = 4, c = 1. SurfaceArea = 138.000000.
+335: It is Parallelepiped: a = 3, b = 12, c = 1. SurfaceArea = 102.000000.
+336: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+337: It is Parallelepiped: a = 9, b = 16, c = 15. SurfaceArea = 1038.000000.
+338: It is Sphere: r = 17. SurfaceArea = 213.622000.
+339: It is Parallelepiped: a = 19, b = 19, c = 15. SurfaceArea = 1862.000000.
+340: It is Parallelepiped: a = 8, b = 9, c = 2. SurfaceArea = 212.000000.
+341: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+342: It is Parallelepiped: a = 8, b = 7, c = 13. SurfaceArea = 502.000000.
+343: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+344: It is Parallelepiped: a = 17, b = 8, c = 15. SurfaceArea = 1022.000000.
+345: It is Parallelepiped: a = 5, b = 4, c = 19. SurfaceArea = 382.000000.
+346: It is Sphere: r = 9. SurfaceArea = 113.094000.
+347: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+348: It is Parallelepiped: a = 18, b = 6, c = 14. SurfaceArea = 888.000000.
+349: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+350: It is Parallelepiped: a = 11, b = 10, c = 13. SurfaceArea = 766.000000.
+351: It is Parallelepiped: a = 8, b = 15, c = 16. SurfaceArea = 976.000000.
+352: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+353: It is Parallelepiped: a = 3, b = 15, c = 6. SurfaceArea = 306.000000.
+354: It is Sphere: r = 18. SurfaceArea = 226.188000.
+355: It is Parallelepiped: a = 9, b = 16, c = 13. SurfaceArea = 938.000000.
+356: It is Parallelepiped: a = 20, b = 17, c = 5. SurfaceArea = 1050.000000.
+357: It is Sphere: r = 15. SurfaceArea = 188.490000.
+358: It is Parallelepiped: a = 16, b = 17, c = 19. SurfaceArea = 1798.000000.
+359: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+360: It is Sphere: r = 2. SurfaceArea = 25.132000.
+361: It is Sphere: r = 8. SurfaceArea = 100.528000.
+362: It is Sphere: r = 3. SurfaceArea = 37.698000.
+363: It is Parallelepiped: a = 19, b = 9, c = 17. SurfaceArea = 1294.000000.
+364: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+365: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+366: It is Sphere: r = 20. SurfaceArea = 251.320000.
+367: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+368: It is Sphere: r = 16. SurfaceArea = 201.056000.
+369: It is Sphere: r = 17. SurfaceArea = 213.622000.
+370: It is Sphere: r = 3. SurfaceArea = 37.698000.
+371: It is Sphere: r = 6. SurfaceArea = 75.396000.
+372: It is Sphere: r = 6. SurfaceArea = 75.396000.
+373: It is Parallelepiped: a = 6, b = 8, c = 15. SurfaceArea = 516.000000.
+374: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+375: It is Parallelepiped: a = 19, b = 16, c = 13. SurfaceArea = 1518.000000.
+376: It is Sphere: r = 7. SurfaceArea = 87.962000.
+377: It is Parallelepiped: a = 15, b = 16, c = 4. SurfaceArea = 728.000000.
+378: It is Parallelepiped: a = 4, b = 5, c = 4. SurfaceArea = 112.000000.
+379: It is Sphere: r = 15. SurfaceArea = 188.490000.
+380: It is Sphere: r = 6. SurfaceArea = 75.396000.
+381: It is Parallelepiped: a = 5, b = 10, c = 12. SurfaceArea = 460.000000.
+382: It is Sphere: r = 6. SurfaceArea = 75.396000.
+383: It is Sphere: r = 1. SurfaceArea = 12.566000.
+384: It is Sphere: r = 12. SurfaceArea = 150.792000.
+385: It is Sphere: r = 17. SurfaceArea = 213.622000.
+386: It is Sphere: r = 1. SurfaceArea = 12.566000.
+387: It is Sphere: r = 16. SurfaceArea = 201.056000.
+388: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+389: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+390: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+391: It is Sphere: r = 17. SurfaceArea = 213.622000.
+392: It is Parallelepiped: a = 14, b = 1, c = 14. SurfaceArea = 448.000000.
+393: It is Parallelepiped: a = 2, b = 20, c = 17. SurfaceArea = 828.000000.
+394: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+395: It is Sphere: r = 6. SurfaceArea = 75.396000.
+396: It is Sphere: r = 13. SurfaceArea = 163.358000.
+397: It is Parallelepiped: a = 10, b = 1, c = 13. SurfaceArea = 306.000000.
+398: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+399: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+400: It is Sphere: r = 14. SurfaceArea = 175.924000.
+401: It is Sphere: r = 20. SurfaceArea = 251.320000.
+402: It is Parallelepiped: a = 13, b = 4, c = 9. SurfaceArea = 410.000000.
+403: It is Parallelepiped: a = 14, b = 18, c = 16. SurfaceArea = 1528.000000.
+404: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+405: It is Parallelepiped: a = 7, b = 12, c = 8. SurfaceArea = 472.000000.
+406: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+407: It is Sphere: r = 7. SurfaceArea = 87.962000.
+408: It is Parallelepiped: a = 13, b = 7, c = 7. SurfaceArea = 462.000000.
+409: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+410: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+411: It is Sphere: r = 13. SurfaceArea = 163.358000.
+412: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+413: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+414: It is Sphere: r = 10. SurfaceArea = 125.660000.
+415: It is Sphere: r = 1. SurfaceArea = 12.566000.
+416: It is Sphere: r = 17. SurfaceArea = 213.622000.
+417: It is Sphere: r = 18. SurfaceArea = 226.188000.
+418: It is Parallelepiped: a = 4, b = 10, c = 15. SurfaceArea = 500.000000.
+419: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+420: It is Sphere: r = 15. SurfaceArea = 188.490000.
+421: It is Parallelepiped: a = 6, b = 7, c = 4. SurfaceArea = 188.000000.
+422: It is Sphere: r = 7. SurfaceArea = 87.962000.
+423: It is Sphere: r = 17. SurfaceArea = 213.622000.
+424: It is Sphere: r = 17. SurfaceArea = 213.622000.
+425: It is Sphere: r = 5. SurfaceArea = 62.830000.
+426: It is Parallelepiped: a = 14, b = 13, c = 1. SurfaceArea = 418.000000.
+427: It is Sphere: r = 15. SurfaceArea = 188.490000.
+428: It is Sphere: r = 11. SurfaceArea = 138.226000.
+429: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+430: It is Parallelepiped: a = 2, b = 9, c = 17. SurfaceArea = 410.000000.
+431: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+432: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+433: It is Sphere: r = 7. SurfaceArea = 87.962000.
+434: It is Parallelepiped: a = 4, b = 11, c = 17. SurfaceArea = 598.000000.
+435: It is Sphere: r = 17. SurfaceArea = 213.622000.
+436: It is Parallelepiped: a = 11, b = 14, c = 5. SurfaceArea = 558.000000.
+437: It is Sphere: r = 14. SurfaceArea = 175.924000.
+438: It is Parallelepiped: a = 14, b = 10, c = 6. SurfaceArea = 568.000000.
+439: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+440: It is Sphere: r = 15. SurfaceArea = 188.490000.
+441: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+442: It is Parallelepiped: a = 9, b = 9, c = 14. SurfaceArea = 666.000000.
+443: It is Sphere: r = 9. SurfaceArea = 113.094000.
+444: It is Sphere: r = 9. SurfaceArea = 113.094000.
+445: It is Sphere: r = 13. SurfaceArea = 163.358000.
+446: It is Parallelepiped: a = 6, b = 15, c = 16. SurfaceArea = 852.000000.
+447: It is Parallelepiped: a = 1, b = 5, c = 4. SurfaceArea = 58.000000.
+448: It is Parallelepiped: a = 16, b = 6, c = 8. SurfaceArea = 544.000000.
+449: It is Parallelepiped: a = 13, b = 10, c = 11. SurfaceArea = 766.000000.
+450: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+451: It is Parallelepiped: a = 7, b = 15, c = 4. SurfaceArea = 386.000000.
+452: It is Sphere: r = 16. SurfaceArea = 201.056000.
+453: It is Parallelepiped: a = 14, b = 1, c = 4. SurfaceArea = 148.000000.
+454: It is Parallelepiped: a = 16, b = 1, c = 19. SurfaceArea = 678.000000.
+455: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+456: It is Sphere: r = 12. SurfaceArea = 150.792000.
+457: It is Sphere: r = 1. SurfaceArea = 12.566000.
+458: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+459: It is Parallelepiped: a = 11, b = 1, c = 15. SurfaceArea = 382.000000.
+460: It is Parallelepiped: a = 4, b = 10, c = 19. SurfaceArea = 612.000000.
+461: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+462: It is Parallelepiped: a = 6, b = 2, c = 11. SurfaceArea = 200.000000.
+463: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+464: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+465: It is Sphere: r = 4. SurfaceArea = 50.264000.
+466: It is Sphere: r = 8. SurfaceArea = 100.528000.
+467: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+468: It is Parallelepiped: a = 3, b = 12, c = 4. SurfaceArea = 192.000000.
+469: It is Parallelepiped: a = 15, b = 18, c = 7. SurfaceArea = 1002.000000.
+470: It is Sphere: r = 9. SurfaceArea = 113.094000.
+471: It is Parallelepiped: a = 20, b = 10, c = 10. SurfaceArea = 1000.000000.
+472: It is Parallelepiped: a = 3, b = 3, c = 2. SurfaceArea = 42.000000.
+473: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+474: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+475: It is Parallelepiped: a = 4, b = 4, c = 8. SurfaceArea = 160.000000.
+476: It is Parallelepiped: a = 14, b = 12, c = 1. SurfaceArea = 388.000000.
+477: It is Sphere: r = 18. SurfaceArea = 226.188000.
+478: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+479: It is Sphere: r = 1. SurfaceArea = 12.566000.
+480: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+481: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+482: It is Parallelepiped: a = 18, b = 17, c = 9. SurfaceArea = 1242.000000.
+483: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+484: It is Sphere: r = 13. SurfaceArea = 163.358000.
+485: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+486: It is Parallelepiped: a = 13, b = 5, c = 4. SurfaceArea = 274.000000.
+487: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+488: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+489: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+490: It is Parallelepiped: a = 10, b = 3, c = 4. SurfaceArea = 164.000000.
+491: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+492: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+493: It is Sphere: r = 10. SurfaceArea = 125.660000.
+494: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+495: It is Parallelepiped: a = 20, b = 3, c = 1. SurfaceArea = 166.000000.
+496: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+497: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+498: It is Parallelepiped: a = 10, b = 9, c = 20. SurfaceArea = 940.000000.
+499: It is Parallelepiped: a = 4, b = 10, c = 14. SurfaceArea = 472.000000.
+500: It is Sphere: r = 17. SurfaceArea = 213.622000.
+501: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+502: It is Parallelepiped: a = 5, b = 4, c = 1. SurfaceArea = 58.000000.
+503: It is Sphere: r = 3. SurfaceArea = 37.698000.
+504: It is Sphere: r = 20. SurfaceArea = 251.320000.
+505: It is Sphere: r = 8. SurfaceArea = 100.528000.
+506: It is Sphere: r = 15. SurfaceArea = 188.490000.
+507: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+508: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+509: It is Parallelepiped: a = 8, b = 12, c = 4. SurfaceArea = 352.000000.
+510: It is Parallelepiped: a = 17, b = 7, c = 7. SurfaceArea = 574.000000.
+511: It is Parallelepiped: a = 20, b = 15, c = 4. SurfaceArea = 880.000000.
+512: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+513: It is Parallelepiped: a = 14, b = 12, c = 16. SurfaceArea = 1168.000000.
+514: It is Parallelepiped: a = 14, b = 18, c = 4. SurfaceArea = 760.000000.
+515: It is Parallelepiped: a = 4, b = 11, c = 19. SurfaceArea = 658.000000.
+516: It is Sphere: r = 2. SurfaceArea = 25.132000.
+517: It is Parallelepiped: a = 10, b = 11, c = 4. SurfaceArea = 388.000000.
+518: It is Sphere: r = 3. SurfaceArea = 37.698000.
+519: It is Sphere: r = 16. SurfaceArea = 201.056000.
+520: It is Parallelepiped: a = 1, b = 9, c = 4. SurfaceArea = 98.000000.
+521: It is Parallelepiped: a = 11, b = 2, c = 10. SurfaceArea = 304.000000.
+522: It is Parallelepiped: a = 3, b = 12, c = 12. SurfaceArea = 432.000000.
+523: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+524: It is Parallelepiped: a = 11, b = 14, c = 4. SurfaceArea = 508.000000.
+525: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+526: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+527: It is Sphere: r = 5. SurfaceArea = 62.830000.
+528: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+529: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+530: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+531: It is Sphere: r = 16. SurfaceArea = 201.056000.
+532: It is Parallelepiped: a = 20, b = 13, c = 1. SurfaceArea = 586.000000.
+533: It is Sphere: r = 11. SurfaceArea = 138.226000.
+534: It is Sphere: r = 4. SurfaceArea = 50.264000.
+535: It is Parallelepiped: a = 1, b = 10, c = 19. SurfaceArea = 438.000000.
+536: It is Parallelepiped: a = 15, b = 6, c = 18. SurfaceArea = 936.000000.
+537: It is Parallelepiped: a = 11, b = 12, c = 12. SurfaceArea = 816.000000.
+538: It is Sphere: r = 12. SurfaceArea = 150.792000.
+539: It is Parallelepiped: a = 15, b = 6, c = 13. SurfaceArea = 726.000000.
+540: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+541: It is Parallelepiped: a = 19, b = 18, c = 4. SurfaceArea = 980.000000.
+542: It is Sphere: r = 4. SurfaceArea = 50.264000.
+543: It is Parallelepiped: a = 8, b = 14, c = 15. SurfaceArea = 884.000000.
+544: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+545: It is Parallelepiped: a = 17, b = 19, c = 2. SurfaceArea = 790.000000.
+546: It is Sphere: r = 2. SurfaceArea = 25.132000.
+547: It is Sphere: r = 19. SurfaceArea = 238.754000.
+548: It is Parallelepiped: a = 17, b = 19, c = 10. SurfaceArea = 1366.000000.
+549: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+550: It is Sphere: r = 1. SurfaceArea = 12.566000.
+551: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+552: It is Sphere: r = 14. SurfaceArea = 175.924000.
+553: It is Sphere: r = 19. SurfaceArea = 238.754000.
+554: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+555: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+556: It is Sphere: r = 11. SurfaceArea = 138.226000.
+557: It is Parallelepiped: a = 13, b = 20, c = 13. SurfaceArea = 1378.000000.
+558: It is Sphere: r = 9. SurfaceArea = 113.094000.
+559: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+560: It is Parallelepiped: a = 4, b = 3, c = 8. SurfaceArea = 136.000000.
+561: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+562: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+563: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+564: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+565: It is Sphere: r = 2. SurfaceArea = 25.132000.
+566: It is Parallelepiped: a = 14, b = 17, c = 6. SurfaceArea = 848.000000.
+567: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+568: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+569: It is Sphere: r = 18. SurfaceArea = 226.188000.
+570: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+571: It is Sphere: r = 14. SurfaceArea = 175.924000.
+572: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+573: It is Sphere: r = 18. SurfaceArea = 226.188000.
+574: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+575: It is Parallelepiped: a = 7, b = 20, c = 14. SurfaceArea = 1036.000000.
+576: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+577: It is Parallelepiped: a = 3, b = 9, c = 13. SurfaceArea = 366.000000.
+578: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+579: It is Parallelepiped: a = 16, b = 6, c = 20. SurfaceArea = 1072.000000.
+580: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+581: It is Parallelepiped: a = 3, b = 2, c = 12. SurfaceArea = 132.000000.
+582: It is Sphere: r = 10. SurfaceArea = 125.660000.
+583: It is Parallelepiped: a = 9, b = 11, c = 16. SurfaceArea = 838.000000.
+584: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+585: It is Sphere: r = 17. SurfaceArea = 213.622000.
+586: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+587: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+588: It is Parallelepiped: a = 16, b = 6, c = 10. SurfaceArea = 632.000000.
+589: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+590: It is Parallelepiped: a = 14, b = 4, c = 5. SurfaceArea = 292.000000.
+591: It is Parallelepiped: a = 6, b = 11, c = 4. SurfaceArea = 268.000000.
+592: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+593: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+594: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+595: It is Parallelepiped: a = 9, b = 5, c = 12. SurfaceArea = 426.000000.
+596: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+597: It is Parallelepiped: a = 19, b = 15, c = 11. SurfaceArea = 1318.000000.
+598: It is Sphere: r = 7. SurfaceArea = 87.962000.
+599: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+600: It is Parallelepiped: a = 14, b = 7, c = 8. SurfaceArea = 532.000000.
+601: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+602: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+603: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+604: It is Parallelepiped: a = 5, b = 5, c = 4. SurfaceArea = 130.000000.
+605: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+606: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+607: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+608: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+609: It is Parallelepiped: a = 4, b = 10, c = 8. SurfaceArea = 304.000000.
+610: It is Parallelepiped: a = 6, b = 1, c = 7. SurfaceArea = 110.000000.
+611: It is Sphere: r = 2. SurfaceArea = 25.132000.
+612: It is Parallelepiped: a = 13, b = 7, c = 13. SurfaceArea = 702.000000.
+613: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+614: It is Parallelepiped: a = 15, b = 13, c = 10. SurfaceArea = 950.000000.
+615: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+616: It is Sphere: r = 1. SurfaceArea = 12.566000.
+617: It is Parallelepiped: a = 2, b = 8, c = 14. SurfaceArea = 312.000000.
+618: It is Parallelepiped: a = 6, b = 8, c = 5. SurfaceArea = 236.000000.
+619: It is Sphere: r = 6. SurfaceArea = 75.396000.
+620: It is Parallelepiped: a = 4, b = 17, c = 13. SurfaceArea = 682.000000.
+621: It is Parallelepiped: a = 3, b = 9, c = 4. SurfaceArea = 150.000000.
+622: It is Sphere: r = 20. SurfaceArea = 251.320000.
+623: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+624: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+625: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+626: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+627: It is Parallelepiped: a = 6, b = 16, c = 19. SurfaceArea = 1028.000000.
+628: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+629: It is Parallelepiped: a = 15, b = 1, c = 12. SurfaceArea = 414.000000.
+630: It is Sphere: r = 15. SurfaceArea = 188.490000.
+631: It is Parallelepiped: a = 14, b = 14, c = 12. SurfaceArea = 1064.000000.
+632: It is Parallelepiped: a = 20, b = 6, c = 6. SurfaceArea = 552.000000.
+633: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+634: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+635: It is Parallelepiped: a = 19, b = 13, c = 12. SurfaceArea = 1262.000000.
+636: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+637: It is Sphere: r = 2. SurfaceArea = 25.132000.
+638: It is Parallelepiped: a = 3, b = 9, c = 7. SurfaceArea = 222.000000.
+639: It is Parallelepiped: a = 20, b = 17, c = 17. SurfaceArea = 1938.000000.
+640: It is Parallelepiped: a = 15, b = 15, c = 10. SurfaceArea = 1050.000000.
+641: It is Parallelepiped: a = 7, b = 13, c = 13. SurfaceArea = 702.000000.
+642: It is Sphere: r = 11. SurfaceArea = 138.226000.
+643: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+644: It is Parallelepiped: a = 11, b = 14, c = 7. SurfaceArea = 658.000000.
+645: It is Sphere: r = 1. SurfaceArea = 12.566000.
+646: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+647: It is Sphere: r = 15. SurfaceArea = 188.490000.
+648: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+649: It is Sphere: r = 13. SurfaceArea = 163.358000.
+650: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+651: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+652: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+653: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+654: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+655: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+656: It is Sphere: r = 16. SurfaceArea = 201.056000.
+657: It is Sphere: r = 17. SurfaceArea = 213.622000.
+658: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+659: It is Parallelepiped: a = 11, b = 19, c = 4. SurfaceArea = 658.000000.
+660: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+661: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+662: It is Sphere: r = 13. SurfaceArea = 163.358000.
+663: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+664: It is Sphere: r = 16. SurfaceArea = 201.056000.
+665: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+666: It is Sphere: r = 4. SurfaceArea = 50.264000.
+667: It is Sphere: r = 7. SurfaceArea = 87.962000.
+668: It is Sphere: r = 1. SurfaceArea = 12.566000.
+669: It is Sphere: r = 11. SurfaceArea = 138.226000.
+670: It is Parallelepiped: a = 11, b = 8, c = 19. SurfaceArea = 898.000000.
+671: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+672: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+673: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+674: It is Sphere: r = 4. SurfaceArea = 50.264000.
+675: It is Sphere: r = 2. SurfaceArea = 25.132000.
+676: It is Parallelepiped: a = 11, b = 5, c = 15. SurfaceArea = 590.000000.
+677: It is Sphere: r = 8. SurfaceArea = 100.528000.
+678: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+679: It is Sphere: r = 1. SurfaceArea = 12.566000.
+680: It is Sphere: r = 2. SurfaceArea = 25.132000.
+681: It is Parallelepiped: a = 9, b = 11, c = 15. SurfaceArea = 798.000000.
+682: It is Parallelepiped: a = 13, b = 16, c = 10. SurfaceArea = 996.000000.
+683: It is Sphere: r = 3. SurfaceArea = 37.698000.
+684: It is Parallelepiped: a = 11, b = 20, c = 16. SurfaceArea = 1432.000000.
+685: It is Parallelepiped: a = 13, b = 5, c = 12. SurfaceArea = 562.000000.
+686: It is Sphere: r = 8. SurfaceArea = 100.528000.
+687: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+688: It is Sphere: r = 6. SurfaceArea = 75.396000.
+689: It is Sphere: r = 17. SurfaceArea = 213.622000.
+690: It is Parallelepiped: a = 11, b = 7, c = 7. SurfaceArea = 406.000000.
+691: It is Parallelepiped: a = 1, b = 15, c = 11. SurfaceArea = 382.000000.
+692: It is Sphere: r = 3. SurfaceArea = 37.698000.
+693: It is Parallelepiped: a = 6, b = 12, c = 19. SurfaceArea = 828.000000.
+694: It is Sphere: r = 12. SurfaceArea = 150.792000.
+695: It is Sphere: r = 6. SurfaceArea = 75.396000.
+696: It is Parallelepiped: a = 20, b = 12, c = 15. SurfaceArea = 1440.000000.
+697: It is Parallelepiped: a = 9, b = 14, c = 10. SurfaceArea = 712.000000.
+698: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+699: It is Parallelepiped: a = 9, b = 11, c = 16. SurfaceArea = 838.000000.
+700: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+701: It is Sphere: r = 6. SurfaceArea = 75.396000.
+702: It is Parallelepiped: a = 15, b = 5, c = 13. SurfaceArea = 670.000000.
+703: It is Sphere: r = 18. SurfaceArea = 226.188000.
+704: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+705: It is Parallelepiped: a = 8, b = 1, c = 1. SurfaceArea = 34.000000.
+706: It is Parallelepiped: a = 4, b = 11, c = 15. SurfaceArea = 538.000000.
+707: It is Parallelepiped: a = 5, b = 16, c = 16. SurfaceArea = 832.000000.
+708: It is Sphere: r = 7. SurfaceArea = 87.962000.
+709: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+710: It is Parallelepiped: a = 5, b = 19, c = 19. SurfaceArea = 1102.000000.
+711: It is Sphere: r = 5. SurfaceArea = 62.830000.
+712: It is Sphere: r = 18. SurfaceArea = 226.188000.
+713: It is Sphere: r = 18. SurfaceArea = 226.188000.
+714: It is Parallelepiped: a = 5, b = 2, c = 8. SurfaceArea = 132.000000.
+715: It is Sphere: r = 18. SurfaceArea = 226.188000.
+716: It is Parallelepiped: a = 14, b = 15, c = 5. SurfaceArea = 710.000000.
+717: It is Parallelepiped: a = 11, b = 12, c = 10. SurfaceArea = 724.000000.
+718: It is Sphere: r = 8. SurfaceArea = 100.528000.
+719: It is Parallelepiped: a = 7, b = 6, c = 4. SurfaceArea = 188.000000.
+720: It is Parallelepiped: a = 9, b = 3, c = 1. SurfaceArea = 78.000000.
+721: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+722: It is Sphere: r = 7. SurfaceArea = 87.962000.
+723: It is Sphere: r = 13. SurfaceArea = 163.358000.
+724: It is Parallelepiped: a = 19, b = 16, c = 12. SurfaceArea = 1448.000000.
+725: It is Parallelepiped: a = 3, b = 3, c = 9. SurfaceArea = 126.000000.
+726: It is Parallelepiped: a = 10, b = 15, c = 8. SurfaceArea = 700.000000.
+727: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+728: It is Parallelepiped: a = 9, b = 2, c = 12. SurfaceArea = 300.000000.
+729: It is Sphere: r = 19. SurfaceArea = 238.754000.
+730: It is Parallelepiped: a = 7, b = 16, c = 12. SurfaceArea = 776.000000.
+731: It is Sphere: r = 10. SurfaceArea = 125.660000.
+732: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+733: It is Parallelepiped: a = 5, b = 4, c = 3. SurfaceArea = 94.000000.
+734: It is Parallelepiped: a = 9, b = 6, c = 12. SurfaceArea = 468.000000.
+735: It is Sphere: r = 14. SurfaceArea = 175.924000.
+736: It is Parallelepiped: a = 7, b = 7, c = 18. SurfaceArea = 602.000000.
+737: It is Parallelepiped: a = 6, b = 16, c = 4. SurfaceArea = 368.000000.
+738: It is Sphere: r = 1. SurfaceArea = 12.566000.
+739: It is Parallelepiped: a = 17, b = 19, c = 12. SurfaceArea = 1510.000000.
+740: It is Parallelepiped: a = 8, b = 15, c = 14. SurfaceArea = 884.000000.
+741: It is Sphere: r = 3. SurfaceArea = 37.698000.
+742: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+743: It is Parallelepiped: a = 15, b = 9, c = 14. SurfaceArea = 942.000000.
+744: It is Parallelepiped: a = 2, b = 19, c = 4. SurfaceArea = 244.000000.
+745: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+746: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+747: It is Sphere: r = 6. SurfaceArea = 75.396000.
+748: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+749: It is Parallelepiped: a = 2, b = 9, c = 6. SurfaceArea = 168.000000.
+750: It is Sphere: r = 8. SurfaceArea = 100.528000.
+751: It is Parallelepiped: a = 15, b = 2, c = 8. SurfaceArea = 332.000000.
+752: It is Sphere: r = 13. SurfaceArea = 163.358000.
+753: It is Parallelepiped: a = 8, b = 19, c = 6. SurfaceArea = 628.000000.
+754: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+755: It is Sphere: r = 13. SurfaceArea = 163.358000.
+756: It is Sphere: r = 5. SurfaceArea = 62.830000.
+757: It is Sphere: r = 12. SurfaceArea = 150.792000.
+758: It is Sphere: r = 9. SurfaceArea = 113.094000.
+759: It is Parallelepiped: a = 8, b = 12, c = 7. SurfaceArea = 472.000000.
+760: It is Parallelepiped: a = 14, b = 13, c = 8. SurfaceArea = 796.000000.
+761: It is Sphere: r = 12. SurfaceArea = 150.792000.
+762: It is Sphere: r = 10. SurfaceArea = 125.660000.
+763: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+764: It is Sphere: r = 4. SurfaceArea = 50.264000.
+765: It is Sphere: r = 1. SurfaceArea = 12.566000.
+766: It is Parallelepiped: a = 12, b = 1, c = 5. SurfaceArea = 154.000000.
+767: It is Sphere: r = 4. SurfaceArea = 50.264000.
+768: It is Sphere: r = 2. SurfaceArea = 25.132000.
+769: It is Parallelepiped: a = 7, b = 4, c = 20. SurfaceArea = 496.000000.
+770: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+771: It is Sphere: r = 4. SurfaceArea = 50.264000.
+772: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+773: It is Sphere: r = 11. SurfaceArea = 138.226000.
+774: It is Sphere: r = 11. SurfaceArea = 138.226000.
+775: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+776: It is Parallelepiped: a = 17, b = 1, c = 3. SurfaceArea = 142.000000.
+777: It is Parallelepiped: a = 4, b = 18, c = 13. SurfaceArea = 716.000000.
+778: It is Sphere: r = 4. SurfaceArea = 50.264000.
+779: It is Sphere: r = 18. SurfaceArea = 226.188000.
+780: It is Parallelepiped: a = 2, b = 18, c = 13. SurfaceArea = 592.000000.
+781: It is Sphere: r = 19. SurfaceArea = 238.754000.
+782: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+783: It is Parallelepiped: a = 2, b = 15, c = 16. SurfaceArea = 604.000000.
+784: It is Parallelepiped: a = 8, b = 3, c = 18. SurfaceArea = 444.000000.
+785: It is Parallelepiped: a = 8, b = 12, c = 19. SurfaceArea = 952.000000.
+786: It is Parallelepiped: a = 4, b = 15, c = 5. SurfaceArea = 310.000000.
+787: It is Sphere: r = 6. SurfaceArea = 75.396000.
+788: It is Parallelepiped: a = 14, b = 14, c = 12. SurfaceArea = 1064.000000.
+789: It is Parallelepiped: a = 3, b = 13, c = 1. SurfaceArea = 110.000000.
+790: It is Parallelepiped: a = 8, b = 17, c = 11. SurfaceArea = 822.000000.
+791: It is Parallelepiped: a = 20, b = 15, c = 9. SurfaceArea = 1230.000000.
+792: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+793: It is Parallelepiped: a = 2, b = 13, c = 17. SurfaceArea = 562.000000.
+794: It is Parallelepiped: a = 2, b = 12, c = 7. SurfaceArea = 244.000000.
+795: It is Tetrahedron: a = 18. SurfaceArea = 561.184462.
+796: It is Sphere: r = 20. SurfaceArea = 251.320000.
+797: It is Parallelepiped: a = 16, b = 10, c = 5. SurfaceArea = 580.000000.
+798: It is Parallelepiped: a = 20, b = 6, c = 11. SurfaceArea = 812.000000.
+799: It is Sphere: r = 18. SurfaceArea = 226.188000.
+800: It is Parallelepiped: a = 16, b = 3, c = 6. SurfaceArea = 324.000000.
+801: It is Sphere: r = 20. SurfaceArea = 251.320000.
+802: It is Parallelepiped: a = 11, b = 20, c = 10. SurfaceArea = 1060.000000.
+803: It is Parallelepiped: a = 8, b = 13, c = 1. SurfaceArea = 250.000000.
+804: It is Sphere: r = 16. SurfaceArea = 201.056000.
+805: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+806: It is Parallelepiped: a = 16, b = 12, c = 19. SurfaceArea = 1448.000000.
+807: It is Sphere: r = 9. SurfaceArea = 113.094000.
+808: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+809: It is Sphere: r = 14. SurfaceArea = 175.924000.
+810: It is Parallelepiped: a = 18, b = 4, c = 1. SurfaceArea = 188.000000.
+811: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+812: It is Sphere: r = 1. SurfaceArea = 12.566000.
+813: It is Parallelepiped: a = 16, b = 5, c = 2. SurfaceArea = 244.000000.
+814: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+815: It is Parallelepiped: a = 5, b = 7, c = 18. SurfaceArea = 502.000000.
+816: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+817: It is Sphere: r = 14. SurfaceArea = 175.924000.
+818: It is Sphere: r = 15. SurfaceArea = 188.490000.
+819: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+820: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+821: It is Sphere: r = 8. SurfaceArea = 100.528000.
+822: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+823: It is Sphere: r = 13. SurfaceArea = 163.358000.
+824: It is Parallelepiped: a = 18, b = 17, c = 15. SurfaceArea = 1662.000000.
+825: It is Sphere: r = 20. SurfaceArea = 251.320000.
+826: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+827: It is Sphere: r = 6. SurfaceArea = 75.396000.
+828: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+829: It is Parallelepiped: a = 1, b = 3, c = 9. SurfaceArea = 78.000000.
+830: It is Parallelepiped: a = 9, b = 9, c = 7. SurfaceArea = 414.000000.
+831: It is Parallelepiped: a = 19, b = 8, c = 9. SurfaceArea = 790.000000.
+832: It is Sphere: r = 17. SurfaceArea = 213.622000.
+833: It is Parallelepiped: a = 3, b = 3, c = 4. SurfaceArea = 66.000000.
+834: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+835: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+836: It is Sphere: r = 4. SurfaceArea = 50.264000.
+837: It is Sphere: r = 18. SurfaceArea = 226.188000.
+838: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+839: It is Parallelepiped: a = 1, b = 10, c = 20. SurfaceArea = 460.000000.
+840: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+841: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+842: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+843: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+844: It is Parallelepiped: a = 1, b = 4, c = 15. SurfaceArea = 158.000000.
+845: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+846: It is Sphere: r = 8. SurfaceArea = 100.528000.
+847: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+848: It is Parallelepiped: a = 15, b = 6, c = 10. SurfaceArea = 600.000000.
+849: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+850: It is Sphere: r = 6. SurfaceArea = 75.396000.
+851: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+852: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+853: It is Sphere: r = 15. SurfaceArea = 188.490000.
+854: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+855: It is Sphere: r = 15. SurfaceArea = 188.490000.
+856: It is Parallelepiped: a = 13, b = 17, c = 3. SurfaceArea = 622.000000.
+857: It is Parallelepiped: a = 9, b = 6, c = 9. SurfaceArea = 378.000000.
+858: It is Sphere: r = 18. SurfaceArea = 226.188000.
+859: It is Parallelepiped: a = 15, b = 5, c = 20. SurfaceArea = 950.000000.
+860: It is Parallelepiped: a = 9, b = 16, c = 11. SurfaceArea = 838.000000.
+861: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+862: It is Parallelepiped: a = 13, b = 7, c = 12. SurfaceArea = 662.000000.
+863: It is Parallelepiped: a = 16, b = 16, c = 2. SurfaceArea = 640.000000.
+864: It is Parallelepiped: a = 11, b = 2, c = 15. SurfaceArea = 434.000000.
+865: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+866: It is Sphere: r = 6. SurfaceArea = 75.396000.
+867: It is Parallelepiped: a = 19, b = 3, c = 10. SurfaceArea = 554.000000.
+868: It is Sphere: r = 15. SurfaceArea = 188.490000.
+869: It is Sphere: r = 19. SurfaceArea = 238.754000.
+870: It is Parallelepiped: a = 5, b = 8, c = 14. SurfaceArea = 444.000000.
+871: It is Sphere: r = 2. SurfaceArea = 25.132000.
+872: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+873: It is Parallelepiped: a = 2, b = 15, c = 9. SurfaceArea = 366.000000.
+874: It is Sphere: r = 10. SurfaceArea = 125.660000.
+875: It is Parallelepiped: a = 11, b = 20, c = 11. SurfaceArea = 1122.000000.
+876: It is Parallelepiped: a = 15, b = 14, c = 19. SurfaceArea = 1522.000000.
+877: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+878: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+879: It is Parallelepiped: a = 4, b = 17, c = 10. SurfaceArea = 556.000000.
+880: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+881: It is Parallelepiped: a = 3, b = 9, c = 1. SurfaceArea = 78.000000.
+882: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+883: It is Sphere: r = 1. SurfaceArea = 12.566000.
+884: It is Sphere: r = 5. SurfaceArea = 62.830000.
+885: It is Parallelepiped: a = 4, b = 16, c = 2. SurfaceArea = 208.000000.
+886: It is Sphere: r = 15. SurfaceArea = 188.490000.
+887: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+888: It is Sphere: r = 20. SurfaceArea = 251.320000.
+889: It is Sphere: r = 8. SurfaceArea = 100.528000.
+890: It is Parallelepiped: a = 2, b = 1, c = 15. SurfaceArea = 94.000000.
+891: It is Sphere: r = 8. SurfaceArea = 100.528000.
+892: It is Sphere: r = 9. SurfaceArea = 113.094000.
+893: It is Sphere: r = 13. SurfaceArea = 163.358000.
+894: It is Tetrahedron: a = 8. SurfaceArea = 110.851252.
+895: It is Parallelepiped: a = 5, b = 17, c = 12. SurfaceArea = 698.000000.
+896: It is Sphere: r = 2. SurfaceArea = 25.132000.
+897: It is Parallelepiped: a = 1, b = 8, c = 13. SurfaceArea = 250.000000.
+898: It is Parallelepiped: a = 6, b = 13, c = 19. SurfaceArea = 878.000000.
+899: It is Parallelepiped: a = 1, b = 20, c = 20. SurfaceArea = 880.000000.
+900: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+901: It is Parallelepiped: a = 4, b = 18, c = 20. SurfaceArea = 1024.000000.
+902: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+903: It is Sphere: r = 19. SurfaceArea = 238.754000.
+904: It is Sphere: r = 15. SurfaceArea = 188.490000.
+905: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
+906: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+907: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+908: It is Tetrahedron: a = 3. SurfaceArea = 15.588457.
+909: It is Sphere: r = 18. SurfaceArea = 226.188000.
+910: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+911: It is Parallelepiped: a = 9, b = 13, c = 18. SurfaceArea = 1026.000000.
+912: It is Sphere: r = 8. SurfaceArea = 100.528000.
+913: It is Parallelepiped: a = 20, b = 3, c = 13. SurfaceArea = 718.000000.
+914: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+915: It is Parallelepiped: a = 5, b = 19, c = 4. SurfaceArea = 382.000000.
+916: It is Sphere: r = 5. SurfaceArea = 62.830000.
+917: It is Parallelepiped: a = 5, b = 7, c = 12. SurfaceArea = 358.000000.
+918: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+919: It is Parallelepiped: a = 18, b = 9, c = 2. SurfaceArea = 432.000000.
+920: It is Sphere: r = 4. SurfaceArea = 50.264000.
+921: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+922: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+923: It is Sphere: r = 19. SurfaceArea = 238.754000.
+924: It is Parallelepiped: a = 2, b = 16, c = 4. SurfaceArea = 208.000000.
+925: It is Tetrahedron: a = 5. SurfaceArea = 43.301270.
+926: It is Parallelepiped: a = 16, b = 11, c = 13. SurfaceArea = 1054.000000.
+927: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+928: It is Parallelepiped: a = 12, b = 19, c = 11. SurfaceArea = 1138.000000.
+929: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+930: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+931: It is Sphere: r = 4. SurfaceArea = 50.264000.
+932: It is Sphere: r = 18. SurfaceArea = 226.188000.
+933: It is Sphere: r = 13. SurfaceArea = 163.358000.
+934: It is Parallelepiped: a = 18, b = 1, c = 19. SurfaceArea = 758.000000.
+935: It is Sphere: r = 3. SurfaceArea = 37.698000.
+936: It is Sphere: r = 13. SurfaceArea = 163.358000.
+937: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+938: It is Parallelepiped: a = 3, b = 9, c = 12. SurfaceArea = 342.000000.
+939: It is Parallelepiped: a = 20, b = 16, c = 13. SurfaceArea = 1576.000000.
+940: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+941: It is Parallelepiped: a = 5, b = 17, c = 10. SurfaceArea = 610.000000.
+942: It is Sphere: r = 2. SurfaceArea = 25.132000.
+943: It is Parallelepiped: a = 4, b = 13, c = 7. SurfaceArea = 342.000000.
+944: It is Sphere: r = 5. SurfaceArea = 62.830000.
+945: It is Parallelepiped: a = 20, b = 5, c = 15. SurfaceArea = 950.000000.
+946: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+947: It is Sphere: r = 9. SurfaceArea = 113.094000.
+948: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+949: It is Parallelepiped: a = 3, b = 7, c = 4. SurfaceArea = 122.000000.
+950: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+951: It is Tetrahedron: a = 19. SurfaceArea = 625.270342.
+952: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+953: It is Sphere: r = 2. SurfaceArea = 25.132000.
+954: It is Tetrahedron: a = 13. SurfaceArea = 292.716586.
+955: It is Sphere: r = 13. SurfaceArea = 163.358000.
+956: It is Parallelepiped: a = 14, b = 7, c = 8. SurfaceArea = 532.000000.
+957: It is Parallelepiped: a = 19, b = 17, c = 8. SurfaceArea = 1222.000000.
+958: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+959: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+960: It is Parallelepiped: a = 18, b = 16, c = 15. SurfaceArea = 1596.000000.
+961: It is Sphere: r = 15. SurfaceArea = 188.490000.
+962: It is Parallelepiped: a = 15, b = 1, c = 13. SurfaceArea = 446.000000.
+963: It is Parallelepiped: a = 20, b = 12, c = 18. SurfaceArea = 1632.000000.
+964: It is Tetrahedron: a = 16. SurfaceArea = 443.405007.
+965: It is Tetrahedron: a = 4. SurfaceArea = 27.712813.
+966: It is Sphere: r = 7. SurfaceArea = 87.962000.
+967: It is Sphere: r = 20. SurfaceArea = 251.320000.
+968: It is Sphere: r = 1. SurfaceArea = 12.566000.
+969: It is Parallelepiped: a = 7, b = 12, c = 19. SurfaceArea = 890.000000.
+970: It is Tetrahedron: a = 12. SurfaceArea = 249.415316.
+971: It is Sphere: r = 4. SurfaceArea = 50.264000.
+972: It is Tetrahedron: a = 15. SurfaceArea = 389.711432.
+973: It is Parallelepiped: a = 13, b = 15, c = 13. SurfaceArea = 1118.000000.
+974: It is Sphere: r = 17. SurfaceArea = 213.622000.
+975: It is Parallelepiped: a = 15, b = 6, c = 12. SurfaceArea = 684.000000.
+976: It is Sphere: r = 9. SurfaceArea = 113.094000.
+977: It is Sphere: r = 9. SurfaceArea = 113.094000.
+978: It is Parallelepiped: a = 20, b = 18, c = 17. SurfaceArea = 2012.000000.
+979: It is Sphere: r = 8. SurfaceArea = 100.528000.
+980: It is Parallelepiped: a = 15, b = 1, c = 5. SurfaceArea = 190.000000.
+981: It is Tetrahedron: a = 11. SurfaceArea = 209.578148.
+982: It is Tetrahedron: a = 7. SurfaceArea = 84.870490.
+983: It is Sphere: r = 17. SurfaceArea = 213.622000.
+984: It is Tetrahedron: a = 1. SurfaceArea = 1.732051.
+985: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+986: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+987: It is Parallelepiped: a = 9, b = 6, c = 20. SurfaceArea = 708.000000.
+988: It is Sphere: r = 19. SurfaceArea = 238.754000.
+989: It is Parallelepiped: a = 6, b = 10, c = 11. SurfaceArea = 472.000000.
+990: It is Sphere: r = 14. SurfaceArea = 175.924000.
+991: It is Tetrahedron: a = 20. SurfaceArea = 692.820323.
+992: It is Sphere: r = 9. SurfaceArea = 113.094000.
+993: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+994: It is Tetrahedron: a = 17. SurfaceArea = 500.562683.
+995: It is Sphere: r = 18. SurfaceArea = 226.188000.
+996: It is Tetrahedron: a = 6. SurfaceArea = 62.353829.
+997: It is Tetrahedron: a = 9. SurfaceArea = 140.296115.
+998: It is Parallelepiped: a = 5, b = 1, c = 3. SurfaceArea = 46.000000.
+999: It is Parallelepiped: a = 12, b = 20, c = 17. SurfaceArea = 1568.000000.

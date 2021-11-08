@@ -1,0 +1,6 @@
+Sorted container:
+Container contains 5 elements.0: It is Tetrahedron: a = 14. SurfaceArea = 339.481958.
+1: It is Tetrahedron: a = 10. SurfaceArea = 173.205081.
+2: It is Parallelepiped: a = 2, b = 4, c = 8. SurfaceArea = 112.000000.
+3: It is Sphere: r = 3. SurfaceArea = 37.698000.
+4: It is Tetrahedron: a = 2. SurfaceArea = 6.928203.
