@@ -1,0 +1,6 @@
+Container contains 5 elements:
+1: It is a tetrahedron, a = 19, density = 9.168, surface area = 625.2703415323647
+2: It is a parallelepiped, a = 2, b = 19, c = 4, density = 3.41, surface area = 244.0
+3: It is a parallelepiped, a = 1, b = 9, c = 8, density = 4.27, surface area = 178.0
+4: It is a sphere, r = 11, density = 2.838, surface area = 138.226
+5: It is a tetrahedron, a = 7, density = 1.836, surface area = 84.87048957087498

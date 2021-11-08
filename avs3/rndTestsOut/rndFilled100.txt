@@ -1,0 +1,101 @@
+Container contains 100 elements:
+1: It is a tetrahedron, a = 8, density = 10.632, surface area = 110.85125168440814
+2: It is a sphere, r = 6, density = 2.714, surface area = 75.396
+3: It is a sphere, r = 19, density = 9.763, surface area = 238.75400000000002
+4: It is a parallelepiped, a = 20, b = 18, c = 11, density = 10.792, surface area = 1556.0
+5: It is a parallelepiped, a = 8, b = 8, c = 20, density = 13.822, surface area = 768.0
+6: It is a tetrahedron, a = 12, density = 1.202, surface area = 249.41531628991834
+7: It is a parallelepiped, a = 2, b = 13, c = 15, density = 2.86, surface area = 502.0
+8: It is a tetrahedron, a = 12, density = 7.786, surface area = 249.41531628991834
+9: It is a sphere, r = 1, density = 5.765, surface area = 12.566
+10: It is a sphere, r = 4, density = 4.769, surface area = 50.264
+11: It is a parallelepiped, a = 1, b = 8, c = 14, density = 16.637, surface area = 268.0
+12: It is a tetrahedron, a = 19, density = 11.619, surface area = 625.2703415323647
+13: It is a tetrahedron, a = 4, density = 1.215, surface area = 27.712812921102035
+14: It is a tetrahedron, a = 17, density = 5.579, surface area = 500.5626833874055
+15: It is a parallelepiped, a = 19, b = 10, c = 3, density = 13.434, surface area = 554.0
+16: It is a tetrahedron, a = 12, density = 9.053, surface area = 249.41531628991834
+17: It is a sphere, r = 15, density = 6.763, surface area = 188.49
+18: It is a parallelepiped, a = 18, b = 15, c = 1, density = 11.48, surface area = 606.0
+19: It is a tetrahedron, a = 3, density = 13.023, surface area = 15.588457268119896
+20: It is a sphere, r = 9, density = 13.873, surface area = 113.09400000000001
+21: It is a sphere, r = 14, density = 7.773, surface area = 175.924
+22: It is a tetrahedron, a = 7, density = 4.07, surface area = 84.87048957087498
+23: It is a tetrahedron, a = 20, density = 6.77, surface area = 692.8203230275508
+24: It is a parallelepiped, a = 4, b = 6, c = 2, density = 12.415, surface area = 88.0
+25: It is a parallelepiped, a = 18, b = 12, c = 6, density = 0.376, surface area = 792.0
+26: It is a sphere, r = 11, density = 16.178, surface area = 138.226
+27: It is a parallelepiped, a = 8, b = 7, c = 18, density = 18.369, surface area = 652.0
+28: It is a parallelepiped, a = 5, b = 12, c = 6, density = 14.2, surface area = 324.0
+29: It is a sphere, r = 17, density = 1.449, surface area = 213.622
+30: It is a tetrahedron, a = 5, density = 6.76, surface area = 43.301270189221924
+31: It is a parallelepiped, a = 7, b = 20, c = 15, density = 2.733, surface area = 1090.0
+32: It is a tetrahedron, a = 8, density = 11.591, surface area = 110.85125168440814
+33: It is a parallelepiped, a = 16, b = 16, c = 14, density = 15.01, surface area = 1408.0
+34: It is a parallelepiped, a = 6, b = 3, c = 19, density = 11.075, surface area = 378.0
+35: It is a tetrahedron, a = 3, density = 6.257, surface area = 15.588457268119896
+36: It is a tetrahedron, a = 18, density = 4.873, surface area = 561.1844616523161
+37: It is a sphere, r = 16, density = 17.817, surface area = 201.056
+38: It is a parallelepiped, a = 18, b = 1, c = 9, density = 8.951, surface area = 378.0
+39: It is a parallelepiped, a = 7, b = 15, c = 16, density = 13.809, surface area = 914.0
+40: It is a parallelepiped, a = 9, b = 1, c = 13, density = 10.482, surface area = 278.0
+41: It is a parallelepiped, a = 6, b = 16, c = 2, density = 19.252, surface area = 280.0
+42: It is a tetrahedron, a = 13, density = 13.589, surface area = 292.71658647914023
+43: It is a sphere, r = 11, density = 4.347, surface area = 138.226
+44: It is a parallelepiped, a = 19, b = 3, c = 11, density = 1.993, surface area = 598.0
+45: It is a tetrahedron, a = 19, density = 17.06, surface area = 625.2703415323647
+46: It is a parallelepiped, a = 12, b = 18, c = 2, density = 11.382, surface area = 552.0
+47: It is a sphere, r = 7, density = 10.131, surface area = 87.962
+48: It is a tetrahedron, a = 7, density = 2.418, surface area = 84.87048957087498
+49: It is a sphere, r = 7, density = 0.924, surface area = 87.962
+50: It is a sphere, r = 9, density = 11.545, surface area = 113.09400000000001
+51: It is a tetrahedron, a = 10, density = 15.795, surface area = 173.2050807568877
+52: It is a sphere, r = 5, density = 3.519, surface area = 62.830000000000005
+53: It is a sphere, r = 13, density = 15.232, surface area = 163.358
+54: It is a sphere, r = 9, density = 10.506, surface area = 113.09400000000001
+55: It is a sphere, r = 8, density = 16.92, surface area = 100.528
+56: It is a tetrahedron, a = 8, density = 0.765, surface area = 110.85125168440814
+57: It is a tetrahedron, a = 19, density = 17.055, surface area = 625.2703415323647
+58: It is a parallelepiped, a = 18, b = 10, c = 3, density = 16.117, surface area = 528.0
+59: It is a tetrahedron, a = 1, density = 13.82, surface area = 1.7320508075688772
+60: It is a tetrahedron, a = 8, density = 19.389, surface area = 110.85125168440814
+61: It is a tetrahedron, a = 7, density = 7.394, surface area = 84.87048957087498
+62: It is a tetrahedron, a = 7, density = 1.478, surface area = 84.87048957087498
+63: It is a sphere, r = 1, density = 16.971, surface area = 12.566
+64: It is a parallelepiped, a = 11, b = 16, c = 9, density = 2.172, surface area = 838.0
+65: It is a tetrahedron, a = 16, density = 18.564, surface area = 443.40500673763256
+66: It is a parallelepiped, a = 5, b = 2, c = 9, density = 6.722, surface area = 146.0
+67: It is a sphere, r = 6, density = 8.056, surface area = 75.396
+68: It is a sphere, r = 5, density = 2.759, surface area = 62.830000000000005
+69: It is a parallelepiped, a = 17, b = 13, c = 4, density = 9.539, surface area = 682.0
+70: It is a sphere, r = 18, density = 11.678, surface area = 226.18800000000002
+71: It is a sphere, r = 1, density = 14.826, surface area = 12.566
+72: It is a parallelepiped, a = 3, b = 10, c = 15, density = 8.722, surface area = 450.0
+73: It is a tetrahedron, a = 18, density = 12.051, surface area = 561.1844616523161
+74: It is a tetrahedron, a = 19, density = 8.075, surface area = 625.2703415323647
+75: It is a parallelepiped, a = 5, b = 18, c = 18, density = 5.628, surface area = 1008.0
+76: It is a sphere, r = 5, density = 5.576, surface area = 62.830000000000005
+77: It is a tetrahedron, a = 17, density = 7.216, surface area = 500.5626833874055
+78: It is a tetrahedron, a = 12, density = 5.789, surface area = 249.41531628991834
+79: It is a parallelepiped, a = 14, b = 7, c = 14, density = 1.982, surface area = 784.0
+80: It is a sphere, r = 5, density = 12.397, surface area = 62.830000000000005
+81: It is a parallelepiped, a = 14, b = 11, c = 1, density = 6.918, surface area = 358.0
+82: It is a parallelepiped, a = 18, b = 8, c = 7, density = 16.605, surface area = 652.0
+83: It is a tetrahedron, a = 13, density = 6.113, surface area = 292.71658647914023
+84: It is a tetrahedron, a = 5, density = 6.58, surface area = 43.301270189221924
+85: It is a tetrahedron, a = 5, density = 13.034, surface area = 43.301270189221924
+86: It is a tetrahedron, a = 12, density = 18.538, surface area = 249.41531628991834
+87: It is a sphere, r = 16, density = 18.024, surface area = 201.056
+88: It is a parallelepiped, a = 16, b = 19, c = 1, density = 7.504, surface area = 678.0
+89: It is a sphere, r = 9, density = 0.457, surface area = 113.09400000000001
+90: It is a sphere, r = 18, density = 4.55, surface area = 226.18800000000002
+91: It is a tetrahedron, a = 17, density = 14.267, surface area = 500.5626833874055
+92: It is a parallelepiped, a = 8, b = 20, c = 1, density = 9.562, surface area = 376.0
+93: It is a parallelepiped, a = 14, b = 3, c = 18, density = 0.713, surface area = 696.0
+94: It is a parallelepiped, a = 9, b = 20, c = 1, density = 12.09, surface area = 418.0
+95: It is a tetrahedron, a = 19, density = 16.041, surface area = 625.2703415323647
+96: It is a tetrahedron, a = 2, density = 16.683, surface area = 6.928203230275509
+97: It is a tetrahedron, a = 17, density = 18.971, surface area = 500.5626833874055
+98: It is a tetrahedron, a = 11, density = 13.53, surface area = 209.57814771583415
+99: It is a parallelepiped, a = 4, b = 10, c = 7, density = 17.689, surface area = 276.0
+100: It is a parallelepiped, a = 15, b = 7, c = 9, density = 0.747, surface area = 606.0
