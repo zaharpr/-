@@ -17,19 +17,19 @@ shape *In(FILE *ifst) {
 
     switch (type_of_shape) {
         case 1:
-            sp->type_of_shape = shape::SPHERE;
-            sp->density = density_value;
-            In(sp->s, ifst);
-            return sp;
-        case 2:
             sp->type_of_shape = shape::PARALLELEPIPED;
             sp->density = density_value;
             In(sp->p, ifst);
             return sp;
-        case 3:
+        case 2:
             sp->type_of_shape = shape::TETRAHEDRON;
             sp->density = density_value;
             In(sp->t, ifst);
+            return sp;
+        case 3:
+            sp->type_of_shape = shape::SPHERE;
+            sp->density = density_value;
+            In(sp->s, ifst);
             return sp;
         default:
             return 0;
@@ -41,19 +41,19 @@ shape *InRnd() {
     auto type_of_shape = rand() % 3 + 1;
     switch (type_of_shape) {
         case 1:
-            sp->type_of_shape = shape::SPHERE;
-            sp->density = RandomDouble();
-            InRnd(sp->s);
-            return sp;
-        case 2:
             sp->type_of_shape = shape::PARALLELEPIPED;
             sp->density = RandomDouble();
             InRnd(sp->p);
             return sp;
-        case 3:
+        case 2:
             sp->type_of_shape = shape::TETRAHEDRON;
             sp->density = RandomDouble();
             InRnd(sp->t);
+            return sp;
+        case 3:
+            sp->type_of_shape = shape::SPHERE;
+            sp->density = RandomDouble();
+            InRnd(sp->s);
             return sp;
         default:
             return 0;
