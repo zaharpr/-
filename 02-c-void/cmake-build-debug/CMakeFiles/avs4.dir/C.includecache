@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/extdata.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c
+memory.h
+-
+extdata.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/extdata.h
+math.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/math.h
+

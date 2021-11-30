@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: It is Sphere: r = 14, density = 2.222000. SurfaceArea = 113.094000
+1: It is Tetrahedron: a = 10, density = 1.410000. SurfaceArea = 339.481958
+2: It is Tetrahedron: a = 2, density = 1.700000. SurfaceArea = 173.205081
+3: It is Tetrahedron: a = 2, density = 7.770000. SurfaceArea = 6.928203
+4: It is Parallelepiped: a = 0, b = 4, c = 8, density = 3.690000. SurfaceArea = 112.000000

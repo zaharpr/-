@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: It is Parallelepiped: a = 5, b = 5, c = 1, density = 8.110000. SurfaceArea = 46.000000
+1: It is Parallelepiped: a = 3, b = 4, c = 3, density = 6.100000. SurfaceArea = 94.000000
+2: It is Sphere: r = 8, density = 9.400000. SurfaceArea = 113.094000
+3: It is Tetrahedron: a = 8, density = 3.330000. SurfaceArea = 110.851252
+4: It is Sphere: r = 0, density = 1.200000. SurfaceArea = 804.224000

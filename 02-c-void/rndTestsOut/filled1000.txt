@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 elements.
+0: It is Sphere: r = 18, density = 2.336374. SurfaceArea = 5026.400000
+1: It is Sphere: r = 2, density = 13.278473. SurfaceArea = 4071.384000
+2: It is Parallelepiped: a = 4, b = 2, c = 20, density = 5.591628. SurfaceArea = 168.000000
+3: It is Sphere: r = 17, density = 7.286391. SurfaceArea = 201.056000
+4: It is Sphere: r = 5, density = 11.762156. SurfaceArea = 3631.574000
+5: It is Parallelepiped: a = 10, b = 9, c = 8, density = 17.110178. SurfaceArea = 314.000000
+6: It is Parallelepiped: a = 12, b = 2, c = 13, density = 9.441088. SurfaceArea = 352.000000
+7: It is Parallelepiped: a = 9, b = 10, c = 20, density = 5.587894. SurfaceArea = 1120.000000
+8: It is Sphere: r = 2, density = 0.186789. SurfaceArea = 1017.846000
+9: It is Parallelepiped: a = 3, b = 10, c = 8, density = 5.678417. SurfaceArea = 232.000000
+10: It is Parallelepiped: a = 13, b = 17, c = 4, density = 13.655241. SurfaceArea = 262.000000
+11: It is Sphere: r = 17, density = 18.049964. SurfaceArea = 2123.654000
+12: It is Parallelepiped: a = 1, b = 7, c = 10, density = 15.160141. SurfaceArea = 718.000000
+13: It is Sphere: r = 4, density = 15.453440. SurfaceArea = 12.566000
+14: It is Sphere: r = 20, density = 1.041334. SurfaceArea = 201.056000
+15: It is Sphere: r = 1, density = 7.095553. SurfaceArea = 5026.400000
+16: It is Sphere: r = 18, density = 12.673970. SurfaceArea = 12.566000
+17: It is Sphere: r = 7, density = 6.146397. SurfaceArea = 4071.384000
+18: It is Parallelepiped: a = 12, b = 15, c = 14, density = 14.314271. SurfaceArea = 826.000000
+19: It is Parallelepiped: a = 17, b = 17, c = 3, density = 6.626475. SurfaceArea = 582.000000
+20: It is Sphere: r = 9, density = 6.942622. SurfaceArea = 3631.574000
+21: It is Parallelepiped: a = 7, b = 7, c = 13, density = 0.633012. SurfaceArea = 542.000000
+22: It is Parallelepiped: a = 5, b = 20, c = 17, density = 3.818040. SurfaceArea = 1198.000000
+23: It is Sphere: r = 16, density = 0.390503. SurfaceArea = 314.150000
+24: It is Parallelepiped: a = 8, b = 5, c = 12, density = 14.922039. SurfaceArea = 664.000000
+25: It is Sphere: r = 6, density = 17.195388. SurfaceArea = 804.224000
+26: It is Sphere: r = 2, density = 18.211290. SurfaceArea = 452.376000
+27: It is Sphere: r = 10, density = 5.153912. SurfaceArea = 50.264000
+28: It is Sphere: r = 20, density = 5.686924. SurfaceArea = 1256.600000
+29: It is Parallelepiped: a = 16, b = 10, c = 8, density = 9.845137. SurfaceArea = 880.000000
+30: It is Parallelepiped: a = 5, b = 11, c = 7, density = 17.834158. SurfaceArea = 730.000000
+31: It is Parallelepiped: a = 12, b = 3, c = 3, density = 13.755669. SurfaceArea = 78.000000
+32: It is Parallelepiped: a = 18, b = 20, c = 15, density = 6.263054. SurfaceArea = 1440.000000
+33: It is Parallelepiped: a = 17, b = 7, c = 4, density = 19.354342. SurfaceArea = 452.000000
+34: It is Sphere: r = 6, density = 14.267132. SurfaceArea = 3631.574000
+35: It is Sphere: r = 3, density = 2.805220. SurfaceArea = 452.376000
+36: It is Sphere: r = 18, density = 5.938745. SurfaceArea = 113.094000
+37: It is Sphere: r = 6, density = 12.173804. SurfaceArea = 4071.384000
+38: It is Sphere: r = 20, density = 16.413688. SurfaceArea = 452.376000
+39: It is Sphere: r = 10, density = 0.800711. SurfaceArea = 5026.400000
+40: It is Parallelepiped: a = 10, b = 14, c = 14, density = 0.155053. SurfaceArea = 952.000000
+41: It is Sphere: r = 8, density = 9.508845. SurfaceArea = 1256.600000
+42: It is Sphere: r = 6, density = 9.362900. SurfaceArea = 804.224000
+43: It is Sphere: r = 18, density = 18.962093. SurfaceArea = 452.376000
+44: It is Parallelepiped: a = 15, b = 2, c = 10, density = 3.213184. SurfaceArea = 472.000000
+45: It is Parallelepiped: a = 6, b = 6, c = 14, density = 0.963281. SurfaceArea = 768.000000
+46: It is Parallelepiped: a = 12, b = 11, c = 9, density = 11.299508. SurfaceArea = 438.000000
+47: It is Sphere: r = 17, density = 10.705222. SurfaceArea = 1809.504000
+48: It is Parallelepiped: a = 9, b = 13, c = 1, density = 1.073888. SurfaceArea = 502.000000
+49: It is Parallelepiped: a = 11, b = 12, c = 13, density = 6.468026. SurfaceArea = 762.000000
+50: It is Sphere: r = 20, density = 7.840144. SurfaceArea = 1520.486000
+51: It is Sphere: r = 6, density = 18.587665. SurfaceArea = 5026.400000
+52: It is Parallelepiped: a = 13, b = 7, c = 20, density = 19.450946. SurfaceArea = 604.000000
+53: It is Sphere: r = 1, density = 19.106641. SurfaceArea = 2123.654000
+54: It is Parallelepiped: a = 3, b = 12, c = 15, density = 18.168222. SurfaceArea = 414.000000
+55: It is Parallelepiped: a = 10, b = 6, c = 4, density = 5.165454. SurfaceArea = 108.000000
+56: It is Sphere: r = 20, density = 0.108529. SurfaceArea = 1256.600000
+57: It is Sphere: r = 11, density = 7.848673. SurfaceArea = 5026.400000
+58: It is Sphere: r = 16, density = 6.436338. SurfaceArea = 1520.486000
+59: It is Sphere: r = 7, density = 5.887284. SurfaceArea = 3216.896000
+60: It is Parallelepiped: a = 14, b = 10, c = 13, density = 18.774000. SurfaceArea = 582.000000
+61: It is Sphere: r = 8, density = 0.502785. SurfaceArea = 2462.936000
+62: It is Sphere: r = 18, density = 6.384308. SurfaceArea = 804.224000
+63: It is Sphere: r = 3, density = 2.280782. SurfaceArea = 4071.384000
+64: It is Sphere: r = 17, density = 3.730511. SurfaceArea = 113.094000
+65: It is Parallelepiped: a = 9, b = 4, c = 2, density = 16.972382. SurfaceArea = 220.000000
+66: It is Sphere: r = 15, density = 7.225471. SurfaceArea = 1017.846000
+67: It is Parallelepiped: a = 14, b = 20, c = 16, density = 5.999472. SurfaceArea = 1720.000000
+68: It is Sphere: r = 6, density = 1.772189. SurfaceArea = 2462.936000
+69: It is Sphere: r = 10, density = 17.830939. SurfaceArea = 452.376000
+70: It is Sphere: r = 12, density = 9.391785. SurfaceArea = 1256.600000
+71: It is Parallelepiped: a = 15, b = 5, c = 4, density = 16.536432. SurfaceArea = 256.000000
+72: It is Sphere: r = 10, density = 17.101347. SurfaceArea = 2827.350000
+73: It is Sphere: r = 12, density = 16.989284. SurfaceArea = 1256.600000
+74: It is Sphere: r = 7, density = 2.770643. SurfaceArea = 1809.504000
+75: It is Sphere: r = 8, density = 0.764232. SurfaceArea = 615.734000
+76: It is Sphere: r = 3, density = 18.650622. SurfaceArea = 804.224000
+77: It is Parallelepiped: a = 7, b = 12, c = 4, density = 16.953643. SurfaceArea = 192.000000
+78: It is Parallelepiped: a = 13, b = 1, c = 19, density = 17.829555. SurfaceArea = 318.000000
+79: It is Sphere: r = 14, density = 8.348921. SurfaceArea = 2123.654000
+80: It is Sphere: r = 17, density = 5.338205. SurfaceArea = 2462.936000
+81: It is Sphere: r = 15, density = 0.649964. SurfaceArea = 3631.574000
+82: It is Parallelepiped: a = 17, b = 6, c = 10, density = 1.314196. SurfaceArea = 600.000000
+83: It is Parallelepiped: a = 19, b = 10, c = 4, density = 2.868750. SurfaceArea = 556.000000
+84: It is Sphere: r = 17, density = 9.577401. SurfaceArea = 4536.326000
+85: It is Parallelepiped: a = 20, b = 7, c = 13, density = 7.406956. SurfaceArea = 862.000000
+86: It is Sphere: r = 20, density = 7.196990. SurfaceArea = 5026.400000
+87: It is Parallelepiped: a = 19, b = 11, c = 2, density = 2.875052. SurfaceArea = 564.000000
+88: It is Parallelepiped: a = 18, b = 14, c = 4, density = 18.104705. SurfaceArea = 796.000000
+89: It is Sphere: r = 2, density = 18.536537. SurfaceArea = 4071.384000
+90: It is Sphere: r = 3, density = 3.121128. SurfaceArea = 50.264000
+91: It is Sphere: r = 12, density = 12.670361. SurfaceArea = 113.094000
+92: It is Sphere: r = 13, density = 1.137271. SurfaceArea = 1809.504000
+93: It is Sphere: r = 17, density = 9.983711. SurfaceArea = 2123.654000
+94: It is Sphere: r = 8, density = 19.020449. SurfaceArea = 3631.574000
+95: It is Sphere: r = 14, density = 8.397449. SurfaceArea = 804.224000
+96: It is Parallelepiped: a = 18, b = 13, c = 8, density = 5.169827. SurfaceArea = 796.000000
+97: It is Sphere: r = 14, density = 2.280732. SurfaceArea = 4071.384000
+98: It is Sphere: r = 9, density = 9.453829. SurfaceArea = 2462.936000
+99: It is Sphere: r = 1, density = 10.052212. SurfaceArea = 1017.846000
+100: It is Sphere: r = 14, density = 7.687058. SurfaceArea = 12.566000
+101: It is Sphere: r = 15, density = 10.694221. SurfaceArea = 2462.936000
+102: It is Parallelepiped: a = 9, b = 17, c = 4, density = 18.559036. SurfaceArea = 766.000000
+103: It is Parallelepiped: a = 4, b = 14, c = 7, density = 10.806728. SurfaceArea = 574.000000
+104: It is Parallelepiped: a = 17, b = 8, c = 14, density = 3.157985. SurfaceArea = 400.000000
+105: It is Sphere: r = 6, density = 14.697625. SurfaceArea = 3631.574000
+106: It is Sphere: r = 3, density = 4.749837. SurfaceArea = 452.376000
+107: It is Parallelepiped: a = 2, b = 10, c = 17, density = 8.336719. SurfaceArea = 502.000000
+108: It is Parallelepiped: a = 8, b = 18, c = 5, density = 2.620197. SurfaceArea = 272.000000
+109: It is Sphere: r = 9, density = 19.898056. SurfaceArea = 804.224000
+110: It is Sphere: r = 18, density = 10.704784. SurfaceArea = 1017.846000
+111: It is Parallelepiped: a = 17, b = 6, c = 6, density = 3.903680. SurfaceArea = 504.000000
+112: It is Sphere: r = 1, density = 6.199437. SurfaceArea = 3631.574000
+113: It is Sphere: r = 1, density = 15.356176. SurfaceArea = 12.566000
+114: It is Sphere: r = 3, density = 14.854524. SurfaceArea = 12.566000
+115: It is Sphere: r = 6, density = 17.374721. SurfaceArea = 113.094000
+116: It is Sphere: r = 14, density = 8.940168. SurfaceArea = 452.376000
+117: It is Sphere: r = 11, density = 16.152894. SurfaceArea = 2462.936000
+118: It is Sphere: r = 6, density = 19.351009. SurfaceArea = 1520.486000
+119: It is Sphere: r = 9, density = 6.501136. SurfaceArea = 452.376000
+120: It is Sphere: r = 15, density = 3.351141. SurfaceArea = 1017.846000
+121: It is Parallelepiped: a = 5, b = 5, c = 20, density = 6.944036. SurfaceArea = 950.000000
+122: It is Sphere: r = 2, density = 16.329157. SurfaceArea = 314.150000
+123: It is Sphere: r = 8, density = 5.269325. SurfaceArea = 50.264000
+124: It is Sphere: r = 3, density = 7.081314. SurfaceArea = 804.224000
+125: It is Sphere: r = 20, density = 6.488567. SurfaceArea = 113.094000
+126: It is Parallelepiped: a = 6, b = 11, c = 6, density = 12.889703. SurfaceArea = 812.000000
+127: It is Parallelepiped: a = 11, b = 7, c = 12, density = 17.877553. SurfaceArea = 396.000000
+128: It is Parallelepiped: a = 6, b = 19, c = 10, density = 5.927272. SurfaceArea = 1018.000000
+129: It is Sphere: r = 4, density = 19.249111. SurfaceArea = 452.376000
+130: It is Sphere: r = 18, density = 10.628216. SurfaceArea = 201.056000
+131: It is Sphere: r = 13, density = 12.131442. SurfaceArea = 4071.384000
+132: It is Parallelepiped: a = 2, b = 18, c = 17, density = 18.520008. SurfaceArea = 1522.000000
+133: It is Parallelepiped: a = 16, b = 19, c = 5, density = 7.996303. SurfaceArea = 286.000000
+134: It is Sphere: r = 6, density = 2.718789. SurfaceArea = 3216.896000
+135: It is Sphere: r = 1, density = 8.546061. SurfaceArea = 452.376000
+136: It is Parallelepiped: a = 1, b = 14, c = 3, density = 15.851511. SurfaceArea = 118.000000
+137: It is Parallelepiped: a = 8, b = 11, c = 6, density = 5.036923. SurfaceArea = 166.000000
+138: It is Parallelepiped: a = 17, b = 2, c = 20, density = 9.935499. SurfaceArea = 432.000000
+139: It is Sphere: r = 12, density = 11.473592. SurfaceArea = 3631.574000
+140: It is Sphere: r = 7, density = 5.658011. SurfaceArea = 1809.504000
+141: It is Sphere: r = 4, density = 8.276800. SurfaceArea = 615.734000
+142: It is Sphere: r = 4, density = 16.722861. SurfaceArea = 201.056000
+143: It is Parallelepiped: a = 18, b = 18, c = 14, density = 12.574371. SurfaceArea = 760.000000
+144: It is Sphere: r = 18, density = 8.974692. SurfaceArea = 4071.384000
+145: It is Parallelepiped: a = 20, b = 5, c = 17, density = 18.810191. SurfaceArea = 962.000000
+146: It is Parallelepiped: a = 4, b = 13, c = 13, density = 2.126897. SurfaceArea = 1378.000000
+147: It is Sphere: r = 10, density = 19.151537. SurfaceArea = 201.056000
+148: It is Sphere: r = 6, density = 7.428337. SurfaceArea = 1256.600000
+149: It is Parallelepiped: a = 19, b = 6, c = 14, density = 4.151197. SurfaceArea = 408.000000
+150: It is Parallelepiped: a = 17, b = 15, c = 7, density = 15.851582. SurfaceArea = 1046.000000
+151: It is Sphere: r = 6, density = 10.690285. SurfaceArea = 3631.574000
+152: It is Parallelepiped: a = 18, b = 17, c = 3, density = 9.500476. SurfaceArea = 342.000000
+153: It is Sphere: r = 20, density = 3.896194. SurfaceArea = 4071.384000
+154: It is Sphere: r = 5, density = 3.763573. SurfaceArea = 5026.400000
+155: It is Sphere: r = 20, density = 6.660840. SurfaceArea = 314.150000
+156: It is Sphere: r = 7, density = 14.245489. SurfaceArea = 5026.400000
+157: It is Parallelepiped: a = 13, b = 5, c = 11, density = 15.961083. SurfaceArea = 334.000000
+158: It is Sphere: r = 17, density = 14.119138. SurfaceArea = 2123.654000
+159: It is Sphere: r = 14, density = 1.005285. SurfaceArea = 3631.574000
+160: It is Sphere: r = 14, density = 13.670410. SurfaceArea = 2462.936000
+161: It is Parallelepiped: a = 13, b = 12, c = 8, density = 17.333983. SurfaceArea = 752.000000
+162: It is Sphere: r = 12, density = 14.718784. SurfaceArea = 2123.654000
+163: It is Parallelepiped: a = 2, b = 15, c = 12, density = 8.964273. SurfaceArea = 1008.000000
+164: It is Parallelepiped: a = 7, b = 4, c = 19, density = 17.517293. SurfaceArea = 244.000000
+165: It is Sphere: r = 4, density = 5.668433. SurfaceArea = 615.734000
+166: It is Parallelepiped: a = 2, b = 13, c = 17, density = 14.726807. SurfaceArea = 682.000000
+167: It is Sphere: r = 9, density = 3.899112. SurfaceArea = 50.264000
+168: It is Parallelepiped: a = 3, b = 17, c = 11, density = 16.009419. SurfaceArea = 878.000000
+169: It is Sphere: r = 7, density = 8.987565. SurfaceArea = 113.094000
+170: It is Parallelepiped: a = 11, b = 4, c = 10, density = 17.851838. SurfaceArea = 276.000000
+171: It is Sphere: r = 1, density = 9.476450. SurfaceArea = 1520.486000
+172: It is Sphere: r = 17, density = 14.111300. SurfaceArea = 12.566000
+173: It is Parallelepiped: a = 11, b = 5, c = 7, density = 13.778525. SurfaceArea = 478.000000
+174: It is Parallelepiped: a = 5, b = 3, c = 9, density = 7.767155. SurfaceArea = 318.000000
+175: It is Sphere: r = 9, density = 13.929819. SurfaceArea = 314.150000
+176: It is Sphere: r = 18, density = 8.710384. SurfaceArea = 1017.846000
+177: It is Sphere: r = 18, density = 19.455122. SurfaceArea = 4071.384000
+178: It is Sphere: r = 18, density = 1.588708. SurfaceArea = 4071.384000
+179: It is Parallelepiped: a = 1, b = 14, c = 3, density = 15.600008. SurfaceArea = 696.000000
+180: It is Parallelepiped: a = 18, b = 12, c = 10, density = 16.619445. SurfaceArea = 284.000000
+181: It is Parallelepiped: a = 10, b = 15, c = 9, density = 17.172307. SurfaceArea = 1134.000000
+182: It is Sphere: r = 2, density = 5.267582. SurfaceArea = 1256.600000
+183: It is Parallelepiped: a = 13, b = 11, c = 7, density = 6.870866. SurfaceArea = 226.000000
+184: It is Parallelepiped: a = 6, b = 16, c = 3, density = 2.696373. SurfaceArea = 590.000000
+185: It is Sphere: r = 1, density = 11.390189. SurfaceArea = 452.376000
+186: It is Parallelepiped: a = 13, b = 17, c = 15, density = 17.416031. SurfaceArea = 574.000000
+187: It is Sphere: r = 13, density = 18.381650. SurfaceArea = 2123.654000
+188: It is Parallelepiped: a = 12, b = 6, c = 3, density = 18.021707. SurfaceArea = 270.000000
+189: It is Parallelepiped: a = 3, b = 10, c = 5, density = 10.146447. SurfaceArea = 460.000000
+190: It is Parallelepiped: a = 17, b = 16, c = 15, density = 8.637829. SurfaceArea = 666.000000
+191: It is Parallelepiped: a = 16, b = 17, c = 15, density = 9.087875. SurfaceArea = 1598.000000
+192: It is Sphere: r = 15, density = 4.067996. SurfaceArea = 3216.896000
+193: It is Parallelepiped: a = 12, b = 2, c = 3, density = 0.729988. SurfaceArea = 162.000000
+194: It is Sphere: r = 7, density = 17.206141. SurfaceArea = 1809.504000
+195: It is Parallelepiped: a = 1, b = 2, c = 10, density = 4.928841. SurfaceArea = 208.000000
+196: It is Parallelepiped: a = 4, b = 6, c = 1, density = 5.962456. SurfaceArea = 26.000000
+197: It is Parallelepiped: a = 1, b = 4, c = 2, density = 9.166180. SurfaceArea = 64.000000
+198: It is Parallelepiped: a = 15, b = 17, c = 16, density = 12.978245. SurfaceArea = 610.000000
+199: It is Sphere: r = 13, density = 10.554056. SurfaceArea = 2827.350000
+200: It is Sphere: r = 6, density = 3.811699. SurfaceArea = 2123.654000
+201: It is Sphere: r = 15, density = 2.246140. SurfaceArea = 452.376000
+202: It is Sphere: r = 7, density = 4.542912. SurfaceArea = 2827.350000
+203: It is Parallelepiped: a = 9, b = 3, c = 13, density = 10.405368. SurfaceArea = 302.000000
+204: It is Sphere: r = 7, density = 0.878080. SurfaceArea = 1017.846000
+205: It is Sphere: r = 13, density = 2.177026. SurfaceArea = 615.734000
+206: It is Sphere: r = 13, density = 12.631082. SurfaceArea = 2123.654000
+207: It is Sphere: r = 9, density = 3.944186. SurfaceArea = 2123.654000
+208: It is Parallelepiped: a = 20, b = 1, c = 6, density = 4.862026. SurfaceArea = 138.000000
+209: It is Sphere: r = 7, density = 5.076928. SurfaceArea = 5026.400000
+210: It is Sphere: r = 12, density = 15.382296. SurfaceArea = 615.734000
+211: It is Parallelepiped: a = 6, b = 1, c = 2, density = 17.252117. SurfaceArea = 76.000000
+212: It is Parallelepiped: a = 16, b = 20, c = 9, density = 0.615630. SurfaceArea = 708.000000
+213: It is Parallelepiped: a = 16, b = 19, c = 10, density = 7.428747. SurfaceArea = 1308.000000
+214: It is Sphere: r = 13, density = 11.920115. SurfaceArea = 3216.896000
+215: It is Sphere: r = 10, density = 19.296097. SurfaceArea = 2123.654000
+216: It is Sphere: r = 8, density = 6.040594. SurfaceArea = 1256.600000
+217: It is Sphere: r = 1, density = 3.148196. SurfaceArea = 804.224000
+218: It is Sphere: r = 6, density = 9.253651. SurfaceArea = 12.566000
+219: It is Parallelepiped: a = 4, b = 6, c = 20, density = 9.769281. SurfaceArea = 552.000000
+220: It is Sphere: r = 11, density = 2.547256. SurfaceArea = 201.056000
+221: It is Sphere: r = 5, density = 16.506292. SurfaceArea = 1520.486000
+222: It is Sphere: r = 9, density = 9.172845. SurfaceArea = 314.150000
+223: It is Parallelepiped: a = 15, b = 15, c = 15, density = 13.445869. SurfaceArea = 990.000000
+224: It is Parallelepiped: a = 1, b = 16, c = 3, density = 12.521087. SurfaceArea = 666.000000
+225: It is Parallelepiped: a = 20, b = 5, c = 15, density = 11.810562. SurfaceArea = 190.000000
+226: It is Sphere: r = 16, density = 16.721076. SurfaceArea = 5026.400000
+227: It is Parallelepiped: a = 6, b = 20, c = 9, density = 1.407253. SurfaceArea = 1288.000000
+228: It is Sphere: r = 11, density = 2.056819. SurfaceArea = 452.376000
+229: It is Sphere: r = 18, density = 5.489117. SurfaceArea = 1520.486000
+230: It is Parallelepiped: a = 3, b = 15, c = 1, density = 14.862008. SurfaceArea = 606.000000
+231: It is Sphere: r = 15, density = 11.646341. SurfaceArea = 113.094000
+232: It is Sphere: r = 7, density = 3.456902. SurfaceArea = 2827.350000
+233: It is Sphere: r = 13, density = 2.971636. SurfaceArea = 615.734000
+234: It is Parallelepiped: a = 2, b = 12, c = 2, density = 17.519288. SurfaceArea = 412.000000
+235: It is Parallelepiped: a = 16, b = 9, c = 5, density = 15.344260. SurfaceArea = 146.000000
+236: It is Sphere: r = 9, density = 7.356530. SurfaceArea = 3216.896000
+237: It is Sphere: r = 15, density = 9.540323. SurfaceArea = 1017.846000
+238: It is Parallelepiped: a = 19, b = 5, c = 10, density = 11.339754. SurfaceArea = 550.000000
+239: It is Parallelepiped: a = 20, b = 8, c = 14, density = 1.282321. SurfaceArea = 1060.000000
+240: It is Parallelepiped: a = 15, b = 5, c = 3, density = 5.615772. SurfaceArea = 350.000000
+241: It is Sphere: r = 19, density = 17.871616. SurfaceArea = 2827.350000
+242: It is Sphere: r = 1, density = 14.226168. SurfaceArea = 4536.326000
+243: It is Sphere: r = 10, density = 11.284431. SurfaceArea = 12.566000
+244: It is Parallelepiped: a = 13, b = 7, c = 4, density = 0.824753. SurfaceArea = 276.000000
+245: It is Sphere: r = 12, density = 19.331971. SurfaceArea = 2123.654000
+246: It is Parallelepiped: a = 6, b = 19, c = 15, density = 0.614292. SurfaceArea = 1386.000000
+247: It is Sphere: r = 2, density = 3.353839. SurfaceArea = 452.376000
+248: It is Sphere: r = 19, density = 12.972567. SurfaceArea = 50.264000
+249: It is Sphere: r = 17, density = 17.935555. SurfaceArea = 4536.326000
+250: It is Sphere: r = 6, density = 5.631993. SurfaceArea = 3631.574000
+251: It is Parallelepiped: a = 12, b = 16, c = 6, density = 17.818698. SurfaceArea = 456.000000
+252: It is Sphere: r = 16, density = 0.681851. SurfaceArea = 1809.504000
+253: It is Sphere: r = 14, density = 15.694173. SurfaceArea = 3216.896000
+254: It is Parallelepiped: a = 18, b = 9, c = 9, density = 12.152703. SurfaceArea = 666.000000
+255: It is Sphere: r = 17, density = 16.464975. SurfaceArea = 4071.384000
+256: It is Parallelepiped: a = 15, b = 15, c = 7, density = 17.478142. SurfaceArea = 958.000000
+257: It is Sphere: r = 20, density = 14.048630. SurfaceArea = 2827.350000
+258: It is Parallelepiped: a = 13, b = 13, c = 2, density = 11.867328. SurfaceArea = 652.000000
+259: It is Parallelepiped: a = 20, b = 1, c = 5, density = 2.487301. SurfaceArea = 166.000000
+260: It is Sphere: r = 13, density = 12.838065. SurfaceArea = 5026.400000
+261: It is Sphere: r = 17, density = 4.990768. SurfaceArea = 2123.654000
+262: It is Sphere: r = 3, density = 15.376476. SurfaceArea = 3631.574000
+263: It is Parallelepiped: a = 4, b = 15, c = 13, density = 12.334718. SurfaceArea = 558.000000
+264: It is Parallelepiped: a = 15, b = 2, c = 16, density = 11.829012. SurfaceArea = 208.000000
+265: It is Sphere: r = 9, density = 1.767637. SurfaceArea = 2827.350000
+266: It is Sphere: r = 1, density = 13.619753. SurfaceArea = 1017.846000
+267: It is Sphere: r = 19, density = 12.764140. SurfaceArea = 12.566000
+268: It is Sphere: r = 12, density = 11.295360. SurfaceArea = 4536.326000
+269: It is Parallelepiped: a = 2, b = 12, c = 3, density = 4.343037. SurfaceArea = 432.000000
+270: It is Sphere: r = 11, density = 0.895285. SurfaceArea = 50.264000
+271: It is Sphere: r = 3, density = 9.405974. SurfaceArea = 1520.486000
+272: It is Sphere: r = 11, density = 2.214656. SurfaceArea = 113.094000
+273: It is Parallelepiped: a = 18, b = 11, c = 14, density = 15.734409. SurfaceArea = 858.000000
+274: It is Sphere: r = 5, density = 17.702349. SurfaceArea = 4071.384000
+275: It is Sphere: r = 17, density = 11.255339. SurfaceArea = 314.150000
+276: It is Sphere: r = 12, density = 19.715906. SurfaceArea = 3631.574000
+277: It is Sphere: r = 20, density = 10.334912. SurfaceArea = 1809.504000
+278: It is Sphere: r = 2, density = 12.817719. SurfaceArea = 5026.400000
+279: It is Parallelepiped: a = 7, b = 2, c = 14, density = 14.932375. SurfaceArea = 120.000000
+280: It is Sphere: r = 10, density = 17.081180. SurfaceArea = 615.734000
+281: It is Sphere: r = 9, density = 8.876551. SurfaceArea = 1256.600000
+282: It is Parallelepiped: a = 15, b = 9, c = 7, density = 17.839487. SurfaceArea = 414.000000
+283: It is Sphere: r = 8, density = 14.939146. SurfaceArea = 2827.350000
+284: It is Sphere: r = 2, density = 18.101863. SurfaceArea = 804.224000
+285: It is Parallelepiped: a = 1, b = 19, c = 15, density = 17.742749. SurfaceArea = 706.000000
+286: It is Sphere: r = 7, density = 10.309325. SurfaceArea = 12.566000
+287: It is Sphere: r = 16, density = 11.827500. SurfaceArea = 615.734000
+288: It is Sphere: r = 14, density = 5.778862. SurfaceArea = 3216.896000
+289: It is Parallelepiped: a = 11, b = 11, c = 15, density = 1.002102. SurfaceArea = 1058.000000
+290: It is Parallelepiped: a = 17, b = 4, c = 4, density = 15.195141. SurfaceArea = 208.000000
+291: It is Sphere: r = 11, density = 14.038972. SurfaceArea = 3631.574000
+292: It is Sphere: r = 17, density = 10.522107. SurfaceArea = 1520.486000
+293: It is Parallelepiped: a = 12, b = 6, c = 6, density = 11.175405. SurfaceArea = 480.000000
+294: It is Sphere: r = 19, density = 16.289156. SurfaceArea = 1809.504000
+295: It is Parallelepiped: a = 10, b = 19, c = 16, density = 2.068018. SurfaceArea = 1938.000000
+296: It is Sphere: r = 12, density = 0.641290. SurfaceArea = 1256.600000
+297: It is Sphere: r = 1, density = 15.736432. SurfaceArea = 1809.504000
+298: It is Sphere: r = 4, density = 9.033436. SurfaceArea = 12.566000
+299: It is Sphere: r = 11, density = 19.973189. SurfaceArea = 201.056000
+300: It is Sphere: r = 11, density = 6.973216. SurfaceArea = 1520.486000
+301: It is Sphere: r = 4, density = 17.600430. SurfaceArea = 1520.486000
+302: It is Sphere: r = 9, density = 17.918102. SurfaceArea = 201.056000
+303: It is Sphere: r = 8, density = 19.641538. SurfaceArea = 1017.846000
+304: It is Sphere: r = 15, density = 0.153955. SurfaceArea = 804.224000
+305: It is Parallelepiped: a = 19, b = 14, c = 4, density = 10.056906. SurfaceArea = 652.000000
+306: It is Sphere: r = 6, density = 17.209459. SurfaceArea = 4536.326000
+307: It is Sphere: r = 7, density = 0.535709. SurfaceArea = 452.376000
+308: It is Sphere: r = 20, density = 1.461423. SurfaceArea = 615.734000
+309: It is Sphere: r = 16, density = 10.055219. SurfaceArea = 5026.400000
+310: It is Sphere: r = 2, density = 2.707615. SurfaceArea = 3216.896000
+311: It is Sphere: r = 8, density = 10.885887. SurfaceArea = 50.264000
+312: It is Sphere: r = 4, density = 10.859479. SurfaceArea = 804.224000
+313: It is Parallelepiped: a = 19, b = 8, c = 9, density = 4.421973. SurfaceArea = 280.000000
+314: It is Sphere: r = 20, density = 17.203742. SurfaceArea = 4536.326000
+315: It is Parallelepiped: a = 16, b = 4, c = 5, density = 9.567918. SurfaceArea = 400.000000
+316: It is Sphere: r = 11, density = 1.376182. SurfaceArea = 3216.896000
+317: It is Sphere: r = 9, density = 3.983798. SurfaceArea = 1520.486000
+318: It is Sphere: r = 17, density = 11.339749. SurfaceArea = 1017.846000
+319: It is Sphere: r = 4, density = 19.361907. SurfaceArea = 3631.574000
+320: It is Parallelepiped: a = 13, b = 15, c = 12, density = 4.693523. SurfaceArea = 576.000000
+321: It is Sphere: r = 20, density = 0.931791. SurfaceArea = 2123.654000
+322: It is Sphere: r = 3, density = 7.843327. SurfaceArea = 5026.400000
+323: It is Sphere: r = 13, density = 17.505950. SurfaceArea = 113.094000
+324: It is Sphere: r = 15, density = 11.156612. SurfaceArea = 2123.654000
+325: It is Sphere: r = 12, density = 0.797385. SurfaceArea = 2827.350000
+326: It is Parallelepiped: a = 8, b = 1, c = 5, density = 19.961228. SurfaceArea = 154.000000
+327: It is Parallelepiped: a = 17, b = 6, c = 13, density = 18.879961. SurfaceArea = 460.000000
+328: It is Sphere: r = 5, density = 15.605344. SurfaceArea = 3631.574000
+329: It is Parallelepiped: a = 14, b = 6, c = 8, density = 7.367627. SurfaceArea = 236.000000
+330: It is Sphere: r = 15, density = 8.636115. SurfaceArea = 2462.936000
+331: It is Sphere: r = 2, density = 9.560781. SurfaceArea = 2827.350000
+332: It is Sphere: r = 18, density = 11.368581. SurfaceArea = 50.264000
+333: It is Sphere: r = 6, density = 5.655019. SurfaceArea = 4071.384000
+334: It is Sphere: r = 9, density = 4.534980. SurfaceArea = 452.376000
+335: It is Sphere: r = 13, density = 9.190317. SurfaceArea = 1017.846000
+336: It is Sphere: r = 13, density = 16.457944. SurfaceArea = 2123.654000
+337: It is Sphere: r = 2, density = 12.706452. SurfaceArea = 2123.654000
+338: It is Parallelepiped: a = 1, b = 9, c = 4, density = 17.846996. SurfaceArea = 124.000000
+339: It is Sphere: r = 4, density = 17.497429. SurfaceArea = 12.566000
+340: It is Sphere: r = 9, density = 3.194099. SurfaceArea = 201.056000
+341: It is Sphere: r = 19, density = 6.680346. SurfaceArea = 1017.846000
+342: It is Sphere: r = 19, density = 12.260779. SurfaceArea = 4536.326000
+343: It is Sphere: r = 8, density = 10.859689. SurfaceArea = 4536.326000
+344: It is Sphere: r = 7, density = 6.499360. SurfaceArea = 804.224000
+345: It is Parallelepiped: a = 15, b = 2, c = 11, density = 16.886776. SurfaceArea = 226.000000
+346: It is Parallelepiped: a = 16, b = 13, c = 13, density = 8.119177. SurfaceArea = 1118.000000
+347: It is Parallelepiped: a = 15, b = 15, c = 4, density = 6.003426. SurfaceArea = 728.000000
+348: It is Parallelepiped: a = 9, b = 4, c = 13, density = 8.376318. SurfaceArea = 614.000000
+349: It is Sphere: r = 15, density = 10.730344. SurfaceArea = 1017.846000
+350: It is Sphere: r = 14, density = 9.753164. SurfaceArea = 2827.350000
+351: It is Sphere: r = 16, density = 2.181094. SurfaceArea = 2462.936000
+352: It is Sphere: r = 11, density = 17.225565. SurfaceArea = 3216.896000
+353: It is Parallelepiped: a = 2, b = 13, c = 14, density = 5.344742. SurfaceArea = 958.000000
+354: It is Sphere: r = 10, density = 15.575683. SurfaceArea = 50.264000
+355: It is Parallelepiped: a = 15, b = 13, c = 19, density = 8.159456. SurfaceArea = 1134.000000
+356: It is Parallelepiped: a = 6, b = 10, c = 11, density = 18.791295. SurfaceArea = 850.000000
+357: It is Sphere: r = 12, density = 1.606390. SurfaceArea = 452.376000
+358: It is Sphere: r = 7, density = 10.362367. SurfaceArea = 1809.504000
+359: It is Parallelepiped: a = 18, b = 5, c = 3, density = 7.587932. SurfaceArea = 142.000000
+360: It is Sphere: r = 10, density = 1.790947. SurfaceArea = 4071.384000
+361: It is Parallelepiped: a = 4, b = 11, c = 7, density = 11.668827. SurfaceArea = 514.000000
+362: It is Sphere: r = 19, density = 2.822901. SurfaceArea = 201.056000
+363: It is Sphere: r = 8, density = 15.189542. SurfaceArea = 4536.326000
+364: It is Sphere: r = 4, density = 5.249697. SurfaceArea = 804.224000
+365: It is Sphere: r = 3, density = 5.770616. SurfaceArea = 201.056000
+366: It is Sphere: r = 5, density = 3.344478. SurfaceArea = 113.094000
+367: It is Sphere: r = 4, density = 3.962255. SurfaceArea = 314.150000
+368: It is Parallelepiped: a = 13, b = 10, c = 9, density = 8.813849. SurfaceArea = 332.000000
+369: It is Parallelepiped: a = 13, b = 13, c = 2, density = 16.956309. SurfaceArea = 442.000000
+370: It is Sphere: r = 1, density = 6.437634. SurfaceArea = 2123.654000
+371: It is Parallelepiped: a = 20, b = 6, c = 13, density = 9.808449. SurfaceArea = 194.000000
+372: It is Sphere: r = 4, density = 11.366647. SurfaceArea = 5026.400000
+373: It is Sphere: r = 10, density = 2.061007. SurfaceArea = 201.056000
+374: It is Sphere: r = 3, density = 14.337800. SurfaceArea = 1256.600000
+375: It is Sphere: r = 16, density = 14.944988. SurfaceArea = 113.094000
+376: It is Sphere: r = 2, density = 6.193080. SurfaceArea = 3216.896000
+377: It is Sphere: r = 14, density = 3.175444. SurfaceArea = 50.264000
+378: It is Parallelepiped: a = 19, b = 1, c = 3, density = 2.750366. SurfaceArea = 118.000000
+379: It is Sphere: r = 14, density = 9.160066. SurfaceArea = 4536.326000
+380: It is Parallelepiped: a = 2, b = 7, c = 1, density = 11.121073. SurfaceArea = 238.000000
+381: It is Sphere: r = 12, density = 16.761336. SurfaceArea = 50.264000
+382: It is Parallelepiped: a = 6, b = 13, c = 15, density = 5.332543. SurfaceArea = 1062.000000
+383: It is Sphere: r = 7, density = 5.770719. SurfaceArea = 452.376000
+384: It is Parallelepiped: a = 6, b = 10, c = 12, density = 8.846163. SurfaceArea = 548.000000
+385: It is Sphere: r = 12, density = 16.007619. SurfaceArea = 452.376000
+386: It is Parallelepiped: a = 12, b = 14, c = 18, density = 15.392334. SurfaceArea = 1272.000000
+387: It is Sphere: r = 5, density = 7.913280. SurfaceArea = 1809.504000
+388: It is Parallelepiped: a = 10, b = 8, c = 4, density = 4.674616. SurfaceArea = 184.000000
+389: It is Sphere: r = 16, density = 14.984409. SurfaceArea = 1256.600000
+390: It is Sphere: r = 2, density = 0.755128. SurfaceArea = 3216.896000
+391: It is Sphere: r = 2, density = 9.501291. SurfaceArea = 50.264000
+392: It is Parallelepiped: a = 16, b = 11, c = 5, density = 0.997821. SurfaceArea = 174.000000
+393: It is Sphere: r = 10, density = 16.362397. SurfaceArea = 3216.896000
+394: It is Sphere: r = 4, density = 18.558019. SurfaceArea = 1256.600000
+395: It is Sphere: r = 19, density = 10.902936. SurfaceArea = 201.056000
+396: It is Parallelepiped: a = 12, b = 10, c = 13, density = 0.810095. SurfaceArea = 1134.000000
+397: It is Parallelepiped: a = 16, b = 14, c = 14, density = 4.263409. SurfaceArea = 1064.000000
+398: It is Sphere: r = 9, density = 4.503499. SurfaceArea = 3216.896000
+399: It is Sphere: r = 12, density = 5.401320. SurfaceArea = 1017.846000
+400: It is Sphere: r = 20, density = 12.250486. SurfaceArea = 1809.504000
+401: It is Parallelepiped: a = 5, b = 10, c = 8, density = 17.346119. SurfaceArea = 880.000000
+402: It is Parallelepiped: a = 9, b = 15, c = 11, density = 11.102028. SurfaceArea = 590.000000
+403: It is Sphere: r = 12, density = 3.350788. SurfaceArea = 1017.846000
+404: It is Parallelepiped: a = 2, b = 10, c = 15, density = 7.514197. SurfaceArea = 900.000000
+405: It is Sphere: r = 11, density = 5.616244. SurfaceArea = 50.264000
+406: It is Sphere: r = 17, density = 10.917563. SurfaceArea = 1520.486000
+407: It is Sphere: r = 1, density = 13.228027. SurfaceArea = 3631.574000
+408: It is Sphere: r = 17, density = 7.341806. SurfaceArea = 12.566000
+409: It is Sphere: r = 11, density = 18.343834. SurfaceArea = 3631.574000
+410: It is Parallelepiped: a = 4, b = 6, c = 1, density = 10.844623. SurfaceArea = 166.000000
+411: It is Parallelepiped: a = 20, b = 6, c = 18, density = 19.883172. SurfaceArea = 408.000000
+412: It is Parallelepiped: a = 4, b = 3, c = 14, density = 16.627026. SurfaceArea = 764.000000
+413: It is Sphere: r = 7, density = 6.365171. SurfaceArea = 201.056000
+414: It is Parallelepiped: a = 5, b = 19, c = 18, density = 14.156881. SurfaceArea = 1202.000000
+415: It is Parallelepiped: a = 12, b = 12, c = 4, density = 0.339607. SurfaceArea = 256.000000
+416: It is Parallelepiped: a = 15, b = 20, c = 15, density = 5.860972. SurfaceArea = 1440.000000
+417: It is Parallelepiped: a = 4, b = 7, c = 11, density = 17.446323. SurfaceArea = 694.000000
+418: It is Sphere: r = 18, density = 17.863660. SurfaceArea = 201.056000
+419: It is Sphere: r = 13, density = 13.311268. SurfaceArea = 4071.384000
+420: It is Sphere: r = 19, density = 19.576439. SurfaceArea = 2123.654000
+421: It is Parallelepiped: a = 8, b = 6, c = 12, density = 13.733320. SurfaceArea = 828.000000
+422: It is Sphere: r = 15, density = 10.001344. SurfaceArea = 804.224000
+423: It is Sphere: r = 9, density = 12.198534. SurfaceArea = 2827.350000
+424: It is Parallelepiped: a = 4, b = 15, c = 17, density = 8.804129. SurfaceArea = 1086.000000
+425: It is Sphere: r = 15, density = 1.063680. SurfaceArea = 201.056000
+426: It is Sphere: r = 3, density = 8.444776. SurfaceArea = 2827.350000
+427: It is Sphere: r = 14, density = 6.701469. SurfaceArea = 113.094000
+428: It is Parallelepiped: a = 14, b = 3, c = 8, density = 0.434790. SurfaceArea = 356.000000
+429: It is Sphere: r = 1, density = 12.815474. SurfaceArea = 2462.936000
+430: It is Sphere: r = 9, density = 5.014008. SurfaceArea = 12.566000
+431: It is Sphere: r = 12, density = 13.718137. SurfaceArea = 1017.846000
+432: It is Sphere: r = 5, density = 6.710797. SurfaceArea = 1809.504000
+433: It is Sphere: r = 15, density = 6.448572. SurfaceArea = 314.150000
+434: It is Sphere: r = 1, density = 2.191093. SurfaceArea = 2827.350000
+435: It is Parallelepiped: a = 20, b = 5, c = 19, density = 10.903490. SurfaceArea = 238.000000
+436: It is Sphere: r = 11, density = 8.081215. SurfaceArea = 5026.400000
+437: It is Sphere: r = 4, density = 2.568372. SurfaceArea = 1520.486000
+438: It is Sphere: r = 11, density = 16.940028. SurfaceArea = 201.056000
+439: It is Sphere: r = 8, density = 13.926887. SurfaceArea = 1520.486000
+440: It is Sphere: r = 5, density = 5.233140. SurfaceArea = 804.224000
+441: It is Parallelepiped: a = 6, b = 14, c = 2, density = 10.259446. SurfaceArea = 216.000000
+442: It is Parallelepiped: a = 4, b = 2, c = 13, density = 2.864556. SurfaceArea = 232.000000
+443: It is Sphere: r = 14, density = 9.901603. SurfaceArea = 201.056000
+444: It is Parallelepiped: a = 12, b = 5, c = 5, density = 12.369976. SurfaceArea = 330.000000
+445: It is Sphere: r = 14, density = 4.544149. SurfaceArea = 1809.504000
+446: It is Sphere: r = 1, density = 18.371036. SurfaceArea = 2462.936000
+447: It is Parallelepiped: a = 1, b = 11, c = 5, density = 14.623822. SurfaceArea = 142.000000
+448: It is Sphere: r = 18, density = 3.888322. SurfaceArea = 12.566000
+449: It is Sphere: r = 2, density = 5.424751. SurfaceArea = 4071.384000
+450: It is Parallelepiped: a = 7, b = 2, c = 2, density = 16.170522. SurfaceArea = 24.000000
+451: It is Sphere: r = 11, density = 4.242238. SurfaceArea = 615.734000
+452: It is Sphere: r = 8, density = 12.698723. SurfaceArea = 1520.486000
+453: It is Parallelepiped: a = 6, b = 20, c = 4, density = 18.977659. SurfaceArea = 544.000000
+454: It is Parallelepiped: a = 19, b = 5, c = 6, density = 16.322597. SurfaceArea = 192.000000
+455: It is Parallelepiped: a = 17, b = 8, c = 1, density = 2.095256. SurfaceArea = 358.000000
+456: It is Sphere: r = 10, density = 9.085839. SurfaceArea = 3631.574000
+457: It is Parallelepiped: a = 16, b = 16, c = 17, density = 5.256361. SurfaceArea = 1204.000000
+458: It is Sphere: r = 13, density = 11.818907. SurfaceArea = 3216.896000
+459: It is Sphere: r = 17, density = 8.637995. SurfaceArea = 2123.654000
+460: It is Sphere: r = 7, density = 1.188918. SurfaceArea = 3631.574000
+461: It is Sphere: r = 10, density = 13.219151. SurfaceArea = 615.734000
+462: It is Sphere: r = 16, density = 2.488943. SurfaceArea = 1256.600000
+463: It is Sphere: r = 11, density = 15.338303. SurfaceArea = 3216.896000
+464: It is Sphere: r = 6, density = 16.539559. SurfaceArea = 1520.486000
+465: It is Parallelepiped: a = 6, b = 12, c = 10, density = 8.358467. SurfaceArea = 504.000000
+466: It is Sphere: r = 12, density = 0.380776. SurfaceArea = 452.376000
+467: It is Sphere: r = 13, density = 13.452979. SurfaceArea = 1809.504000
+468: It is Parallelepiped: a = 1, b = 18, c = 2, density = 9.363895. SurfaceArea = 592.000000
+469: It is Parallelepiped: a = 18, b = 3, c = 5, density = 15.930008. SurfaceArea = 46.000000
+470: It is Parallelepiped: a = 11, b = 1, c = 10, density = 14.152038. SurfaceArea = 416.000000
+471: It is Sphere: r = 12, density = 16.191715. SurfaceArea = 1520.486000
+472: It is Sphere: r = 5, density = 14.648974. SurfaceArea = 1809.504000
+473: It is Sphere: r = 5, density = 15.045528. SurfaceArea = 314.150000
+474: It is Sphere: r = 10, density = 1.582294. SurfaceArea = 314.150000
+475: It is Parallelepiped: a = 4, b = 14, c = 4, density = 10.846189. SurfaceArea = 472.000000
+476: It is Parallelepiped: a = 6, b = 18, c = 16, density = 7.917809. SurfaceArea = 848.000000
+477: It is Parallelepiped: a = 14, b = 1, c = 11, density = 1.287207. SurfaceArea = 166.000000
+478: It is Parallelepiped: a = 3, b = 14, c = 19, density = 7.011269. SurfaceArea = 1456.000000
+479: It is Sphere: r = 16, density = 10.352574. SurfaceArea = 113.094000
+480: It is Parallelepiped: a = 16, b = 6, c = 14, density = 18.381889. SurfaceArea = 808.000000
+481: It is Parallelepiped: a = 5, b = 1, c = 8, density = 10.667217. SurfaceArea = 304.000000
+482: It is Sphere: r = 6, density = 15.737101. SurfaceArea = 314.150000
+483: It is Sphere: r = 2, density = 18.862850. SurfaceArea = 452.376000
+484: It is Sphere: r = 20, density = 18.091228. SurfaceArea = 50.264000
+485: It is Sphere: r = 10, density = 19.946257. SurfaceArea = 5026.400000
+486: It is Parallelepiped: a = 5, b = 12, c = 19, density = 16.566039. SurfaceArea = 1076.000000
+487: It is Sphere: r = 1, density = 2.748218. SurfaceArea = 314.150000
+488: It is Parallelepiped: a = 9, b = 10, c = 19, density = 13.315435. SurfaceArea = 438.000000
+489: It is Parallelepiped: a = 12, b = 5, c = 2, density = 4.769200. SurfaceArea = 146.000000
+490: It is Sphere: r = 10, density = 16.110265. SurfaceArea = 1809.504000
+491: It is Sphere: r = 9, density = 9.674024. SurfaceArea = 1256.600000
+492: It is Sphere: r = 8, density = 5.745832. SurfaceArea = 1017.846000
+493: It is Parallelepiped: a = 11, b = 11, c = 20, density = 0.137090. SurfaceArea = 936.000000
+494: It is Sphere: r = 6, density = 5.366892. SurfaceArea = 1520.486000
+495: It is Sphere: r = 20, density = 6.821663. SurfaceArea = 452.376000
+496: It is Sphere: r = 19, density = 7.916267. SurfaceArea = 5026.400000
+497: It is Sphere: r = 6, density = 7.873721. SurfaceArea = 4536.326000
+498: It is Sphere: r = 14, density = 17.413578. SurfaceArea = 452.376000
+499: It is Sphere: r = 11, density = 3.647108. SurfaceArea = 2462.936000
+500: It is Sphere: r = 12, density = 7.934554. SurfaceArea = 1520.486000
+501: It is Parallelepiped: a = 16, b = 18, c = 17, density = 13.580385. SurfaceArea = 1452.000000
+502: It is Parallelepiped: a = 20, b = 11, c = 19, density = 5.894833. SurfaceArea = 1378.000000
+503: It is Parallelepiped: a = 1, b = 10, c = 2, density = 1.284847. SurfaceArea = 520.000000
+504: It is Sphere: r = 10, density = 2.289204. SurfaceArea = 12.566000
+505: It is Parallelepiped: a = 15, b = 14, c = 2, density = 16.105909. SurfaceArea = 376.000000
+506: It is Parallelepiped: a = 7, b = 15, c = 4, density = 13.583577. SurfaceArea = 690.000000
+507: It is Parallelepiped: a = 20, b = 11, c = 15, density = 12.491738. SurfaceArea = 694.000000
+508: It is Sphere: r = 5, density = 18.844470. SurfaceArea = 5026.400000
+509: It is Sphere: r = 5, density = 8.195912. SurfaceArea = 314.150000
+510: It is Sphere: r = 15, density = 0.158136. SurfaceArea = 314.150000
+511: It is Sphere: r = 3, density = 7.275788. SurfaceArea = 2827.350000
+512: It is Sphere: r = 11, density = 6.859969. SurfaceArea = 113.094000
+513: It is Parallelepiped: a = 12, b = 15, c = 1, density = 15.297520. SurfaceArea = 382.000000
+514: It is Sphere: r = 2, density = 10.896509. SurfaceArea = 1809.504000
+515: It is Sphere: r = 18, density = 6.788893. SurfaceArea = 50.264000
+516: It is Parallelepiped: a = 5, b = 12, c = 9, density = 14.884804. SurfaceArea = 972.000000
+517: It is Parallelepiped: a = 4, b = 5, c = 18, density = 14.685719. SurfaceArea = 410.000000
+518: It is Sphere: r = 18, density = 8.679664. SurfaceArea = 201.056000
+519: It is Sphere: r = 8, density = 15.439633. SurfaceArea = 4071.384000
+520: It is Parallelepiped: a = 4, b = 17, c = 11, density = 10.737153. SurfaceArea = 822.000000
+521: It is Parallelepiped: a = 4, b = 10, c = 11, density = 12.786115. SurfaceArea = 388.000000
+522: It is Sphere: r = 2, density = 17.668245. SurfaceArea = 201.056000
+523: It is Parallelepiped: a = 3, b = 1, c = 6, density = 12.553050. SurfaceArea = 40.000000
+524: It is Parallelepiped: a = 3, b = 13, c = 19, density = 10.473104. SurfaceArea = 686.000000
+525: It is Sphere: r = 1, density = 1.884477. SurfaceArea = 113.094000
+526: It is Parallelepiped: a = 8, b = 13, c = 18, density = 17.224109. SurfaceArea = 530.000000
+527: It is Sphere: r = 11, density = 5.927712. SurfaceArea = 804.224000
+528: It is Parallelepiped: a = 7, b = 13, c = 3, density = 18.613826. SurfaceArea = 430.000000
+529: It is Sphere: r = 20, density = 7.574317. SurfaceArea = 615.734000
+530: It is Sphere: r = 8, density = 0.127367. SurfaceArea = 5026.400000
+531: It is Parallelepiped: a = 6, b = 8, c = 19, density = 19.635859. SurfaceArea = 736.000000
+532: It is Parallelepiped: a = 14, b = 20, c = 20, density = 18.110739. SurfaceArea = 1280.000000
+533: It is Sphere: r = 1, density = 12.973034. SurfaceArea = 2462.936000
+534: It is Sphere: r = 6, density = 12.942092. SurfaceArea = 12.566000
+535: It is Sphere: r = 4, density = 16.027116. SurfaceArea = 452.376000
+536: It is Sphere: r = 5, density = 3.601433. SurfaceArea = 201.056000
+537: It is Sphere: r = 3, density = 10.844480. SurfaceArea = 314.150000
+538: It is Sphere: r = 1, density = 0.933515. SurfaceArea = 113.094000
+539: It is Sphere: r = 7, density = 3.672775. SurfaceArea = 12.566000
+540: It is Sphere: r = 5, density = 2.055283. SurfaceArea = 615.734000
+541: It is Sphere: r = 16, density = 10.405732. SurfaceArea = 314.150000
+542: It is Sphere: r = 9, density = 17.600058. SurfaceArea = 3216.896000
+543: It is Sphere: r = 11, density = 4.234041. SurfaceArea = 1017.846000
+544: It is Sphere: r = 19, density = 11.534045. SurfaceArea = 1520.486000
+545: It is Parallelepiped: a = 15, b = 3, c = 11, density = 2.762595. SurfaceArea = 598.000000
+546: It is Parallelepiped: a = 20, b = 5, c = 5, density = 16.741419. SurfaceArea = 350.000000
+547: It is Sphere: r = 20, density = 7.722204. SurfaceArea = 5026.400000
+548: It is Sphere: r = 12, density = 9.491339. SurfaceArea = 5026.400000
+549: It is Sphere: r = 16, density = 18.274856. SurfaceArea = 1809.504000
+550: It is Sphere: r = 14, density = 0.100464. SurfaceArea = 3216.896000
+551: It is Parallelepiped: a = 16, b = 18, c = 16, density = 13.281991. SurfaceArea = 1528.000000
+552: It is Sphere: r = 18, density = 8.711300. SurfaceArea = 3216.896000
+553: It is Sphere: r = 1, density = 15.489749. SurfaceArea = 4071.384000
+554: It is Parallelepiped: a = 20, b = 14, c = 4, density = 5.532856. SurfaceArea = 148.000000
+555: It is Sphere: r = 19, density = 18.215477. SurfaceArea = 5026.400000
+556: It is Sphere: r = 10, density = 5.937681. SurfaceArea = 4536.326000
+557: It is Sphere: r = 15, density = 0.338054. SurfaceArea = 1256.600000
+558: It is Sphere: r = 6, density = 6.856521. SurfaceArea = 2827.350000
+559: It is Sphere: r = 3, density = 1.691189. SurfaceArea = 452.376000
+560: It is Sphere: r = 19, density = 5.267902. SurfaceArea = 113.094000
+561: It is Sphere: r = 16, density = 2.839373. SurfaceArea = 4536.326000
+562: It is Sphere: r = 9, density = 2.239632. SurfaceArea = 3216.896000
+563: It is Parallelepiped: a = 4, b = 2, c = 14, density = 13.396034. SurfaceArea = 344.000000
+564: It is Sphere: r = 8, density = 16.449055. SurfaceArea = 201.056000
+565: It is Parallelepiped: a = 13, b = 15, c = 10, density = 10.052932. SurfaceArea = 700.000000
+566: It is Sphere: r = 20, density = 3.204575. SurfaceArea = 2123.654000
+567: It is Sphere: r = 1, density = 17.202695. SurfaceArea = 5026.400000
+568: It is Sphere: r = 8, density = 4.778862. SurfaceArea = 12.566000
+569: It is Sphere: r = 17, density = 6.918494. SurfaceArea = 804.224000
+570: It is Parallelepiped: a = 5, b = 18, c = 15, density = 0.314527. SurfaceArea = 1662.000000
+571: It is Sphere: r = 14, density = 3.345308. SurfaceArea = 314.150000
+572: It is Parallelepiped: a = 5, b = 16, c = 12, density = 5.212224. SurfaceArea = 1168.000000
+573: It is Sphere: r = 16, density = 6.857163. SurfaceArea = 314.150000
+574: It is Parallelepiped: a = 6, b = 13, c = 13, density = 4.059857. SurfaceArea = 1170.000000
+575: It is Parallelepiped: a = 15, b = 10, c = 20, density = 8.990484. SurfaceArea = 760.000000
+576: It is Sphere: r = 17, density = 14.590591. SurfaceArea = 2827.350000
+577: It is Sphere: r = 2, density = 18.099369. SurfaceArea = 3631.574000
+578: It is Parallelepiped: a = 19, b = 4, c = 4, density = 1.444678. SurfaceArea = 64.000000
+579: It is Sphere: r = 16, density = 5.592566. SurfaceArea = 4536.326000
+580: It is Sphere: r = 11, density = 12.349728. SurfaceArea = 3216.896000
+581: It is Parallelepiped: a = 20, b = 15, c = 7, density = 16.309586. SurfaceArea = 694.000000
+582: It is Sphere: r = 12, density = 14.138661. SurfaceArea = 5026.400000
+583: It is Parallelepiped: a = 9, b = 17, c = 12, density = 14.420535. SurfaceArea = 1104.000000
+584: It is Sphere: r = 2, density = 0.861049. SurfaceArea = 1017.846000
+585: It is Parallelepiped: a = 1, b = 9, c = 14, density = 2.205727. SurfaceArea = 344.000000
+586: It is Parallelepiped: a = 1, b = 3, c = 10, density = 16.810653. SurfaceArea = 86.000000
+587: It is Sphere: r = 8, density = 10.052672. SurfaceArea = 12.566000
+588: It is Sphere: r = 18, density = 15.455452. SurfaceArea = 804.224000
+589: It is Sphere: r = 1, density = 16.947350. SurfaceArea = 4071.384000
+590: It is Parallelepiped: a = 15, b = 16, c = 6, density = 11.367885. SurfaceArea = 236.000000
+591: It is Sphere: r = 8, density = 5.942779. SurfaceArea = 2827.350000
+592: It is Parallelepiped: a = 16, b = 2, c = 6, density = 3.711796. SurfaceArea = 152.000000
+593: It is Sphere: r = 12, density = 4.664465. SurfaceArea = 3216.896000
+594: It is Parallelepiped: a = 3, b = 18, c = 4, density = 14.060240. SurfaceArea = 672.000000
+595: It is Parallelepiped: a = 14, b = 8, c = 5, density = 17.238581. SurfaceArea = 158.000000
+596: It is Parallelepiped: a = 11, b = 4, c = 6, density = 1.277909. SurfaceArea = 328.000000
+597: It is Sphere: r = 17, density = 4.435775. SurfaceArea = 1520.486000
+598: It is Sphere: r = 16, density = 17.444468. SurfaceArea = 3631.574000
+599: It is Parallelepiped: a = 14, b = 4, c = 11, density = 1.156264. SurfaceArea = 568.000000
+600: It is Sphere: r = 1, density = 19.083548. SurfaceArea = 2462.936000
+601: It is Sphere: r = 17, density = 16.678006. SurfaceArea = 12.566000
+602: It is Parallelepiped: a = 17, b = 8, c = 11, density = 1.008566. SurfaceArea = 822.000000
+603: It is Sphere: r = 19, density = 9.172074. SurfaceArea = 3631.574000
+604: It is Sphere: r = 19, density = 13.507849. SurfaceArea = 4536.326000
+605: It is Sphere: r = 3, density = 14.191926. SurfaceArea = 4536.326000
+606: It is Sphere: r = 16, density = 10.267888. SurfaceArea = 113.094000
+607: It is Sphere: r = 16, density = 2.180201. SurfaceArea = 3216.896000
+608: It is Parallelepiped: a = 3, b = 16, c = 7, density = 3.046879. SurfaceArea = 960.000000
+609: It is Sphere: r = 12, density = 19.056303. SurfaceArea = 113.094000
+610: It is Parallelepiped: a = 11, b = 8, c = 1, density = 1.242779. SurfaceArea = 232.000000
+611: It is Sphere: r = 8, density = 16.792419. SurfaceArea = 1520.486000
+612: It is Sphere: r = 13, density = 14.360657. SurfaceArea = 804.224000
+613: It is Sphere: r = 15, density = 9.608847. SurfaceArea = 2123.654000
+614: It is Sphere: r = 3, density = 13.896147. SurfaceArea = 2827.350000
+615: It is Sphere: r = 10, density = 9.654403. SurfaceArea = 113.094000
+616: It is Sphere: r = 14, density = 14.903565. SurfaceArea = 1256.600000
+617: It is Sphere: r = 20, density = 19.417681. SurfaceArea = 2462.936000
+618: It is Sphere: r = 7, density = 8.140942. SurfaceArea = 5026.400000
+619: It is Sphere: r = 11, density = 13.966337. SurfaceArea = 615.734000
+620: It is Sphere: r = 5, density = 2.419891. SurfaceArea = 1520.486000
+621: It is Parallelepiped: a = 16, b = 11, c = 2, density = 6.517007. SurfaceArea = 174.000000
+622: It is Parallelepiped: a = 2, b = 16, c = 20, density = 4.037785. SurfaceArea = 1792.000000
+623: It is Sphere: r = 1, density = 13.924490. SurfaceArea = 50.264000
+624: It is Sphere: r = 13, density = 7.696263. SurfaceArea = 12.566000
+625: It is Sphere: r = 12, density = 5.389448. SurfaceArea = 2123.654000
+626: It is Sphere: r = 7, density = 13.037477. SurfaceArea = 1809.504000
+627: It is Sphere: r = 2, density = 3.049349. SurfaceArea = 615.734000
+628: It is Sphere: r = 1, density = 10.656529. SurfaceArea = 50.264000
+629: It is Sphere: r = 9, density = 6.968402. SurfaceArea = 12.566000
+630: It is Parallelepiped: a = 10, b = 13, c = 16, density = 9.753148. SurfaceArea = 938.000000
+631: It is Sphere: r = 5, density = 5.146044. SurfaceArea = 1256.600000
+632: It is Sphere: r = 19, density = 18.548458. SurfaceArea = 314.150000
+633: It is Parallelepiped: a = 2, b = 8, c = 2, density = 12.230651. SurfaceArea = 412.000000
+634: It is Sphere: r = 18, density = 0.114040. SurfaceArea = 50.264000
+635: It is Parallelepiped: a = 8, b = 8, c = 18, density = 3.444982. SurfaceArea = 1224.000000
+636: It is Sphere: r = 8, density = 14.472418. SurfaceArea = 804.224000
+637: It is Parallelepiped: a = 5, b = 16, c = 11, density = 4.225566. SurfaceArea = 784.000000
+638: It is Parallelepiped: a = 20, b = 19, c = 3, density = 9.667671. SurfaceArea = 334.000000
+639: It is Sphere: r = 15, density = 8.178262. SurfaceArea = 5026.400000
+640: It is Sphere: r = 14, density = 19.499174. SurfaceArea = 2827.350000
+641: It is Sphere: r = 13, density = 19.982719. SurfaceArea = 2462.936000
+642: It is Parallelepiped: a = 15, b = 2, c = 20, density = 7.586735. SurfaceArea = 652.000000
+643: It is Sphere: r = 5, density = 3.404090. SurfaceArea = 2827.350000
+644: It is Sphere: r = 6, density = 1.081367. SurfaceArea = 314.150000
+645: It is Sphere: r = 4, density = 12.945546. SurfaceArea = 452.376000
+646: It is Sphere: r = 10, density = 16.360412. SurfaceArea = 201.056000
+647: It is Sphere: r = 4, density = 7.529356. SurfaceArea = 1256.600000
+648: It is Sphere: r = 15, density = 7.948601. SurfaceArea = 201.056000
+649: It is Sphere: r = 9, density = 3.491813. SurfaceArea = 2827.350000
+650: It is Sphere: r = 6, density = 5.701424. SurfaceArea = 1017.846000
+651: It is Sphere: r = 6, density = 19.184666. SurfaceArea = 452.376000
+652: It is Sphere: r = 8, density = 9.833703. SurfaceArea = 452.376000
+653: It is Parallelepiped: a = 4, b = 6, c = 10, density = 3.287594. SurfaceArea = 376.000000
+654: It is Sphere: r = 18, density = 16.845225. SurfaceArea = 201.056000
+655: It is Sphere: r = 19, density = 12.384488. SurfaceArea = 4071.384000
+656: It is Sphere: r = 7, density = 4.236059. SurfaceArea = 4536.326000
+657: It is Sphere: r = 17, density = 9.837483. SurfaceArea = 615.734000
+658: It is Sphere: r = 3, density = 15.999501. SurfaceArea = 3631.574000
+659: It is Sphere: r = 10, density = 5.833204. SurfaceArea = 113.094000
+660: It is Parallelepiped: a = 5, b = 16, c = 4, density = 9.020798. SurfaceArea = 528.000000
+661: It is Parallelepiped: a = 12, b = 14, c = 13, density = 18.026905. SurfaceArea = 634.000000
+662: It is Parallelepiped: a = 10, b = 17, c = 6, density = 4.871267. SurfaceArea = 756.000000
+663: It is Sphere: r = 9, density = 15.260441. SurfaceArea = 1256.600000
+664: It is Parallelepiped: a = 5, b = 16, c = 17, density = 5.097923. SurfaceArea = 1138.000000
+665: It is Sphere: r = 2, density = 10.512948. SurfaceArea = 314.150000
+666: It is Sphere: r = 18, density = 0.341316. SurfaceArea = 50.264000
+667: It is Sphere: r = 14, density = 8.767145. SurfaceArea = 4071.384000
+668: It is Sphere: r = 20, density = 19.076174. SurfaceArea = 2462.936000
+669: It is Sphere: r = 9, density = 1.869691. SurfaceArea = 5026.400000
+670: It is Sphere: r = 10, density = 0.339509. SurfaceArea = 1017.846000
+671: It is Parallelepiped: a = 11, b = 17, c = 13, density = 17.987521. SurfaceArea = 1042.000000
+672: It is Parallelepiped: a = 15, b = 1, c = 18, density = 17.739975. SurfaceArea = 454.000000
+673: It is Sphere: r = 18, density = 16.294330. SurfaceArea = 2827.350000
+674: It is Sphere: r = 19, density = 2.680135. SurfaceArea = 4071.384000
+675: It is Sphere: r = 10, density = 1.774835. SurfaceArea = 4536.326000
+676: It is Parallelepiped: a = 11, b = 15, c = 7, density = 3.544525. SurfaceArea = 650.000000
+677: It is Parallelepiped: a = 8, b = 20, c = 15, density = 10.514256. SurfaceArea = 1370.000000
+678: It is Sphere: r = 17, density = 14.844939. SurfaceArea = 804.224000
+679: It is Parallelepiped: a = 3, b = 11, c = 6, density = 9.469880. SurfaceArea = 710.000000
+680: It is Sphere: r = 8, density = 9.884865. SurfaceArea = 113.094000
+681: It is Sphere: r = 19, density = 10.318716. SurfaceArea = 804.224000
+682: It is Sphere: r = 8, density = 11.993550. SurfaceArea = 4536.326000
+683: It is Sphere: r = 1, density = 15.438076. SurfaceArea = 804.224000
+684: It is Sphere: r = 3, density = 13.171501. SurfaceArea = 12.566000
+685: It is Sphere: r = 7, density = 14.804184. SurfaceArea = 113.094000
+686: It is Sphere: r = 9, density = 14.176842. SurfaceArea = 615.734000
+687: It is Parallelepiped: a = 11, b = 5, c = 4, density = 6.089817. SurfaceArea = 202.000000
+688: It is Parallelepiped: a = 9, b = 7, c = 16, density = 16.330514. SurfaceArea = 730.000000
+689: It is Sphere: r = 2, density = 17.614053. SurfaceArea = 1017.846000
+690: It is Sphere: r = 12, density = 1.700911. SurfaceArea = 50.264000
+691: It is Sphere: r = 1, density = 0.823021. SurfaceArea = 1809.504000
+692: It is Sphere: r = 10, density = 1.616686. SurfaceArea = 12.566000
+693: It is Sphere: r = 17, density = 19.374782. SurfaceArea = 1256.600000
+694: It is Sphere: r = 12, density = 15.290806. SurfaceArea = 3631.574000
+695: It is Sphere: r = 17, density = 0.570728. SurfaceArea = 1809.504000
+696: It is Sphere: r = 1, density = 2.345214. SurfaceArea = 3631.574000
+697: It is Sphere: r = 17, density = 14.437603. SurfaceArea = 12.566000
+698: It is Sphere: r = 4, density = 7.440662. SurfaceArea = 3631.574000
+699: It is Parallelepiped: a = 13, b = 8, c = 13, density = 3.100966. SurfaceArea = 376.000000
+700: It is Sphere: r = 17, density = 1.895397. SurfaceArea = 2123.654000
+701: It is Sphere: r = 9, density = 1.283539. SurfaceArea = 3631.574000
+702: It is Parallelepiped: a = 18, b = 18, c = 7, density = 1.954740. SurfaceArea = 702.000000
+703: It is Sphere: r = 19, density = 6.745865. SurfaceArea = 4071.384000
+704: It is Parallelepiped: a = 5, b = 12, c = 8, density = 3.260363. SurfaceArea = 952.000000
+705: It is Sphere: r = 8, density = 5.529611. SurfaceArea = 314.150000
+706: It is Sphere: r = 9, density = 8.530577. SurfaceArea = 804.224000
+707: It is Sphere: r = 19, density = 0.363348. SurfaceArea = 1017.846000
+708: It is Sphere: r = 8, density = 15.632108. SurfaceArea = 4536.326000
+709: It is Parallelepiped: a = 2, b = 12, c = 13, density = 8.713699. SurfaceArea = 712.000000
+710: It is Parallelepiped: a = 15, b = 2, c = 17, density = 13.542787. SurfaceArea = 144.000000
+711: It is Sphere: r = 18, density = 17.351803. SurfaceArea = 2827.350000
+712: It is Parallelepiped: a = 7, b = 4, c = 3, density = 11.427731. SurfaceArea = 276.000000
+713: It is Sphere: r = 15, density = 4.084998. SurfaceArea = 615.734000
+714: It is Sphere: r = 12, density = 5.758569. SurfaceArea = 2827.350000
+715: It is Sphere: r = 4, density = 8.953473. SurfaceArea = 1809.504000
+716: It is Sphere: r = 4, density = 16.290253. SurfaceArea = 201.056000
+717: It is Sphere: r = 13, density = 12.492351. SurfaceArea = 201.056000
+718: It is Parallelepiped: a = 13, b = 10, c = 3, density = 0.876868. SurfaceArea = 398.000000
+719: It is Sphere: r = 8, density = 12.356077. SurfaceArea = 2123.654000
+720: It is Sphere: r = 9, density = 17.606119. SurfaceArea = 804.224000
+721: It is Sphere: r = 4, density = 6.725307. SurfaceArea = 1017.846000
+722: It is Sphere: r = 19, density = 4.577947. SurfaceArea = 201.056000
+723: It is Parallelepiped: a = 7, b = 18, c = 8, density = 0.868200. SurfaceArea = 1276.000000
+724: It is Sphere: r = 9, density = 9.313548. SurfaceArea = 615.734000
+725: It is Sphere: r = 6, density = 10.241894. SurfaceArea = 1017.846000
+726: It is Sphere: r = 14, density = 4.561768. SurfaceArea = 452.376000
+727: It is Sphere: r = 8, density = 2.167886. SurfaceArea = 2462.936000
+728: It is Sphere: r = 6, density = 7.435684. SurfaceArea = 804.224000
+729: It is Parallelepiped: a = 2, b = 7, c = 4, density = 13.941445. SurfaceArea = 188.000000
+730: It is Sphere: r = 8, density = 8.195931. SurfaceArea = 50.264000
+731: It is Parallelepiped: a = 10, b = 12, c = 10, density = 18.697171. SurfaceArea = 592.000000
+732: It is Sphere: r = 3, density = 3.225816. SurfaceArea = 1256.600000
+733: It is Sphere: r = 16, density = 2.839115. SurfaceArea = 113.094000
+734: It is Parallelepiped: a = 6, b = 14, c = 19, density = 4.907001. SurfaceArea = 1588.000000
+735: It is Sphere: r = 4, density = 7.355787. SurfaceArea = 452.376000
+736: It is Sphere: r = 20, density = 1.297232. SurfaceArea = 201.056000
+737: It is Parallelepiped: a = 5, b = 16, c = 18, density = 10.238592. SurfaceArea = 1936.000000
+738: It is Parallelepiped: a = 11, b = 8, c = 3, density = 2.056002. SurfaceArea = 158.000000
+739: It is Sphere: r = 14, density = 5.820564. SurfaceArea = 1520.486000
+740: It is Parallelepiped: a = 4, b = 13, c = 9, density = 6.755417. SurfaceArea = 850.000000
+741: It is Sphere: r = 13, density = 13.976529. SurfaceArea = 201.056000
+742: It is Sphere: r = 4, density = 15.874264. SurfaceArea = 2123.654000
+743: It is Sphere: r = 16, density = 15.452584. SurfaceArea = 201.056000
+744: It is Sphere: r = 20, density = 5.453165. SurfaceArea = 3216.896000
+745: It is Sphere: r = 15, density = 4.734894. SurfaceArea = 5026.400000
+746: It is Parallelepiped: a = 5, b = 4, c = 12, density = 3.665787. SurfaceArea = 576.000000
+747: It is Parallelepiped: a = 16, b = 7, c = 10, density = 19.913467. SurfaceArea = 310.000000
+748: It is Sphere: r = 1, density = 14.680204. SurfaceArea = 3216.896000
+749: It is Parallelepiped: a = 14, b = 2, c = 18, density = 10.554468. SurfaceArea = 112.000000
+750: It is Sphere: r = 9, density = 10.180111. SurfaceArea = 2462.936000
+751: It is Parallelepiped: a = 19, b = 10, c = 5, density = 15.533276. SurfaceArea = 370.000000
+752: It is Sphere: r = 12, density = 19.063937. SurfaceArea = 4536.326000
+753: It is Sphere: r = 2, density = 3.365355. SurfaceArea = 1809.504000
+754: It is Parallelepiped: a = 10, b = 10, c = 15, density = 15.286995. SurfaceArea = 400.000000
+755: It is Sphere: r = 2, density = 10.558003. SurfaceArea = 1256.600000
+756: It is Parallelepiped: a = 16, b = 12, c = 3, density = 1.112471. SurfaceArea = 132.000000
+757: It is Parallelepiped: a = 14, b = 12, c = 17, density = 19.961136. SurfaceArea = 1336.000000
+758: It is Parallelepiped: a = 7, b = 4, c = 17, density = 9.237499. SurfaceArea = 724.000000
+759: It is Sphere: r = 9, density = 6.469105. SurfaceArea = 615.734000
+760: It is Sphere: r = 15, density = 18.691092. SurfaceArea = 1017.846000
+761: It is Sphere: r = 16, density = 10.926546. SurfaceArea = 2827.350000
+762: It is Parallelepiped: a = 12, b = 17, c = 14, density = 10.607193. SurfaceArea = 1468.000000
+763: It is Parallelepiped: a = 1, b = 3, c = 20, density = 2.655695. SurfaceArea = 672.000000
+764: It is Sphere: r = 4, density = 9.232132. SurfaceArea = 12.566000
+765: It is Sphere: r = 13, density = 4.385147. SurfaceArea = 201.056000
+766: It is Sphere: r = 11, density = 18.570420. SurfaceArea = 2123.654000
+767: It is Sphere: r = 8, density = 1.569254. SurfaceArea = 1520.486000
+768: It is Sphere: r = 15, density = 18.336361. SurfaceArea = 804.224000
+769: It is Sphere: r = 20, density = 8.943554. SurfaceArea = 2827.350000
+770: It is Sphere: r = 7, density = 9.061923. SurfaceArea = 5026.400000
+771: It is Sphere: r = 9, density = 4.394322. SurfaceArea = 615.734000
+772: It is Parallelepiped: a = 19, b = 2, c = 8, density = 10.717352. SurfaceArea = 212.000000
+773: It is Sphere: r = 18, density = 17.225638. SurfaceArea = 4536.326000
+774: It is Sphere: r = 3, density = 19.575256. SurfaceArea = 4071.384000
+775: It is Sphere: r = 17, density = 8.393979. SurfaceArea = 113.094000
+776: It is Sphere: r = 13, density = 15.803794. SurfaceArea = 3631.574000
+777: It is Sphere: r = 9, density = 8.521689. SurfaceArea = 2123.654000
+778: It is Sphere: r = 18, density = 11.754992. SurfaceArea = 1017.846000
+779: It is Parallelepiped: a = 6, b = 7, c = 8, density = 5.204838. SurfaceArea = 652.000000
+780: It is Sphere: r = 2, density = 4.766516. SurfaceArea = 452.376000
+781: It is Sphere: r = 4, density = 7.102375. SurfaceArea = 50.264000
+782: It is Sphere: r = 12, density = 15.396354. SurfaceArea = 201.056000
+783: It is Parallelepiped: a = 2, b = 11, c = 10, density = 11.200148. SurfaceArea = 724.000000
+784: It is Parallelepiped: a = 5, b = 10, c = 17, density = 16.933923. SurfaceArea = 448.000000
+785: It is Parallelepiped: a = 12, b = 2, c = 13, density = 11.000904. SurfaceArea = 202.000000
+786: It is Sphere: r = 4, density = 5.024265. SurfaceArea = 1809.504000
+787: It is Sphere: r = 16, density = 7.603873. SurfaceArea = 201.056000
+788: It is Sphere: r = 4, density = 2.420537. SurfaceArea = 3216.896000
+789: It is Sphere: r = 19, density = 4.353364. SurfaceArea = 201.056000
+790: It is Sphere: r = 3, density = 16.219245. SurfaceArea = 4536.326000
+791: It is Sphere: r = 5, density = 3.939017. SurfaceArea = 113.094000
+792: It is Sphere: r = 17, density = 7.479098. SurfaceArea = 314.150000
+793: It is Sphere: r = 9, density = 12.403362. SurfaceArea = 3631.574000
+794: It is Parallelepiped: a = 19, b = 9, c = 15, density = 19.627515. SurfaceArea = 702.000000
+795: It is Sphere: r = 14, density = 0.310859. SurfaceArea = 4536.326000
+796: It is Sphere: r = 20, density = 4.564223. SurfaceArea = 2462.936000
+797: It is Sphere: r = 6, density = 19.917736. SurfaceArea = 5026.400000
+798: It is Parallelepiped: a = 6, b = 13, c = 4, density = 0.711553. SurfaceArea = 308.000000
+799: It is Sphere: r = 17, density = 12.077357. SurfaceArea = 452.376000
+800: It is Sphere: r = 18, density = 3.055430. SurfaceArea = 3631.574000
+801: It is Parallelepiped: a = 9, b = 13, c = 3, density = 2.682946. SurfaceArea = 654.000000
+802: It is Sphere: r = 2, density = 18.958639. SurfaceArea = 1017.846000
+803: It is Parallelepiped: a = 12, b = 1, c = 9, density = 3.522862. SurfaceArea = 58.000000
+804: It is Parallelepiped: a = 10, b = 19, c = 3, density = 9.165670. SurfaceArea = 642.000000
+805: It is Sphere: r = 15, density = 10.933287. SurfaceArea = 1256.600000
+806: It is Parallelepiped: a = 7, b = 16, c = 19, density = 3.010644. SurfaceArea = 1658.000000
+807: It is Sphere: r = 4, density = 10.362001. SurfaceArea = 615.734000
+808: It is Parallelepiped: a = 18, b = 10, c = 15, density = 12.944947. SurfaceArea = 500.000000
+809: It is Sphere: r = 14, density = 1.187628. SurfaceArea = 4071.384000
+810: It is Sphere: r = 2, density = 12.451594. SurfaceArea = 2462.936000
+811: It is Sphere: r = 10, density = 17.177694. SurfaceArea = 50.264000
+812: It is Sphere: r = 5, density = 6.591538. SurfaceArea = 1256.600000
+813: It is Sphere: r = 1, density = 9.502182. SurfaceArea = 314.150000
+814: It is Sphere: r = 16, density = 7.748952. SurfaceArea = 12.566000
+815: It is Parallelepiped: a = 17, b = 8, c = 20, density = 0.693898. SurfaceArea = 1216.000000
+816: It is Parallelepiped: a = 5, b = 18, c = 11, density = 10.980512. SurfaceArea = 1382.000000
+817: It is Parallelepiped: a = 10, b = 12, c = 1, density = 1.936957. SurfaceArea = 154.000000
+818: It is Sphere: r = 1, density = 0.438987. SurfaceArea = 1256.600000
+819: It is Sphere: r = 7, density = 0.779748. SurfaceArea = 12.566000
+820: It is Sphere: r = 19, density = 18.066699. SurfaceArea = 615.734000
+821: It is Parallelepiped: a = 13, b = 3, c = 14, density = 5.815650. SurfaceArea = 730.000000
+822: It is Parallelepiped: a = 14, b = 5, c = 20, density = 6.887476. SurfaceArea = 850.000000
+823: It is Sphere: r = 6, density = 14.756526. SurfaceArea = 2462.936000
+824: It is Parallelepiped: a = 9, b = 17, c = 5, density = 7.298607. SurfaceArea = 434.000000
+825: It is Sphere: r = 20, density = 18.600283. SurfaceArea = 1017.846000
+826: It is Sphere: r = 1, density = 2.606964. SurfaceArea = 5026.400000
+827: It is Parallelepiped: a = 8, b = 18, c = 15, density = 4.933142. SurfaceArea = 606.000000
+828: It is Sphere: r = 12, density = 16.892503. SurfaceArea = 804.224000
+829: It is Sphere: r = 8, density = 5.304551. SurfaceArea = 1809.504000
+830: It is Parallelepiped: a = 20, b = 12, c = 12, density = 6.844238. SurfaceArea = 672.000000
+831: It is Sphere: r = 14, density = 14.704981. SurfaceArea = 5026.400000
+832: It is Parallelepiped: a = 3, b = 9, c = 3, density = 2.928569. SurfaceArea = 390.000000
+833: It is Sphere: r = 17, density = 4.327850. SurfaceArea = 113.094000
+834: It is Sphere: r = 18, density = 16.451826. SurfaceArea = 3631.574000
+835: It is Sphere: r = 19, density = 2.361027. SurfaceArea = 4071.384000
+836: It is Parallelepiped: a = 17, b = 19, c = 7, density = 9.479998. SurfaceArea = 1254.000000
+837: It is Sphere: r = 3, density = 0.180024. SurfaceArea = 3631.574000
+838: It is Sphere: r = 7, density = 17.787196. SurfaceArea = 113.094000
+839: It is Sphere: r = 3, density = 4.055633. SurfaceArea = 615.734000
+840: It is Parallelepiped: a = 3, b = 5, c = 14, density = 9.391166. SurfaceArea = 254.000000
+841: It is Parallelepiped: a = 9, b = 9, c = 20, density = 8.462678. SurfaceArea = 534.000000
+842: It is Sphere: r = 8, density = 6.242500. SurfaceArea = 1017.846000
+843: It is Sphere: r = 14, density = 15.622499. SurfaceArea = 804.224000
+844: It is Sphere: r = 2, density = 11.005664. SurfaceArea = 2462.936000
+845: It is Sphere: r = 12, density = 2.608087. SurfaceArea = 50.264000
+846: It is Parallelepiped: a = 17, b = 1, c = 15, density = 16.602738. SurfaceArea = 414.000000
+847: It is Sphere: r = 16, density = 8.303539. SurfaceArea = 3631.574000
+848: It is Sphere: r = 4, density = 7.863380. SurfaceArea = 3216.896000
+849: It is Sphere: r = 19, density = 19.419630. SurfaceArea = 201.056000
+850: It is Parallelepiped: a = 14, b = 18, c = 16, density = 11.787501. SurfaceArea = 1868.000000
+851: It is Sphere: r = 12, density = 3.746221. SurfaceArea = 2462.936000
+852: It is Sphere: r = 6, density = 7.246234. SurfaceArea = 1809.504000
+853: It is Parallelepiped: a = 1, b = 18, c = 19, density = 1.075910. SurfaceArea = 1128.000000
+854: It is Sphere: r = 18, density = 18.403679. SurfaceArea = 12.566000
+855: It is Parallelepiped: a = 6, b = 15, c = 11, density = 7.204906. SurfaceArea = 1266.000000
+856: It is Parallelepiped: a = 1, b = 16, c = 17, density = 10.331572. SurfaceArea = 940.000000
+857: It is Sphere: r = 3, density = 15.813527. SurfaceArea = 12.566000
+858: It is Sphere: r = 10, density = 10.299418. SurfaceArea = 113.094000
+859: It is Parallelepiped: a = 12, b = 1, c = 15, density = 7.431260. SurfaceArea = 350.000000
+860: It is Sphere: r = 19, density = 14.551986. SurfaceArea = 1809.504000
+861: It is Sphere: r = 9, density = 17.600547. SurfaceArea = 4536.326000
+862: It is Sphere: r = 6, density = 8.512489. SurfaceArea = 1017.846000
+863: It is Sphere: r = 19, density = 18.744061. SurfaceArea = 452.376000
+864: It is Sphere: r = 1, density = 11.198275. SurfaceArea = 4536.326000
+865: It is Sphere: r = 4, density = 14.805187. SurfaceArea = 12.566000
+866: It is Sphere: r = 8, density = 17.603590. SurfaceArea = 201.056000
+867: It is Sphere: r = 18, density = 7.353956. SurfaceArea = 804.224000
+868: It is Parallelepiped: a = 1, b = 11, c = 12, density = 18.534065. SurfaceArea = 1092.000000
+869: It is Sphere: r = 14, density = 10.293579. SurfaceArea = 12.566000
+870: It is Sphere: r = 15, density = 0.493947. SurfaceArea = 2462.936000
+871: It is Parallelepiped: a = 3, b = 11, c = 14, density = 1.257080. SurfaceArea = 1058.000000
+872: It is Sphere: r = 18, density = 3.049773. SurfaceArea = 113.094000
+873: It is Sphere: r = 15, density = 0.653363. SurfaceArea = 4071.384000
+874: It is Sphere: r = 12, density = 1.215240. SurfaceArea = 2827.350000
+875: It is Sphere: r = 2, density = 19.649304. SurfaceArea = 1809.504000
+876: It is Sphere: r = 5, density = 18.815245. SurfaceArea = 50.264000
+877: It is Sphere: r = 19, density = 13.934211. SurfaceArea = 314.150000
+878: It is Sphere: r = 18, density = 15.091292. SurfaceArea = 4536.326000
+879: It is Sphere: r = 15, density = 12.073885. SurfaceArea = 4071.384000
+880: It is Sphere: r = 12, density = 10.472070. SurfaceArea = 2827.350000
+881: It is Sphere: r = 16, density = 16.577373. SurfaceArea = 1809.504000
+882: It is Parallelepiped: a = 5, b = 12, c = 4, density = 16.226677. SurfaceArea = 608.000000
+883: It is Parallelepiped: a = 10, b = 3, c = 6, density = 5.235098. SurfaceArea = 126.000000
+884: It is Parallelepiped: a = 9, b = 9, c = 13, density = 13.337297. SurfaceArea = 674.000000
+885: It is Sphere: r = 19, density = 19.910801. SurfaceArea = 1017.846000
+886: It is Sphere: r = 20, density = 11.984685. SurfaceArea = 4536.326000
+887: It is Parallelepiped: a = 14, b = 1, c = 16, density = 6.974646. SurfaceArea = 712.000000
+888: It is Parallelepiped: a = 9, b = 9, c = 2, density = 17.135979. SurfaceArea = 344.000000
+889: It is Parallelepiped: a = 3, b = 15, c = 7, density = 4.160535. SurfaceArea = 606.000000
+890: It is Sphere: r = 15, density = 11.474376. SurfaceArea = 113.094000
+891: It is Sphere: r = 7, density = 5.231094. SurfaceArea = 2827.350000
+892: It is Sphere: r = 4, density = 13.559683. SurfaceArea = 615.734000
+893: It is Parallelepiped: a = 9, b = 5, c = 4, density = 12.169040. SurfaceArea = 112.000000
+894: It is Sphere: r = 2, density = 0.646781. SurfaceArea = 1017.846000
+895: It is Sphere: r = 14, density = 17.682760. SurfaceArea = 50.264000
+896: It is Sphere: r = 10, density = 5.607776. SurfaceArea = 2462.936000
+897: It is Sphere: r = 1, density = 14.604824. SurfaceArea = 1256.600000
+898: It is Sphere: r = 16, density = 15.868051. SurfaceArea = 12.566000
+899: It is Sphere: r = 12, density = 16.816602. SurfaceArea = 3216.896000
+900: It is Sphere: r = 5, density = 11.910416. SurfaceArea = 1809.504000
+901: It is Parallelepiped: a = 13, b = 11, c = 10, density = 18.272960. SurfaceArea = 430.000000
+902: It is Sphere: r = 9, density = 9.325541. SurfaceArea = 2123.654000
+903: It is Parallelepiped: a = 14, b = 1, c = 13, density = 19.463744. SurfaceArea = 278.000000
+904: It is Parallelepiped: a = 5, b = 9, c = 3, density = 15.703080. SurfaceArea = 390.000000
+905: It is Sphere: r = 11, density = 12.718932. SurfaceArea = 314.150000
+906: It is Sphere: r = 6, density = 10.324443. SurfaceArea = 1520.486000
+907: It is Parallelepiped: a = 12, b = 13, c = 13, density = 18.396761. SurfaceArea = 650.000000
+908: It is Parallelepiped: a = 1, b = 9, c = 5, density = 5.207947. SurfaceArea = 426.000000
+909: It is Sphere: r = 7, density = 14.486782. SurfaceArea = 12.566000
+910: It is Sphere: r = 1, density = 16.963691. SurfaceArea = 615.734000
+911: It is Sphere: r = 17, density = 2.050946. SurfaceArea = 12.566000
+912: It is Parallelepiped: a = 19, b = 18, c = 12, density = 14.669879. SurfaceArea = 1452.000000
+913: It is Sphere: r = 11, density = 15.986132. SurfaceArea = 4536.326000
+914: It is Parallelepiped: a = 13, b = 1, c = 17, density = 9.551298. SurfaceArea = 430.000000
+915: It is Sphere: r = 7, density = 14.234921. SurfaceArea = 2123.654000
+916: It is Parallelepiped: a = 10, b = 16, c = 7, density = 7.042181. SurfaceArea = 546.000000
+917: It is Sphere: r = 10, density = 8.530741. SurfaceArea = 1256.600000
+918: It is Sphere: r = 19, density = 10.481687. SurfaceArea = 1256.600000
+919: It is Parallelepiped: a = 9, b = 15, c = 14, density = 5.151566. SurfaceArea = 1522.000000
+920: It is Sphere: r = 2, density = 14.604480. SurfaceArea = 1017.846000
+921: It is Sphere: r = 6, density = 14.445407. SurfaceArea = 50.264000
+922: It is Parallelepiped: a = 13, b = 13, c = 13, density = 8.680329. SurfaceArea = 650.000000
+923: It is Sphere: r = 15, density = 3.714755. SurfaceArea = 2123.654000
+924: It is Parallelepiped: a = 20, b = 17, c = 5, density = 12.145496. SurfaceArea = 830.000000
+925: It is Sphere: r = 10, density = 7.201929. SurfaceArea = 5026.400000
+926: It is Parallelepiped: a = 3, b = 19, c = 17, density = 5.820277. SurfaceArea = 1366.000000
+927: It is Parallelepiped: a = 20, b = 1, c = 9, density = 0.770437. SurfaceArea = 78.000000
+928: It is Sphere: r = 12, density = 17.356777. SurfaceArea = 5026.400000
+929: It is Sphere: r = 2, density = 11.802625. SurfaceArea = 1809.504000
+930: It is Sphere: r = 9, density = 5.215792. SurfaceArea = 50.264000
+931: It is Sphere: r = 17, density = 1.077908. SurfaceArea = 1017.846000
+932: It is Sphere: r = 18, density = 8.516658. SurfaceArea = 3631.574000
+933: It is Sphere: r = 20, density = 14.236935. SurfaceArea = 4071.384000
+934: It is Sphere: r = 7, density = 11.141330. SurfaceArea = 5026.400000
+935: It is Sphere: r = 8, density = 6.257175. SurfaceArea = 615.734000
+936: It is Sphere: r = 16, density = 9.953348. SurfaceArea = 804.224000
+937: It is Sphere: r = 11, density = 6.083692. SurfaceArea = 3216.896000
+938: It is Sphere: r = 11, density = 2.269046. SurfaceArea = 1520.486000
+939: It is Sphere: r = 9, density = 16.607688. SurfaceArea = 1520.486000
+940: It is Sphere: r = 18, density = 19.944039. SurfaceArea = 1017.846000
+941: It is Sphere: r = 17, density = 10.068556. SurfaceArea = 4071.384000
+942: It is Sphere: r = 17, density = 6.601997. SurfaceArea = 3631.574000
+943: It is Parallelepiped: a = 18, b = 6, c = 18, density = 4.468699. SurfaceArea = 1032.000000
+944: It is Sphere: r = 8, density = 17.997407. SurfaceArea = 4071.384000
+945: It is Sphere: r = 2, density = 14.771019. SurfaceArea = 804.224000
+946: It is Sphere: r = 16, density = 16.254247. SurfaceArea = 50.264000
+947: It is Sphere: r = 7, density = 19.052204. SurfaceArea = 3216.896000
+948: It is Parallelepiped: a = 2, b = 9, c = 14, density = 10.366819. SurfaceArea = 574.000000
+949: It is Sphere: r = 3, density = 18.012386. SurfaceArea = 50.264000
+950: It is Sphere: r = 10, density = 3.441900. SurfaceArea = 113.094000
+951: It is Parallelepiped: a = 6, b = 12, c = 17, density = 3.034077. SurfaceArea = 988.000000
+952: It is Sphere: r = 12, density = 17.991173. SurfaceArea = 452.376000
+953: It is Sphere: r = 16, density = 9.915012. SurfaceArea = 1809.504000
+954: It is Sphere: r = 9, density = 12.131801. SurfaceArea = 3216.896000
+955: It is Sphere: r = 3, density = 13.515640. SurfaceArea = 1017.846000
+956: It is Sphere: r = 8, density = 5.409522. SurfaceArea = 113.094000
+957: It is Sphere: r = 4, density = 4.616006. SurfaceArea = 804.224000
+958: It is Sphere: r = 9, density = 6.401237. SurfaceArea = 201.056000
+959: It is Sphere: r = 7, density = 5.681617. SurfaceArea = 1017.846000
+960: It is Sphere: r = 2, density = 13.097137. SurfaceArea = 615.734000
+961: It is Parallelepiped: a = 10, b = 4, c = 10, density = 5.228938. SurfaceArea = 136.000000
+962: It is Parallelepiped: a = 8, b = 2, c = 5, density = 10.959648. SurfaceArea = 160.000000
+963: It is Parallelepiped: a = 12, b = 18, c = 13, density = 1.773917. SurfaceArea = 964.000000
+964: It is Sphere: r = 8, density = 13.144828. SurfaceArea = 1809.504000
+965: It is Sphere: r = 15, density = 12.677897. SurfaceArea = 804.224000
+966: It is Sphere: r = 5, density = 6.458421. SurfaceArea = 2827.350000
+967: It is Sphere: r = 15, density = 6.538740. SurfaceArea = 314.150000
+968: It is Sphere: r = 4, density = 3.982748. SurfaceArea = 2827.350000
+969: It is Parallelepiped: a = 9, b = 15, c = 10, density = 14.842396. SurfaceArea = 500.000000
+970: It is Parallelepiped: a = 12, b = 16, c = 1, density = 2.385975. SurfaceArea = 338.000000
+971: It is Sphere: r = 1, density = 19.423396. SurfaceArea = 1809.504000
+972: It is Sphere: r = 6, density = 17.025043. SurfaceArea = 12.566000
+973: It is Sphere: r = 15, density = 10.670145. SurfaceArea = 452.376000
+974: It is Sphere: r = 11, density = 16.351378. SurfaceArea = 2827.350000
+975: It is Sphere: r = 13, density = 5.864583. SurfaceArea = 1520.486000
+976: It is Sphere: r = 1, density = 6.476642. SurfaceArea = 2123.654000
+977: It is Parallelepiped: a = 8, b = 11, c = 18, density = 8.762617. SurfaceArea = 454.000000
+978: It is Sphere: r = 18, density = 16.497234. SurfaceArea = 804.224000
+979: It is Sphere: r = 3, density = 18.178647. SurfaceArea = 4071.384000
+980: It is Sphere: r = 12, density = 8.848792. SurfaceArea = 113.094000
+981: It is Parallelepiped: a = 13, b = 5, c = 7, density = 18.874494. SurfaceArea = 358.000000
+982: It is Sphere: r = 5, density = 12.326367. SurfaceArea = 2123.654000
+983: It is Sphere: r = 18, density = 18.703008. SurfaceArea = 314.150000
+984: It is Sphere: r = 2, density = 7.465625. SurfaceArea = 4071.384000
+985: It is Parallelepiped: a = 17, b = 19, c = 14, density = 8.839554. SurfaceArea = 664.000000
+986: It is Sphere: r = 15, density = 14.897347. SurfaceArea = 3631.574000
+987: It is Parallelepiped: a = 9, b = 5, c = 17, density = 3.704180. SurfaceArea = 830.000000
+988: It is Parallelepiped: a = 2, b = 20, c = 3, density = 4.704488. SurfaceArea = 534.000000
+989: It is Sphere: r = 9, density = 3.649732. SurfaceArea = 50.264000
+990: It is Parallelepiped: a = 10, b = 4, c = 11, density = 10.091288. SurfaceArea = 358.000000
+991: It is Sphere: r = 15, density = 8.217865. SurfaceArea = 1256.600000
+992: It is Sphere: r = 20, density = 13.069985. SurfaceArea = 2827.350000
+993: It is Parallelepiped: a = 8, b = 15, c = 1, density = 12.951579. SurfaceArea = 670.000000
+994: It is Parallelepiped: a = 2, b = 18, c = 14, density = 6.421620. SurfaceArea = 1016.000000
+995: It is Sphere: r = 17, density = 11.046786. SurfaceArea = 50.264000
+996: It is Parallelepiped: a = 10, b = 4, c = 2, density = 9.235966. SurfaceArea = 220.000000
+997: It is Sphere: r = 20, density = 6.912702. SurfaceArea = 1256.600000
+998: It is Sphere: r = 13, density = 15.652138. SurfaceArea = 5026.400000
+999: It is Sphere: r = 0, density = 7.046991. SurfaceArea = 2123.654000
