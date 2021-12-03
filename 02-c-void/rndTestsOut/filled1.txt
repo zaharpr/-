@@ -1,3 +1,3 @@
 Filled container:
 Container contains 1 elements.
-0: It is Sphere: r = 0, density = 1.521106. SurfaceArea = 4071.384000
+0: It is Sphere: r = 0, density = 0.182766. SurfaceArea = 2827.350000

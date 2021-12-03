@@ -8,11 +8,12 @@ CMakeFiles/avs4.dir/inrnd.c.o: ../extdata.h
 CMakeFiles/avs4.dir/inrnd.c.o: ../inrnd.c
 
 CMakeFiles/avs4.dir/main.c.o: ../data.h
+CMakeFiles/avs4.dir/main.c.o: ../extdata.h
+CMakeFiles/avs4.dir/main.c.o: ../input.c
+CMakeFiles/avs4.dir/main.c.o: ../inrnd.c
 CMakeFiles/avs4.dir/main.c.o: ../main.c
+CMakeFiles/avs4.dir/main.c.o: ../output.c
 
 CMakeFiles/avs4.dir/output.c.o: ../extdata.h
 CMakeFiles/avs4.dir/output.c.o: ../output.c
-
-CMakeFiles/avs4.dir/surfaceArea.c.o: ../extdata.h
-CMakeFiles/avs4.dir/surfaceArea.c.o: ../surfaceArea.c
 

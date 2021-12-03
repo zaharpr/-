@@ -4,7 +4,7 @@
 
 #include <stdlib.h>
 
-#include "extdata.h"
+#include "data.h"
 
 int Random() {
     return rand() % 20 + 1;
@@ -16,21 +16,21 @@ double RandomDouble() {
 
 // Случайный ввод параметров параллелепипеда.
 void InRndParallelepiped(void *p) {
-    double density = RandomDouble();
-    *((double *) p) = density;
+//    double density = RandomDouble();
+    *((double *) p) = RandomDouble();
 
     int a = Random();
     *((int *) (p + doubleSize)) = a;
     int b = Random();
     *((int *) (p + doubleSize + intSize)) = b;
     int c = Random();
-    *((int *) (p + doubleSize + 2 * intSize)) = c;
+    *((int *) (p + doubleSize + intSize + intSize)) = c;
 }
 
 // Случайный ввод параметров тетраэдра.
 void InRndTetrahedron(void *t) {
-    double density = RandomDouble();
-    *((double *) t) = density;
+//    double density = RandomDouble();
+    *((double *) t) = RandomDouble();
 
     int a = Random();
     *((int *) (t + doubleSize)) = a;
@@ -38,8 +38,8 @@ void InRndTetrahedron(void *t) {
 
 // Случайный ввод параметров шара.
 void InRndSphere(void *s) {
-    double density = RandomDouble();
-    *((double *) s) = density;
+//    double density = RandomDouble();
+    *((double *) s) = RandomDouble();
 
     int a = Random();
     *((int *) (s + doubleSize)) = a;

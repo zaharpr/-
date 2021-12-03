@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/avs4.dir/input.c.o CMakeFiles/avs4.dir/inrnd.c.o CMakeFiles/avs4.dir/output.c.o CMakeFiles/avs4.dir/surfaceArea.c.o CMakeFiles/avs4.dir/main.c.o  -o ../bin/avs4 
+/usr/bin/cc -g   CMakeFiles/avs4.dir/input.c.o CMakeFiles/avs4.dir/inrnd.c.o CMakeFiles/avs4.dir/output.c.o CMakeFiles/avs4.dir/main.c.o  -o ../bin/avs4 

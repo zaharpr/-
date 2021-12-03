@@ -1,12 +1,12 @@
 Filled container:
 Container contains 10 elements.
-0: It is Sphere: r = 17, density = 8.437543. SurfaceArea = 3631.574000
-1: It is Parallelepiped: a = 9, b = 15, c = 19, density = 10.380688. SurfaceArea = 1726.000000
-2: It is Sphere: r = 17, density = 15.262280. SurfaceArea = 1017.846000
-3: It is Parallelepiped: a = 10, b = 16, c = 12, density = 18.115523. SurfaceArea = 1336.000000
-4: It is Sphere: r = 7, density = 5.982907. SurfaceArea = 1256.600000
-5: It is Parallelepiped: a = 3, b = 19, c = 17, density = 8.551892. SurfaceArea = 1150.000000
-6: It is Parallelepiped: a = 5, b = 6, c = 9, density = 2.065724. SurfaceArea = 198.000000
-7: It is Sphere: r = 2, density = 3.427854. SurfaceArea = 314.150000
-8: It is Parallelepiped: a = 11, b = 9, c = 4, density = 13.708542. SurfaceArea = 124.000000
-9: It is Sphere: r = 0, density = 4.860443. SurfaceArea = 1520.486000
+0: It is Sphere: r = 14, density = 10.744412. SurfaceArea = 2123.654000
+1: It is Sphere: r = 3, density = 5.510222. SurfaceArea = 2462.936000
+2: It is Sphere: r = 3, density = 2.888362. SurfaceArea = 113.094000
+3: It is Sphere: r = 15, density = 6.262803. SurfaceArea = 113.094000
+4: It is Sphere: r = 1, density = 1.556431. SurfaceArea = 2827.350000
+5: It is Sphere: r = 16, density = 14.422101. SurfaceArea = 12.566000
+6: It is Parallelepiped: a = 17, b = 19, c = 4, density = 19.202471. SurfaceArea = 888.000000
+7: It is Parallelepiped: a = 13, b = 13, c = 7, density = 14.512420. SurfaceArea = 862.000000
+8: It is Parallelepiped: a = 5, b = 12, c = 10, density = 5.213125. SurfaceArea = 812.000000
+9: It is Sphere: r = 0, density = 18.195152. SurfaceArea = 314.150000

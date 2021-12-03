@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-#include "extdata.h"
+#include "data.h"
 
 // Вычисление площади поверхности параллелепипеда.
 double SurfaceAreaParallelepiped(void *p);
@@ -12,8 +12,8 @@ double SurfaceAreaParallelepiped(void *p);
 // Вывод параметров параллелепипеда в файл
 void OutParallelepiped(void *p, FILE *ofst) {
     fprintf(ofst, "It is Parallelepiped: a = %d, b = %d, c = %d, density = %lf. SurfaceArea = %lf\n",
-            *((int *) p + doubleSize), *((int *) (p + +doubleSize + intSize)),
-            *((int *) (p + doubleSize + 2 * intSize)),
+            *((int *) p + doubleSize), *((int *) (p + doubleSize + intSize)),
+            *((int *) (p + doubleSize + intSize + intSize)),
             *((double *) p), SurfaceAreaParallelepiped(p));
 }
 
@@ -56,6 +56,6 @@ void OutContainer(void *c, int len, FILE *ofst) {
     for (int i = 0; i < len; i++) {
         fprintf(ofst, "%d: ", i);
         OutShape(tmp, ofst);
-        tmp = tmp + shapeSize;
+        tmp += shapeSize;
     }
 }

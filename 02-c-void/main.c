@@ -9,10 +9,10 @@
 #include <string.h>
 
 #include "data.h"
-// #include "input.c"
-// #include "inrnd.c"
-// #include "perimeter.c"
-// #include "output.c"
+#include "input.c"
+#include "inrnd.c"
+#include "output.c"
+//#include "sorting.c"
 
 void errMessage1() {
     printf("incorrect command line!\n"

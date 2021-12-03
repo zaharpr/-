@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void
+CMAKE_SOURCE_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/avs4.dir/depend.make
@@ -59,75 +59,61 @@ include CMakeFiles/avs4.dir/flags.make
 
 CMakeFiles/avs4.dir/input.c.o: CMakeFiles/avs4.dir/flags.make
 CMakeFiles/avs4.dir/input.c.o: ../input.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/avs4.dir/input.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/input.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/input.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/avs4.dir/input.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/input.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c
 
 CMakeFiles/avs4.dir/input.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/avs4.dir/input.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/input.c > CMakeFiles/avs4.dir/input.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c > CMakeFiles/avs4.dir/input.c.i
 
 CMakeFiles/avs4.dir/input.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/avs4.dir/input.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/input.c -o CMakeFiles/avs4.dir/input.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c -o CMakeFiles/avs4.dir/input.c.s
 
 CMakeFiles/avs4.dir/inrnd.c.o: CMakeFiles/avs4.dir/flags.make
 CMakeFiles/avs4.dir/inrnd.c.o: ../inrnd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/avs4.dir/inrnd.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/inrnd.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/inrnd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/avs4.dir/inrnd.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/inrnd.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c
 
 CMakeFiles/avs4.dir/inrnd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/avs4.dir/inrnd.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/inrnd.c > CMakeFiles/avs4.dir/inrnd.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c > CMakeFiles/avs4.dir/inrnd.c.i
 
 CMakeFiles/avs4.dir/inrnd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/avs4.dir/inrnd.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/inrnd.c -o CMakeFiles/avs4.dir/inrnd.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c -o CMakeFiles/avs4.dir/inrnd.c.s
 
 CMakeFiles/avs4.dir/output.c.o: CMakeFiles/avs4.dir/flags.make
 CMakeFiles/avs4.dir/output.c.o: ../output.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/avs4.dir/output.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/output.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/output.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/avs4.dir/output.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/output.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c
 
 CMakeFiles/avs4.dir/output.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/avs4.dir/output.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/output.c > CMakeFiles/avs4.dir/output.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c > CMakeFiles/avs4.dir/output.c.i
 
 CMakeFiles/avs4.dir/output.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/avs4.dir/output.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/output.c -o CMakeFiles/avs4.dir/output.c.s
-
-CMakeFiles/avs4.dir/surfaceArea.c.o: CMakeFiles/avs4.dir/flags.make
-CMakeFiles/avs4.dir/surfaceArea.c.o: ../surfaceArea.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/avs4.dir/surfaceArea.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/surfaceArea.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c
-
-CMakeFiles/avs4.dir/surfaceArea.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/avs4.dir/surfaceArea.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c > CMakeFiles/avs4.dir/surfaceArea.c.i
-
-CMakeFiles/avs4.dir/surfaceArea.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/avs4.dir/surfaceArea.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c -o CMakeFiles/avs4.dir/surfaceArea.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c -o CMakeFiles/avs4.dir/output.c.s
 
 CMakeFiles/avs4.dir/main.c.o: CMakeFiles/avs4.dir/flags.make
 CMakeFiles/avs4.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/avs4.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/main.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/avs4.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/avs4.dir/main.c.o   -c /mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c
 
 CMakeFiles/avs4.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/avs4.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/main.c > CMakeFiles/avs4.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c > CMakeFiles/avs4.dir/main.c.i
 
 CMakeFiles/avs4.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/avs4.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/main.c -o CMakeFiles/avs4.dir/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c -o CMakeFiles/avs4.dir/main.c.s
 
 # Object files for target avs4
 avs4_OBJECTS = \
 "CMakeFiles/avs4.dir/input.c.o" \
 "CMakeFiles/avs4.dir/inrnd.c.o" \
 "CMakeFiles/avs4.dir/output.c.o" \
-"CMakeFiles/avs4.dir/surfaceArea.c.o" \
 "CMakeFiles/avs4.dir/main.c.o"
 
 # External object files for target avs4
@@ -136,11 +122,10 @@ avs4_EXTERNAL_OBJECTS =
 ../bin/avs4: CMakeFiles/avs4.dir/input.c.o
 ../bin/avs4: CMakeFiles/avs4.dir/inrnd.c.o
 ../bin/avs4: CMakeFiles/avs4.dir/output.c.o
-../bin/avs4: CMakeFiles/avs4.dir/surfaceArea.c.o
 ../bin/avs4: CMakeFiles/avs4.dir/main.c.o
 ../bin/avs4: CMakeFiles/avs4.dir/build.make
 ../bin/avs4: CMakeFiles/avs4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable ../bin/avs4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ../bin/avs4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/avs4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -153,6 +138,6 @@ CMakeFiles/avs4.dir/clean:
 .PHONY : CMakeFiles/avs4.dir/clean
 
 CMakeFiles/avs4.dir/depend:
-	cd /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/zpris/CLionProjects/AVS-hw4 /mnt/c/Users/zpris/CLionProjects/AVS-hw4 /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/avs4.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/avs4.dir/depend
 

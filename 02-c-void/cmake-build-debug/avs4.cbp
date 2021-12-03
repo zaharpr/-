@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="avs4">
-				<Option output="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/bin/avs4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/../bin"/>
+				<Option output="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/bin/avs4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -50,15 +50,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 avs4"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 avs4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="avs4/fast">
-				<Option output="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/bin/avs4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/../bin"/>
+				<Option output="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/bin/avs4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -69,35 +69,35 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 avs4/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 avs4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/data.h">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/data.h">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/extdata.h">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/input.c">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/inrnd.c">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/main.c">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/output.c">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/sorting.asm">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/surfaceArea.asm">
 			<Option target="avs4"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/CMakeLists.txt">
+		<Unit filename="/mnt/c/Users/zpris/CLionProjects/AVS-hw4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

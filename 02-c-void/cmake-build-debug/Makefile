@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void
+CMAKE_SOURCE_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -231,33 +231,6 @@ output.c.s:
 	$(MAKE) -f CMakeFiles/avs4.dir/build.make CMakeFiles/avs4.dir/output.c.s
 .PHONY : output.c.s
 
-surfaceArea.o: surfaceArea.c.o
-
-.PHONY : surfaceArea.o
-
-# target to build an object file
-surfaceArea.c.o:
-	$(MAKE) -f CMakeFiles/avs4.dir/build.make CMakeFiles/avs4.dir/surfaceArea.c.o
-.PHONY : surfaceArea.c.o
-
-surfaceArea.i: surfaceArea.c.i
-
-.PHONY : surfaceArea.i
-
-# target to preprocess a source file
-surfaceArea.c.i:
-	$(MAKE) -f CMakeFiles/avs4.dir/build.make CMakeFiles/avs4.dir/surfaceArea.c.i
-.PHONY : surfaceArea.c.i
-
-surfaceArea.s: surfaceArea.c.s
-
-.PHONY : surfaceArea.s
-
-# target to generate assembly for a file
-surfaceArea.c.s:
-	$(MAKE) -f CMakeFiles/avs4.dir/build.make CMakeFiles/avs4.dir/surfaceArea.c.s
-.PHONY : surfaceArea.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -279,9 +252,6 @@ help:
 	@echo "... output.o"
 	@echo "... output.i"
 	@echo "... output.s"
-	@echo "... surfaceArea.o"
-	@echo "... surfaceArea.i"
-	@echo "... surfaceArea.s"
 .PHONY : help
 
 

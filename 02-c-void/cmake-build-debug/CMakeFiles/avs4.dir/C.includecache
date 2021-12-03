@@ -6,13 +6,45 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/extdata.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/data.h
 
-/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c
-memory.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/extdata.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c
+stdio.h
 -
 extdata.h
-/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/extdata.h
-math.h
-/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/math.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/extdata.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c
+stdlib.h
+-
+extdata.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/extdata.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+data.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/data.h
+extdata.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/extdata.h
+input.c
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c
+inrnd.c
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c
+output.c
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c
+stdio.h
+-
+extdata.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw4/extdata.h
 

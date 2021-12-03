@@ -1,0 +1,119 @@
+     1                                  
+     2                                  section .text
+     3                                  
+     4                                  extern memcpy
+     5                                  extern SurfaceAreaShape
+     6                                  
+     7                                  ; void ShellSort(void *c, int len)
+     8                                  ;     for (int d = len / 2; d > 0; d /= 2)
+     9                                  ;         for (int i = d; i < len; i++)
+    10                                  ;             for (int j = i; j >= d && SurfaceAreaShape(c + j * shape_size) < SurfaceAreaShape(c + (j - d) * shape_size); j -= d) {
+    11                                  ;                 void *tmp[shape_size];
+    12                                  ;                 memcpy(tmp, c + j * shape_size, shape_size);
+    13                                  ;                 memcpy(c + j * languageSize, c + (j - d) * (shape_size), shape_size);
+    14                                  ;                 memcpy(c + (j - d) * (shape_size), tmp, shape_size);
+    15                                  ;             }
+    16                                  
+    17                                  global ShellSort
+    18                                  ShellSort:
+    19 00000000 55                              push    rbp
+    20 00000001 4889E5                          mov     rbp, rsp
+    21 00000004 4883EC40                        sub     rsp, 64; двигаем стек для хранения переменных
+    22 00000008 48897DF8                        mov     [rbp - 8], rdi; сохраняем l
+    23 0000000C 8975F4                          mov     [rbp - 12], esi; сохраняем len
+    24 0000000F 8B45F4                          mov     eax, [rbp - 12]
+    25 00000012 B902000000                      mov     ecx, 2
+    26 00000017 99                              cdq     ; расширяем eax для деления
+    27 00000018 F7F9                            idiv    ecx
+    28 0000001A 8945F0                          mov     [rbp - 16], eax; сохраняем d
+    29                                  .first_loop:                                ; =>This Loop Header: Depth=1
+    30 0000001D 837DF000                        cmp     dword [rbp - 16], 0; если d <= 0
+    31 00000021 0F8E19010000                    jle     .leave_first_loop; заканчиваем
+    32 00000027 8B45F0                          mov     eax, [rbp - 16]
+    33 0000002A 8945EC                          mov     [rbp - 20], eax; сохраняем i
+    34                                  .second_loop:
+    35 0000002D 8B45EC                          mov     eax, [rbp - 20]
+    36 00000030 3B45F4                          cmp     eax, [rbp - 12]; если i >= d
+    37 00000033 0F8DF4000000                    jge     .step_first_loop
+    38 00000039 8B45EC                          mov     eax, [rbp - 20]
+    39 0000003C 8945E8                          mov     [rbp - 24], eax; j = i
+    40                                  .third_loop:
+    41 0000003F 8B45E8                          mov     eax, [rbp - 24]; j
+    42 00000042 3B45F0                          cmp     eax, [rbp - 16]; если j < d
+    43 00000045 0F8CD5000000                    jl      .step_second_loop
+    44 0000004B 488B7DF8                        mov     rdi, [rbp - 8]; кладем в первый аргумент l
+    45 0000004F 6B45E818                        imul    eax, [rbp - 24], 24; j * shape_size
+    46 00000053 4898                            cdqe
+    47 00000055 4801C7                          add     rdi, rax; c + j * shape_size
+    48 00000058 4883C704                        add     rdi, 4;  c + j * shape_size
+    49 0000005C E8(00000000)                    call    SurfaceAreaShape
+    50 00000061 F20F1145E0                      movsd   [rbp - 32], xmm0; сохраним SurfaceAreaShape(c + j * shape_size)
+    51 00000066 488B7DF8                        mov     rdi, [rbp - 8]; делаем все то же самое для c + (j - d) * shape_size
+    52 0000006A 8B45E8                          mov     eax, [rbp - 24]
+    53 0000006D 2B45F0                          sub     eax, [rbp - 16]
+    54 00000070 6BC018                          imul    eax, eax, 24
+    55 00000073 4898                            cdqe
+    56 00000075 4801C7                          add     rdi, rax
+    57 00000078 4883C704                        add     rdi, 4
+    58 0000007C E8(00000000)                    call    SurfaceAreaShape
+    59 00000081 F20F1145D8                      movsd   [rbp - 40], xmm0; сохраним SurfaceAreaShape(c + (j - d) * shape_size)
+    60 00000086 F20F1045E0                      movsd   xmm0, [rbp - 32]
+    61 0000008B 660F2E45D8                      ucomisd xmm0, [rbp - 40]; если cv1 < cv2
+    62 00000090 7205                            jb      .swap; меняем местами элементы
+    63 00000092 E989000000                      jmp     .step_second_loop; иначе начинаем заново
+    64                                  .swap:
+    65 00000097 488965D0                        mov     [rbp - 48], rsp; запомним место под tmp
+    66 0000009B 4889E7                          mov     rdi, rsp; первый аргумент - tmp
+    67 0000009E 4881C770FEFFFF                  add     rdi, -400
+    68 000000A5 48897DC8                        mov     [rbp - 56], rdi
+    69 000000A9 4889FC                          mov     rsp, rdi
+    70 000000AC 488B75F8                        mov     rsi, [rbp - 8]; c
+    71 000000B0 6B45E818                        imul    eax, [rbp - 24], 24; j * shape_size
+    72 000000B4 4898                            cdqe
+    73 000000B6 4801C6                          add     rsi, rax; второй аргумент - c + j * shape_size
+    74 000000B9 BA18000000                      mov     edx, 24; третий аргумент - shape_size
+    75 000000BE E8(00000000)                    call    memcpy; memcpy(tmp, c + j * shape_size, shape_size)
+    76 000000C3 488B7DF8                        mov     rdi, [rbp - 8]; c
+    77 000000C7 6B45E818                        imul    eax, [rbp - 24], 24; j * shape_size
+    78 000000CB 4898                            cdqe
+    79 000000CD 4801C7                          add     rdi, rax ; первый аргумет - c + j * shape_size
+    80 000000D0 488B75F8                        mov     rsi, [rbp - 8]; аналогичное вычисление c + (j - d) * (shape_size)
+    81 000000D4 8B45E8                          mov     eax, [rbp - 24]
+    82 000000D7 2B45F0                          sub     eax, [rbp - 16]
+    83 000000DA 6BC018                          imul    eax, eax, 24
+    84 000000DD 4898                            cdqe
+    85 000000DF 4801C6                          add     rsi, rax; второй аргумент - c + (j - d) * (shape_size)
+    86 000000E2 BA18000000                      mov     edx, 24; третий аргумент - shape_size
+    87 000000E7 E8(00000000)                    call    memcpy; memcpy(c + j * shape_size, c + (j - d) * (shape_size), shape_size)
+    88 000000EC 488B75C8                        mov     rsi, [rbp - 56]; полностью аналогичный вызов memcpy(c + (j - d) * (shape_size), tmp, shape_size);
+    89 000000F0 488B7DF8                        mov     rdi, [rbp - 8]
+    90 000000F4 8B45E8                          mov     eax, [rbp - 24]
+    91 000000F7 2B45F0                          sub     eax, [rbp - 16]
+    92 000000FA 6BC018                          imul    eax, eax, 24
+    93 000000FD 4898                            cdqe
+    94 000000FF 4801C7                          add     rdi, rax
+    95 00000102 BA18000000                      mov     edx, 24
+    96 00000107 E8(00000000)                    call    memcpy; memcpy(c + (j - d) * (shape_size), tmp, shape_size);
+    97                                  .third_loop_step:
+    98 0000010C 8B4DF0                          mov     ecx, [rbp - 16]; d
+    99 0000010F 8B45E8                          mov     eax, [rbp - 24]; j
+   100 00000112 29C8                            sub     eax, ecx; j - d
+   101 00000114 8945E8                          mov     [rbp - 24], eax; j = j - d;
+   102 00000117 488B65D0                        mov     rsp, [rbp - 48]; возвращаем стек обратно
+   103 0000011B E91FFFFFFF                      jmp     .third_loop
+   104                                  .step_second_loop:
+   105 00000120 8B45EC                          mov     eax, [rbp - 20]; i
+   106 00000123 FFC0                            inc     eax; i + 1
+   107 00000125 8945EC                          mov     [rbp - 20], eax; i = i + 1
+   108 00000128 E900FFFFFF                      jmp     .second_loop
+   109                                  .step_first_loop:
+   110 0000012D 8B45F0                          mov     eax, [rbp - 16]; d
+   111 00000130 B902000000                      mov     ecx, 2
+   112 00000135 99                              cdq
+   113 00000136 F7F9                            idiv    ecx ; d / 2
+   114 00000138 8945F0                          mov     [rbp - 16], eax; d /= 2;
+   115 0000013B E9DDFEFFFF                      jmp     .first_loop
+   116                                  .leave_first_loop:
+   117 00000140 4889EC                          mov     rsp, rbp
+   118 00000143 5D                              pop     rbp
+   119 00000144 C3                              ret

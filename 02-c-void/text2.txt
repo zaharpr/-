@@ -1,0 +1,12 @@
+Sorted container:
+Container contains 10 elements.
+0: It is Parallelepiped: a = 12, b = 12, c = 16, density = 5.922203. SurfaceArea = 0.000000
+1: It is Parallelepiped: a = 17, b = 13, c = 13, density = 9.557145. SurfaceArea = 0.000000
+2: It is Sphere: r = 13, density = 3.262333. SurfaceArea = 0.000000
+3: It is Parallelepiped: a = 5, b = 1, c = 1, density = 19.171480. SurfaceArea = 0.000000
+4: It is Sphere: r = 5, density = 1.904144. SurfaceArea = 0.000000
+5: It is Sphere: r = 9, density = 12.383893. SurfaceArea = 0.000000
+6: It is Parallelepiped: a = 5, b = 16, c = 18, density = 13.106408. SurfaceArea = 0.000000
+7: It is Sphere: r = 19, density = 7.919769. SurfaceArea = 0.000000
+8: It is Sphere: r = 3, density = 14.680340. SurfaceArea = 0.000000
+9: It is Parallelepiped: a = 0, b = 15, c = 10, density = 5.147929. SurfaceArea = 0.000000

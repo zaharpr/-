@@ -36,25 +36,21 @@ double SurfaceAreaShape(void *s) {
         return 0.0;
     }
 }
-
-// Сортировка Шелла по убыванию.
-void ShellSort(void *cont, int len) {
-    int i, j, k;
-    void *temp;
-    for (i = len / 2; i > 0; i = i / 2) {
-        for (j = i; j < len; j++) {
-            for (k = j - i; k >= 0; k = k - i) {
-                void *first = cont + (shapeSize * (k + i));
-                void *second = cont + (shapeSize * k);
-                if (SurfaceAreaShape(first) <= SurfaceAreaShape(second)) {
-                    break;
-                } else {
-                    char temp[shapeSize];
-                    memcpy(temp, second, shapeSize);
-                    memcpy(second, first, shapeSize);
-                    memcpy(first, temp, shapeSize);
-                }
-            }
-        }
-    }
-}
+//
+//// Сортировка Шелла по убыванию.
+//void ShellSort(void *cont, int len) {
+//    for (int i = len / 2; i > 0; i = i / 2) {
+//        for (int j = i; j < len; j++) {
+//            for (int k = j - i; k >= 0; k = k - i) {
+//                void *first = cont + shapeSize * (k + i);
+//                void *second = cont + shapeSize * (k);
+//                if (SurfaceAreaShape(first) > SurfaceAreaShape(second)) {
+//                    void *temp[shapeSize];
+//                    memcpy(temp, second, shapeSize);
+//                    memcpy(second, first, shapeSize);
+//                    memcpy(first, temp, shapeSize);
+//                } else { break; }
+//            }
+//        }
+//    }
+//}

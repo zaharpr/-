@@ -3,13 +3,12 @@
 //------------------------------------------------------------------------------
 
 #include <stdio.h>
-
-#include "extdata.h"
+#include "data.h"
 
 // Ввод параметров параллелепипеда из файла.
 void InParallelepiped(void *r, FILE *ifst) {
     fscanf(ifst, "%lf%d%d%d", (double *) r, (int *) (r + doubleSize), (int *) (r + doubleSize + intSize),
-           (int *) (r + doubleSize + 2 * intSize));
+           (int *) (r + doubleSize + intSize + intSize));
 }
 
 // Ввод параметров тетраэдра из файла.

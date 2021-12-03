@@ -4,11 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/input.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/input.c.o"
-  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/inrnd.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/inrnd.c.o"
-  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/main.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/main.c.o"
-  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/output.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/output.c.o"
-  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/surfaceArea.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/02-c-void/cmake-build-debug/CMakeFiles/avs4.dir/surfaceArea.c.o"
+  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/input.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/avs4.dir/input.c.o"
+  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/inrnd.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/avs4.dir/inrnd.c.o"
+  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/main.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/avs4.dir/main.c.o"
+  "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/output.c" "/mnt/c/Users/zpris/CLionProjects/AVS-hw4/cmake-build-debug/CMakeFiles/avs4.dir/output.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

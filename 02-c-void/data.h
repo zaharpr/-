@@ -14,7 +14,7 @@ int const intSize = sizeof(int);
 // Константа, определяющая размер дробного числа.
 int const doubleSize = sizeof(double);
 // Константа, задающая размер для параллелепипеда.
-int const paralSize = doubleSize + 3 * intSize;
+int const paralSize = doubleSize + intSize + intSize + intSize;
 // Константа, задающая размер для тетраэдра.
 int const tetrSize = doubleSize + intSize;
 // Константа, задающая размер для шара.
@@ -39,6 +39,15 @@ void InRndContainer(void *c, int *len, int size);
 // Вывод содержимого контейнера в файл.
 void OutContainer(void *c, int len, FILE *ofst);
 
-void ShellSort(void *cont, int len);
+// Сортировка Шелла по убыванию.
+extern void ShellSort(void *cont, int len);
+
+extern double SurfaceAreaParallelepiped(void *p);
+
+extern double SurfaceAreaTetrahedron(void *t);
+
+extern double SurfaceAreaSphere(void *s);
+
+extern double SurfaceAreaShape(void *s);
 
 #endif

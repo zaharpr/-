@@ -1,0 +1,104 @@
+     1                                  ;----------------------------------------------------------------------------------------
+     2                                  ; surfaceArea.asm - единица компиляции, вбирающая функции вычисления площади поверхности.
+     3                                  ;----------------------------------------------------------------------------------------
+     4                                  
+     5                                  extern PARALLELEPIPED
+     6                                  extern SPHERE
+     7                                  extern TETRAHEDRON
+     8                                  
+     9                                  global SurfaceAreaParallelepiped
+    10                                  SurfaceAreaParallelepiped:
+    11                                  section .text
+    12 00000000 55                      push rbp
+    13 00000001 4889E5                  mov rbp, rsp
+    14                                  
+    15                                      ; В rdi адрес параллелепипеда.
+    16 00000004 8B4708                      mov eax, [rdi+8]
+    17                                  
+    18 00000007 0FAF470C                    imul eax, [rdi+12]
+    19 0000000B 8B5F08                      mov ebx, [rdi+8]
+    20 0000000E 0FAF5F10                    imul ebx, [rdi+16]
+    21 00000012 01D8                        add eax, ebx
+    22 00000014 8B5F10                      mov ebx, [rdi+16]
+    23 00000017 0FAF5F0C                    imul ebx, [rdi+12]
+    24 0000001B 01D8                        add eax, ebx
+    25 0000001D 6BC002                      imul eax, 2
+    26                                  
+    27 00000020 C9                      leave
+    28 00000021 C3                      ret
+    29                                  
+    30                                  global SurfaceAreaTetrahedron
+    31                                  SurfaceAreaTetrahedron:
+    32                                  section .data
+    33 00000000 0400000000000000        .i4     dq      4
+    34                                  section .text
+    35 00000022 55                      push rbp
+    36 00000023 4889E5                  mov rbp, rsp
+    37                                  
+    38                                      ; В rdi адрес тетраэдра.
+    39 00000026 8B4708                      mov eax, [rdi+8]
+    40 00000029 89C3                        mov ebx, eax
+    41 0000002B 0FAFC3                      imul eax, ebx
+    42 0000002E 6BC002                      imul eax, 2
+    43 00000031 48F73C25[00000000]          idiv qword[.i4]
+    44 00000039 89D0                        mov eax, edx
+    45                                  
+    46 0000003B C9                      leave
+    47 0000003C C3                      ret
+    48                                  
+    49                                  global SurfaceAreaSphere
+    50                                  SurfaceAreaSphere:
+    51                                  section .text
+    52 0000003D 55                      push rbp
+    53 0000003E 4889E5                  mov rbp, rsp
+    54                                  
+    55                                      ; В rdi адрес шара.
+    56 00000041 8B4708                      mov eax, [rdi+8]
+    57 00000044 89C3                        mov ebx, eax
+    58 00000046 0FAFC3                      imul eax, ebx
+    59 00000049 6BC003                      imul eax, 3
+    60 0000004C 6BC004                      imul eax, 4
+    61                                  
+    62 0000004F C9                      leave
+    63 00000050 C3                      ret
+    64                                  
+    65                                  global SurfaceAreaShape
+    66                                  SurfaceAreaShape:
+    67                                  section .text
+    68 00000051 55                      push rbp
+    69 00000052 4889E5                  mov rbp, rsp
+    70                                  
+    71                                      ; В rdi адрес фигуры
+    72 00000055 8B07                        mov eax, [rdi]
+    73 00000057 3B0425[00000000]            cmp eax, [PARALLELEPIPED]
+    74 0000005E 741A                        je .paralSurfaceArea
+    75 00000060 3B0425[00000000]            cmp eax, [TETRAHEDRON]
+    76 00000067 741C                        je .tetrSurfaceArea
+    77 00000069 3B0425[00000000]            cmp eax, [SPHERE]
+    78 00000070 741E                        je .sphereSurfaceArea
+    79 00000072 31C0                        xor eax, eax
+    80 00000074 F20F2AC0                    cvtsi2sd    xmm0, eax
+    81 00000078 EB21                        jmp     .return
+    82                                  
+    83                                  .paralSurfaceArea:
+    84                                      ; Вычисление площади поверхности параллелепипеда.
+    85 0000007A 4883C704                    add     rdi, 4
+    86 0000007E E87DFFFFFF                  call    SurfaceAreaParallelepiped
+    87 00000083 EB16                        jmp     .return
+    88                                  
+    89                                  .tetrSurfaceArea:
+    90                                      ; Вычисление площади поверхности тетраэдра.
+    91 00000085 4883C704                    add     rdi, 4
+    92 00000089 E894FFFFFF                  call    SurfaceAreaTetrahedron
+    93 0000008E EB0B                        jmp     .return
+    94                                  
+    95                                  .sphereSurfaceArea:
+    96                                      ; Вычисление площади поверхности шара.
+    97 00000090 4883C704                    add     rdi, 4
+    98 00000094 E8A4FFFFFF                  call    SurfaceAreaSphere
+    99 00000099 EB00                        jmp     .return
+   100                                  
+   101                                  .return:
+   102                                  
+   103 0000009B C9                      leave
+   104 0000009C C3                      ret

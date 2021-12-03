@@ -11,17 +11,17 @@ set(BINARY_DIR "${CMAKE_BINARY_DIR}")
 
 # Source files list
 set(SOURCE_FILES
-    # Headers
-    data.h
-    extdata.h
+        # Headers
+        data.h
 
-    # Sources
-    input.c
-    inrnd.c
-    output.c
-        surfaceArea.c
-    main.c
-)
+        # Sources
+        input.c
+        inrnd.c
+        output.c
+        sorting.asm
+        surfaceArea.asm
+        main.c
+        )
 
 add_executable(avs4 ${SOURCE_FILES})
 
