@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/needle.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/workers/worker.cpp
+worker.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/workers/worker.h
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/workers/worker.h
+condition_variable
+-
+queue
+-
+thread
+-
+functional
+-
+../needle.h
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/needle.h
+

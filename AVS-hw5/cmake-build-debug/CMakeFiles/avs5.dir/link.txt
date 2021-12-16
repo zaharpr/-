@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/avs5.dir/main.cpp.o CMakeFiles/avs5.dir/workers/worker.cpp.o CMakeFiles/avs5.dir/workers/firstWorker.cpp.o CMakeFiles/avs5.dir/workers/secondWorker.cpp.o CMakeFiles/avs5.dir/workers/thirdWorker.cpp.o  -o avs5  -pthread 

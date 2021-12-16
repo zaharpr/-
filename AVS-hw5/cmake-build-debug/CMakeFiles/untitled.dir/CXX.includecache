@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/zpris/CLionProjects/AVS-hw5/main.cpp
+functional
+-
+iostream
+-
+queue
+-
+random
+-
+thread
+-
+condition_variable
+-
+mutex
+-
+
